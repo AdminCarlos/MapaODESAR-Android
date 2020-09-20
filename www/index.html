@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="user-scalable=yes, initial-scale=1, width=device-width, viewport-fit=cover">
+    <link rel='stylesheet' href='css/jqueryMobileUI.min.css'>
+    <link rel='stylesheet' href='css/customcss.css'>
+
+    <script src="scripts/jquery.js"></script>
+
+    <script>
+        $(document).on('mobileinit', function () {
+            $.mobile.ignoreContentEnabled = true;
+        });
+    </script>
+
+    <script src="scripts/jqueryMobile.js"></script>
+
+    <script src="scripts/pinch-zoom.umd.js"></script>
+
+    <title>Mapa ODESAR</title>
+
+</head>
+
+<body>
+
+    <div id="panelGlobal" data-enhance="false">
+
+        <div id="containerButtons" data-enhance="false">
+
+            <button class="panelButton" id="buttonZoom"><img src="img/mas.png" ></button>
+
+            <button class="panelButton" id="buttonUnzoom"><img src="img/menos.png"></button>
+
+            <button class="panelButton" id="buttonOpenLeyendas"><img src="img/leyenda.png"></button>
+
+        </div>
+
+    </div>
+
+    <div id="divLeyendas" class="modal" data-enhance="false">
+
+        <div id="modalLeyendas">
+
+            <p>Hola mundo</p>
+
+        </div>
+
+    </div>
+
+    <div id="divMainPage" class="divMainUI" >
+
+        <img src="img/mapa.png">
+
+    </div>
+
+    <script type=" text/javascript" src="cordova.js"></script>
+
+    <script type="text/javascript" src="scripts/index.js"></script>
+
+</body>
+
+</html>
