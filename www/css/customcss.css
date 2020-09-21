@@ -76,6 +76,19 @@ overflow: auto;
 
 }
 
+#modalLeyendasTitulo{
+    text-align: right;
+}
+
+#closeModalButton{
+    background-color: rgb(187, 10, 10);
+    padding: 0 0.3em 0 0.3em;
+    outline: none;
+    border: none;
+    border-bottom: solid;
+    border-bottom-color: rgba(0, 0, 0, 0.0);
+    color: white;
+}
 #imgMapa {
 
     object-fit: cover;

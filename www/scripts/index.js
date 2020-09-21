@@ -30,7 +30,9 @@ new PinchZoom.default(el, {});
     function onResume() {
 
     };
-
+    document.getElementById("closeModalButton").addEventListener('click',Event =>{
+        $("#divLeyendas").css("display","none");
+    })
 var zoomLevel= 100;
 var viewportX = document.documentElement.clientWidth;
 var viewportY = document.documentElement.clientHeight;
