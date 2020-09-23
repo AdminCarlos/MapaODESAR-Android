@@ -1,69 +1,133 @@
 <!DOCTYPE html>
-
-<html>
+<html lang="en">
 
 <head>
 
-    <meta name="format-detection" content="telephone=no">
-    <meta name="msapplication-tap-highlight" content="no">
-    <meta name="viewport" content="user-scalable=yes, initial-scale=1, width=device-width, viewport-fit=cover">
-    <link rel='stylesheet' href='css/jqueryMobileUI.min.css'>
-    <link rel='stylesheet' href='css/customcss.css'>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
-    <script src="scripts/jquery.js"></script>
+    <title>Mapa Trucho</title>
 
-    <script>
-        $(document).on('mobileinit', function () {
-            $.mobile.ignoreContentEnabled = true;
-        });
-    </script>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
-    <script src="scripts/jqueryMobile.js"></script>
+    <!-- Custom CSS -->
+    <link href="css/business-casual.css" rel="stylesheet">
 
-    <script src="scripts/pinch-zoom.umd.js"></script>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Slab:100,300,400,600,700,100italic,300italic,400italic,600italic,700italic" rel="stylesheet" type="text/css">
 
-    <title>Mapa ODESAR</title>
 
 </head>
 
 <body>
 
-    <div id="panelGlobal" data-enhance="false">
+    <div class="brand">Mapa Trucho</div>
 
-        <div id="containerButtons" data-enhance="false">
+    <!-- Navigation -->
+    <nav class="navbar navbar-default" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
+                <a class="navbar-brand" href="index.html">Mapa Trucho</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="mapa.html">Mapa</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
 
-            <button class="panelButton" id="buttonZoom"><img src="img/mas.png" ></button>
+    <div class="container">
 
-            <button class="panelButton" id="buttonUnzoom"><img src="img/menos.png"></button>
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12 text-center">
+                    <h2 class="brand-before">
+                        <small>Mapa Biocultural de Matagalpa</small>
+                    </h2>
+                    <h1 class="brand-name">Mapa Trucho</h1>
+                    <hr class="tagline-divider">
+                </div>
+            </div>
+        </div>
 
-            <button class="panelButton" id="buttonOpenLeyendas"><img src="img/leyenda.png"></button>
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Build a website
+                        <strong>worth visiting</strong>
+                    </h2>
+                    <hr>
+                    <img class="img-responsive img-border img-left" src="img/intro-pic.jpg" alt="">
+                    <hr class="visible-xs">
+                    <p>The boxes used in this template are nested inbetween a normal Bootstrap row and the start of your column layout. The boxes will be full-width boxes, so if you want to make them smaller then you will need to customize.</p>
+                    <p>A huge thanks to <a href="http://join.deathtothestockphoto.com/" target="_blank">Death to the Stock Photo</a> for allowing us to use the beautiful photos that make this template really come to life. When using this template, make sure your photos are decent. Also make sure that the file size on your photos is kept to a minumum to keep load times to a minimum.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                </div>
+            </div>
+        </div>
 
+        <div class="row">
+            <div class="box">
+                <div class="col-lg-12">
+                    <hr>
+                    <h2 class="intro-text text-center">Beautiful boxes
+                        <strong>to showcase your content</strong>
+                    </h2>
+                    <hr>
+                    <p>Use as many boxes as you like, and put anything you want in them! They are great for just about anything, the sky's the limit!</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat diam quis nisl vestibulum dignissim. In hac habitasse platea dictumst. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+                </div>
+            </div>
         </div>
 
     </div>
+    <!-- /.container -->
 
-    <div id="divLeyendas" class="modal" data-enhance="false">
-
-        <div id="modalLeyendas">
-            <div id="modalLeyendasTitulo">
-                <button id="closeModalButton">&#10005;</button>
-            </div>
-            <div id="modalLeyendasCuerpo">
-                <p>Hola Mundo</p>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p>Copyright &copy; by Soluciones Informatica Matagalpa</p>
+                </div>
             </div>
         </div>
+    </footer>
 
-    </div>
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
 
-    <div id="divMainPage" class="divMainUI" >
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
 
-        <img src="img/mapa.png">
-
-    </div>
-
-    <script type=" text/javascript" src="cordova.js"></script>
-
-    <script type="text/javascript" src="scripts/index.js"></script>
+    <!-- Script to Activate the Carousel -->
+    <script>
+    $('.carousel').carousel({
+        interval: 5000 //changes the speed
+    })
+    </script>
 
 </body>
 
