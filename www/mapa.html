@@ -89,6 +89,19 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
+    <!-- Biblioteca para zoom -->
+    <script src="js/panzoom.js"></script>
+
+    <!-- Script Local -->
+    <script>
+        const elem = document.getElementById('divMapa')
+        const panzoom = Panzoom(elem, {
+            maxScale: 5
+        })
+        panzoom.pan(10, 10)
+        panzoom.zoom(3, { animate: true })
+    </script>
+
 </body>
 
 </html>
