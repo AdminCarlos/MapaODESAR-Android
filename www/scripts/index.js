@@ -1,5 +1,10 @@
-﻿var el = document.getElementById("divMainPage");
-new PinchZoom.default(el, {});
+﻿var elem = document.getElementById('divContainerMapa');
+
+var panzoom = Panzoom(elem, {
+    maxScale: 5
+});
+
+var zoomLevel = 1;
 
 (function () {
     "use strict";
@@ -33,14 +38,9 @@ new PinchZoom.default(el, {});
     document.getElementById("closeModalButton").addEventListener('click',Event =>{
         $("#divLeyendas").css("display","none");
     })
-var zoomLevel= 100;
-var viewportX = document.documentElement.clientWidth;
-var viewportY = document.documentElement.clientHeight;
+
 
     function setControls() {
-
-
-
         
         $("#buttonOpenLeyendas").click(function() {
 
@@ -50,13 +50,13 @@ var viewportY = document.documentElement.clientHeight;
 
         $("#buttonZoom").click(function() {
 
-            
+            zoom();
             
         });
 
         $("#buttonUnzoom").click(function() {
 
-            
+            unzoom();
 
         });
 
@@ -68,6 +68,20 @@ var viewportY = document.documentElement.clientHeight;
 
     }
 
-    
+    function zoom() {
+
+        zoomLevel += 0.1;
+        panzoom.zoom(zoomLevel, {animate: true});
+        console.log(zoomLevel);
+
+    }
+
+    function unzoom() {
+
+        zoomLevel -= 0.1;
+        panzoom.zoom(zoomLevel, {animate: true});
+        console.log(zoomLevel);
+
+    }
 
 })();
