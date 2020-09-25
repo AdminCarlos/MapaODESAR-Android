@@ -4,7 +4,11 @@ var panzoom = Panzoom(elem, {
     maxScale: 5
 });
 
-var zoomLevel = 1;
+elem.addEventListener('panzoomzoom', (event) => {
+
+    console.log("Panzoom Scale Level: " + panzoom.getScale());
+    
+}); 
 
 (function () {
     "use strict";
@@ -70,17 +74,13 @@ var zoomLevel = 1;
 
     function zoom() {
 
-        zoomLevel += 0.1;
-        panzoom.zoom(zoomLevel, {animate: true});
-        console.log(zoomLevel);
+        panzoom.zoom(panzoom.getScale() + 0.1, {animate: true});
 
     }
 
     function unzoom() {
 
-        zoomLevel -= 0.1;
-        panzoom.zoom(zoomLevel, {animate: true});
-        console.log(zoomLevel);
+        panzoom.zoom(panzoom.getScale() - 0.1, {animate: true});
 
     }
 
