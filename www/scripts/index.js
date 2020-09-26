@@ -60,7 +60,7 @@ elem.addEventListener('panzoomzoom', (event) => {
 
     };
     document.getElementById("closeModalButton").addEventListener('click',Event =>{
-        $("#divLeyendas").css("display","none");
+        $("#divLeyendas").slideUp();
     })
 
 
@@ -88,7 +88,7 @@ elem.addEventListener('panzoomzoom', (event) => {
 
     function openLeyendas() {
 
-        $("#divLeyendas").css("display","block");
+        $("#divLeyendas").slideDown();
 
     }
 
