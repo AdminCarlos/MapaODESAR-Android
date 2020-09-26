@@ -1,7 +1,9 @@
 ﻿var elem = document.getElementById('divContainerMapa');
 
 var panzoom = Panzoom(elem, {
-    maxScale: 7
+    maxScale: 7,
+    minScale: 1,
+    step: 0.5
 });
 panzoom.zoom(5, {animate: true});
 
