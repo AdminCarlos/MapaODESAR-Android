@@ -1,12 +1,33 @@
 ﻿var elem = document.getElementById('divContainerMapa');
 
 var panzoom = Panzoom(elem, {
-    maxScale: 5
+    maxScale: 7
 });
+panzoom.zoom(5, {animate: true});
 
 elem.addEventListener('panzoomzoom', (event) => {
 
     console.log("Panzoom Scale Level: " + panzoom.getScale());
+
+    if (panzoom.getScale() >= 5 &&  panzoom.getScale() <= 7) {
+
+        $("#imgMapa").attr("src", "img/mapahdpi.png");
+        console.log("Mapa HDPI loaded!");
+
+    }
+
+    else if (panzoom.getScale() >= 3 &&  panzoom.getScale() <= 5) {
+
+        $("#imgMapa").attr("src", "img/mapamdpi.png");
+        console.log("Mapa MDPI loaded!");
+
+    }
+
+    else {
+
+        $("#imgMapa").attr("src", "img/mapaldpi.png");
+        console.log("Mapa LDPI loaded!");
+    }
 }); 
 
 (function () {
@@ -73,13 +94,13 @@ elem.addEventListener('panzoomzoom', (event) => {
 
     function zoom() {
 
-        panzoom.zoom(panzoom.getScale() + 0.1, {animate: true});
+        panzoom.zoom(panzoom.getScale() + 1, {animate: true});
 
     }
 
     function unzoom() {
 
-        panzoom.zoom(panzoom.getScale() - 0.1, {animate: true});
+        panzoom.zoom(panzoom.getScale() - 1, {animate: true});
 
     }
 
