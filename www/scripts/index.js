@@ -102,13 +102,13 @@ elem.addEventListener('panzoomzoom', (event) => {
 
     function zoom() {
 
-        panzoom.zoom(panzoom.getScale() + 1, {animate: true});
+        panzoom.zoom(panzoom.getScale() + 0.5, {animate: true});
 
     }
 
     function unzoom() {
 
-        panzoom.zoom(panzoom.getScale() - 1, {animate: true});
+        panzoom.zoom(panzoom.getScale() - 0.5, {animate: true});
 
     }
 

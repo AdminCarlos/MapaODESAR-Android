@@ -18,6 +18,7 @@
     <platform name="android">
         <allow-intent href="market:*" />
         <preference name="SplashScreenDelay" value="8000" />
+        <preference name="ShowSplashScreenSpinner" value="false"/>
         <splash src="www/img/splashscreen.png" density="port-hdpi"/>
         <splash src="www/img/splashscreen.png" density="port-ldpi"/>
         <splash src="www/img/splashscreen.png" density="port-mdpi"/>
