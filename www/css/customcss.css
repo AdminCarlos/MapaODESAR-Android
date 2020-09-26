@@ -9,6 +9,7 @@
     display: block;
     position: fixed;
     height: fit-content;
+    width: 15%;
     position: fixed;
     z-index: 5;
     background-color: rgba(255, 255, 255, 0.5);
@@ -61,40 +62,44 @@
 .modal {
 
     display: none;
-    width: 90%;
+    width: 80%;
     height: 90%;
-    overflow: auto;
     position: fixed;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
     z-index: 6;
-    background-color: rgb(230, 230, 230)
+    background-color: rgb(230, 230, 230);
+    border-radius: 5vw;
+    border-style: solid;
+    border-color: black;
+    overflow: auto;
 }
 
-#modalLeyendas {
+#modalLeyendasTitulo{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    width: 100%;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+#modalLeyendasCuerpo {
 
     padding: 2vh 2vw 2vh 2vw;
 
 }
 
-#modalLeyendasTitulo{
-    text-align: right;
-}
-
-#closeModalButton{
-    background-color: rgb(187, 10, 10);
-    padding: 0 0.3em 0 0.3em;
-    outline: none;
-    border: none;
-    border-bottom: solid;
-    border-bottom-color: rgba(0, 0, 0, 0.0);
-    color: white;
-}
 
 #divMainPage {
 
-    background-color: red;
+    background-color: white;
 
 }
 
