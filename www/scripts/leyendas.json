@@ -13,11 +13,23 @@
         {"rutaIcono": "img/iconografias/jaleas y vinos.svg", "Descripcion": "Jaleas y vinos"},
         {"rutaIcono": "img/iconografias/medicina natural.svg", "Descripcion": "Medicina Natural"},
         {"rutaIcono": "img/iconografias/musicos.svg", "Descripcion": "Musicos"},
-        {"rutaIcono": "img/iconografias/panaderia.svg", "Descripcion": "Panaderias"},
-        {"rutaIcono": "img/iconografias/partera.svg", "Descripcion": "Parteras"},
-        {"rutaIcono": "img/iconografias/sobadores (2).svg", "Descripcion": "Sobadores"},
-        {"rutaIcono": "img/iconografias/telares.svg", "Descripcion": "Telares"}
-        
+        {"rutaIcono": "img/iconografias/panaderia.svg", "Descripcion": "Panaderia"},
+        {"rutaIcono": "img/iconografias/partera.svg", "Descripcion": "Partera"},
+        {"rutaIcono": "img/iconografias/sobadores (2).svg", "Descripcion": "Sobador"},
+        {"rutaIcono": "img/iconografias/telares.svg", "Descripcion": "Telares"},
+        {"rutaIcono": "img/iconografias/cerroymontañas.svg", "Descripcion": "Cerro"},
+        {"rutaIcono": "img/iconografias/cuevas.svg", "Descripcion": "Cueva"},
+        {"rutaIcono": "img/iconografias/lagunas.svg", "Descripcion": "Laguna"},
+        {"rutaIcono": "img/iconografias/material ceramico.svg", "Descripcion": "Material cerámico"},
+        {"rutaIcono": "img/iconografias/medicina natural.svg", "Descripcion": "Medicina Natural"},
+        {"rutaIcono": "img/iconografias/telares.svg", "Descripcion": "Telares"},
+        {"rutaIcono": "img/iconografias/MS.svg", "Descripcion": "Material Superficial"},
+        {"rutaIcono": "img/iconografias/peñas y peñazcos.svg", "Descripcion": "Peña"},
+        {"rutaIcono": "img/iconografias/petrograbados.svg", "Descripcion": "Petrograbado"},
+        {"rutaIcono": "img/iconografias/reserva natural.svg", "Descripcion": "Reserva Natural"},
+        {"rutaIcono": "img/iconografias/rios y quebradas.svg", "Descripcion": "Rio o quebrada"},
+        {"rutaIcono": "img/iconografias/saltos y cascadas.svg", "Descripcion": "Salto o cascada"},
+        {"rutaIcono": "img/iconografias/veta.svg", "Descripcion": "Veta"}
 
     ]
 
