@@ -1,3 +1,10 @@
+.divMainUI {
+    
+    width: 100vw;
+    height: 100vh;
+
+}
+
 #panelGlobal {
     display: block;
     position: fixed;
@@ -85,3 +92,14 @@
     color: white;
 }
 
+#divMainPage {
+
+    background-color: red;
+
+}
+
+#imgMapa {
+
+    width: 100vw;
+
+}

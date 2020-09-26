@@ -7,7 +7,6 @@ var panzoom = Panzoom(elem, {
 elem.addEventListener('panzoomzoom', (event) => {
 
     console.log("Panzoom Scale Level: " + panzoom.getScale());
-    
 }); 
 
 (function () {
