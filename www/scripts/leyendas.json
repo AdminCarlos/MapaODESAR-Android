@@ -4,18 +4,19 @@
 
         {"rutaIcono": "img/iconografias/artesanias de bambu (2).svg", "Descripcion": "Artesanias de bambu"},
         {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"},
-        {"rutaIcono": "img/iconografias/bisuteria.svg", "Descripcion": "Bisuteria"}
+        {"rutaIcono": "img/iconografias/canastos.svg", "Descripcion": "Canastos"},
+        {"rutaIcono": "img/iconografias/carpintero.svg", "Descripcion": "Carpintero"},
+        {"rutaIcono": "img/iconografias/costurera.svg", "Descripcion": "Costurera"},
+        {"rutaIcono": "img/iconografias/dulces y cajetas.svg", "Descripcion": "Dulces y cajetas"},
+        {"rutaIcono": "img/iconografias/elaboracion de instrumentos musicales.svg", "Descripcion": "Elaboración de instrumentos musicales"},
+        {"rutaIcono": "img/iconografias/elaboracion ladrillos.svg", "Descripcion": "Elaboración de ladrillos"},
+        {"rutaIcono": "img/iconografias/jaleas y vinos.svg", "Descripcion": "Jaleas y vinos"},
+        {"rutaIcono": "img/iconografias/medicina natural.svg", "Descripcion": "Medicina Natural"},
+        {"rutaIcono": "img/iconografias/musicos.svg", "Descripcion": "Musicos"},
+        {"rutaIcono": "img/iconografias/panaderia.svg", "Descripcion": "Panaderias"},
+        {"rutaIcono": "img/iconografias/partera.svg", "Descripcion": "Parteras"},
+        {"rutaIcono": "img/iconografias/sobadores (2).svg", "Descripcion": "Sobadores"},
+        {"rutaIcono": "img/iconografias/telares.svg", "Descripcion": "Telares"}
         
 
     ]
