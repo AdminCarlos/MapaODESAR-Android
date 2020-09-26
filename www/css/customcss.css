@@ -78,8 +78,8 @@
 
 #modalLeyendasTitulo{
     position: -webkit-sticky;
-  position: sticky;
-  top: 0;
+    position: sticky;
+    top: 0;
     display: block;
     text-align: center;
     text-decoration: none;
@@ -96,6 +96,21 @@
 
 }
 
+.modalLeyendasRow {
+
+    display: grid;
+    grid-template-columns: 30% 70%;
+    text-align: center;
+
+}
+
+.modalLeyendasRowIcon {
+
+    display: block;
+    width: 60%;
+    margin: auto auto auto auto;
+
+}
 
 #divMainPage {
 

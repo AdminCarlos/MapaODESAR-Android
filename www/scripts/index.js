@@ -94,6 +94,31 @@ elem.addEventListener('panzoomzoom', (event) => {
 
         $("#divLeyendas").slideDown();
 
+        $.ajax({
+            type: "POST",
+            url: "scripts/leyendas.json",
+            data: {},
+            cache: false,
+            success: function (data) {
+
+                var array = JSON.parse(data);
+
+                $("#modalLeyendasCuerpo").empty();
+
+                for(var i = 0; i < array.leyendas.length; i++) {
+
+                    $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p>" + array.leyendas[i].Descripcion + "</p> </div>");
+
+                }
+
+            },
+            error: function () {
+
+                alert("error");
+
+            }
+        })
+
     }
 
     function closeLeyendas() {
