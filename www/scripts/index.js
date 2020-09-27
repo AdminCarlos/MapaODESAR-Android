@@ -6,37 +6,12 @@ var mapHeight = $("#divContainerMapa").height();
 var panzoom = Panzoom(elem, {
     maxScale: 7,
     minScale: 1,
-    step: 0.5
+    step: 0.5,
+    startScale: 5
 });
 
-panzoom.zoom(1, {animate: true});
 
 var oldScale = panzoom.getScale();
-
-elem.addEventListener('panzoomzoom', (event) => {
-
-    console.log("Panzoom Scale Level: " + panzoom.getScale());
-
-    if (panzoom.getScale() >= 5 &&  panzoom.getScale() <= 7) {
-
-        $("#imgMapa").attr("src", "img/mapahdpi.png");
-        console.log("Mapa HDPI loaded!");
-
-    }
-
-    else if (panzoom.getScale() >= 3 &&  panzoom.getScale() <= 5) {
-
-        $("#imgMapa").attr("src", "img/mapamdpi.png");
-        console.log("Mapa MDPI loaded!");
-
-    }
-
-    else {
-
-        $("#imgMapa").attr("src", "img/mapaldpi.png");
-        console.log("Mapa LDPI loaded!");
-    }
-}); 
 
 (function () {
     "use strict";
@@ -69,6 +44,37 @@ elem.addEventListener('panzoomzoom', (event) => {
     };
 
     function setControls() {
+
+        elem.addEventListener('panzoomzoom', (event) => {
+
+            console.log("Panzoom Scale Level: " + panzoom.getScale());
+        
+            if (panzoom.getScale() >= 5 &&  panzoom.getScale() <= 7) {
+        
+                $("#imgMapa").attr("src", "img/mapahdpi.png");
+                console.log("Mapa HDPI loaded!");
+        
+            }
+        
+            else if (panzoom.getScale() >= 3 &&  panzoom.getScale() <= 5) {
+        
+                $("#imgMapa").attr("src", "img/mapamdpi.png");
+                console.log("Mapa MDPI loaded!");
+        
+            }
+        
+            else {
+        
+                $("#imgMapa").attr("src", "img/mapaldpi.png");
+                console.log("Mapa LDPI loaded!");
+            }
+        });
+
+        $(document).on("click", ".mapIcon", function() {
+
+            openDescripcion();
+
+        });
 
         putElementsOnMap();
         
@@ -132,6 +138,18 @@ elem.addEventListener('panzoomzoom', (event) => {
     function closeLeyendas() {
 
         $("#divLeyendas").slideUp();
+
+    }
+
+    function openDescripcion() {
+
+        $("#divDescripcion").slideDown();
+
+    }
+
+    function closeDescription() {
+
+        $("#divDescripcion").slideUp();
 
     }
 
