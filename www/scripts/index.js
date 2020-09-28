@@ -111,7 +111,7 @@ var oldScale = panzoom.getScale();
 
         $.ajax({
             type: "POST",
-            url: "scripts/leyendas.json",
+            url: "/scripts/leyendas.json",
             data: {},
             cache: false,
             success: function (data) {
