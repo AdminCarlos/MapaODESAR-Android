@@ -2,8 +2,8 @@
 
     "lugares": [
 
-        {"nombre": "Cerro El Liquidambo", "descripcion": "Placeholder Description", "icono": "img/iconografias/cerroymontañas.svg", "coordX": "51", "coordY": "45"},
-        {"nombre": "Finca Agroturística Las Nubes", "descripcion": "Placeholder Description", "icono": "img/iconografias/cerroymontañas.svg", "coordX": "60.555555555556", "coordY": "6.0240963855422"}
+        {"nombre": "Cerro El Liquidambo", "descripcion": "Placeholder Description", "icono": "img/iconografias/cerroymontañas.svg", "coordX": "60.343309859155", "coordY": "5.7333970377449"},
+        {"nombre": "Finca Agroturística Las Nubes", "descripcion": "Placeholder Description", "icono": "img/iconografias/cerroymontañas.svg", "coordX": "62.147887323944", "coordY": "6.6411849020545"}
 
     ]
 
