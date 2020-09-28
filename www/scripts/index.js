@@ -107,32 +107,54 @@ var oldScale = panzoom.getScale();
 
     function openLeyendas() {
 
-        $("#divLeyendas").slideDown();
+        if (device.platform === "Android") {
 
-        $.ajax({
-            type: "POST",
-            url: "/scripts/leyendas.json",
-            data: {},
-            cache: false,
-            success: function (data) {
+            $.ajax({
+                type: "POST",
+                url: "/scripts/leyendas.json",
+                data: {},
+                cache: false,
+                success: function (data) {
+    
+                    var array = JSON.parse(data);
+    
+                    $("#modalLeyendasCuerpo").empty();
+    
+                    for(var i = 0; i < array.leyendas.length; i++) {
+    
+                        $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p>" + array.leyendas[i].Descripcion + "</p> </div>");
+    
+                    }
+    
+                },
+                error: function () {
+    
+                    alert("error");
+    
+                }
+            })
 
-                var array = JSON.parse(data);
+        }
+
+        else {
+
+            fetch('scripts/leyendas.json')
+            .then((response) => response.json())
+            .then(function(array) {
 
                 $("#modalLeyendasCuerpo").empty();
+    
+                    for(var i = 0; i < array.leyendas.length; i++) {
+    
+                        $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p>" + array.leyendas[i].Descripcion + "</p> </div>");
+    
+                    }
 
-                for(var i = 0; i < array.leyendas.length; i++) {
+            })
 
-                    $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p>" + array.leyendas[i].Descripcion + "</p> </div>");
+        }
 
-                }
-
-            },
-            error: function () {
-
-                alert("error");
-
-            }
-        })
+        $("#divLeyendas").slideDown();
 
     }
 
@@ -168,32 +190,51 @@ var oldScale = panzoom.getScale();
 
     function putElementsOnMap() {
 
-        
+        if (device.platform === "Android") {
 
-        $.ajax({
-            type: "POST",
-            url: "scripts/lugares.json",
-            data: {},
-            cache: false,
-            success: function (data) {
+            $.ajax({
+                type: "POST",
+                url: "scripts/lugares.json",
+                data: {},
+                cache: false,
+                success: function (data) {
+    
+                    var array = JSON.parse(data);
+    
+                    for(var i = 0; i < array.lugares.length; i++) {
+    
+                        $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.5 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
+                        console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
+                        console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
+                    }
+    
+                },
+                error: function () {
+    
+                    alert("error");
+    
+                }
+            })
 
-                var array = JSON.parse(data);
+        }
+
+        else {
+
+            fetch('scripts/lugares.json')
+            .then((response) => response.json())
+            .then(function(array) {
 
                 for(var i = 0; i < array.lugares.length; i++) {
-
+    
                     $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.5 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
                     console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
                     console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
                 }
 
-            },
-            error: function () {
+            })
 
-                alert("error");
-
-            }
-        })
-
+        }
+        
        console.log($("#divContainerMapa").width());
 console.log($("#divContainerMapa").height());
 
