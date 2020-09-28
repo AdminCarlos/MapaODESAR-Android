@@ -1,14 +1,14 @@
 ﻿var elem = document.getElementById('divContainerMapa');
 
-var mapWidth = $("#divContainerMapa").width();
-var mapHeight = $("#divContainerMapa").height();
-
 var panzoom = Panzoom(elem, {
-    maxScale: 7,
+    maxScale: 5,
     minScale: 1,
     step: 0.5,
-    startScale: 5
+    startScale: 1
 });
+
+$("#divContainerMapa").width($("#imgMapa").width());
+$("#divContainerMapa").height($("#imgMapa").height());
 
 
 var oldScale = panzoom.getScale();
@@ -68,7 +68,7 @@ var oldScale = panzoom.getScale();
                 $("#imgMapa").attr("src", "img/mapaldpi.png");
                 console.log("Mapa LDPI loaded!");
             }
-        });
+        }); 
 
         $(document).on("click", ".mapIcon", function() {
 
@@ -77,6 +77,7 @@ var oldScale = panzoom.getScale();
         });
 
         putElementsOnMap();
+        
         
         $("#buttonOpenLeyendas").click(function() {
 
@@ -167,21 +168,22 @@ var oldScale = panzoom.getScale();
 
     function putElementsOnMap() {
 
+        
+
         $.ajax({
             type: "POST",
-            url: "scripts/leyendas.json",
+            url: "scripts/lugares.json",
             data: {},
             cache: false,
             success: function (data) {
 
                 var array = JSON.parse(data);
 
-                $("#modalLeyendasCuerpo").empty();
+                for(var i = 0; i < array.lugares.length; i++) {
 
-                for(var i = 0; i < array.leyendas.length; i++) {
-
-                    $("#divContainerMapa").append("<img class='mapIcon' src='" + array.leyendas[i].rutaIcono +"' style='position: absolute; top: " + (Math.floor(Math.random() * mapHeight) + 1) + "px; left: " + (Math.floor(Math.random() * mapWidth) + 1) + "px; width: 2vw; z-index: 100'>");
-
+                    $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.5 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
+                    console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
+                    console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
                 }
 
             },
@@ -191,6 +193,12 @@ var oldScale = panzoom.getScale();
 
             }
         })
+
+       console.log($("#divContainerMapa").width());
+console.log($("#divContainerMapa").height());
+
+console.log($("#imgMapa").width());
+console.log($("#imgMapa").height());
 
     }
 
