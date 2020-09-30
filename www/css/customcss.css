@@ -99,7 +99,6 @@
 .modalLeyendasRow {
 
     display: grid;
-    grid-template-columns: 30% 70%;
     text-align: center;
 
 }
@@ -134,4 +133,35 @@
 
     padding: 0 0 0 0;
 
+}
+
+
+/* peticiones de anchura de viewport */
+
+/*pantallas muy pequeñas(xs)*/
+@media only screen and (max-width: 576px) {
+    .modalLeyendasRow{
+        grid-template-columns: 30% 70%;
+    }
+}
+
+/*pantallas pequeñas (sm)*/
+@media only screen and (min-width: 576px) {
+    .modalLeyendasRow{
+        grid-template-columns: 25% 75%;
+    }
+}
+
+/*pantallas medianas (md)*/
+@media only screen and (min-width: 768px) {
+    .modalLeyendasRow{
+        grid-template-columns: 20% 80%;
+    }
+}
+
+/*pantallas grandes (lg)*/
+@media only screen and (min-width: 992px) {
+    .modalLeyendasRow{
+        grid-template-columns: 10% 90%;
+    }
 }
