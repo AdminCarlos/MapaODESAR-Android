@@ -45,7 +45,7 @@ var oldScale = panzoom.getScale();
 
     function setControls() {
 
-        elem.addEventListener('panzoomzoom', (event) => {
+         elem.addEventListener('panzoomzoom', (event) => {
 
             console.log("Panzoom Scale Level: " + panzoom.getScale());
         
@@ -68,7 +68,7 @@ var oldScale = panzoom.getScale();
                 $("#imgMapa").attr("src", "img/mapaldpi.png");
                 console.log("Mapa LDPI loaded!");
             }
-        }); 
+        });
 
         $(document).on("click", ".mapIcon", function() {
 
@@ -235,11 +235,11 @@ var oldScale = panzoom.getScale();
 
         }
         
-       console.log($("#divContainerMapa").width());
-console.log($("#divContainerMapa").height());
+    console.log("Container Width: " + $("#divContainerMapa").width());
+    console.log("Container Height: " + $("#divContainerMapa").height());
 
-console.log($("#imgMapa").width());
-console.log($("#imgMapa").height());
+    console.log("Map Width: " + $("#imgMapa").width());
+    console.log("Map Height: " + $("#imgMapa").height());
 
     }
 
