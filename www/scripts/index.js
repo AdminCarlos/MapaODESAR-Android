@@ -45,6 +45,8 @@ var oldScale = panzoom.getScale();
 
     function setControls() {
 
+        showInicio();
+
          elem.addEventListener('panzoomzoom', (event) => {
 
             console.log("Panzoom Scale Level: " + panzoom.getScale());
@@ -77,6 +79,12 @@ var oldScale = panzoom.getScale();
         });
 
         putElementsOnMap();
+
+        $("#buttonGoToMap").click(function() {
+
+            showMapa();
+
+        });
         
         
         $("#buttonOpenLeyendas").click(function() {
@@ -100,8 +108,23 @@ var oldScale = panzoom.getScale();
         $(".divMainUI").click(function() {
 
             closeLeyendas();
+            closeDescription();
 
         });
+
+    }
+
+    function showMapa() {
+
+        $("#paginaInicio").fadeOut();
+        $("#paginaMapa").fadeIn();
+
+    }
+
+    function showInicio() {
+
+        $("#paginaInicio").show();
+        $("#paginaMapa").hide();
 
     }
 
@@ -111,7 +134,7 @@ var oldScale = panzoom.getScale();
 
             $.ajax({
                 type: "POST",
-                url: "/scripts/leyendas.json",
+                url: "scripts/leyendas.json",
                 data: {},
                 cache: false,
                 success: function (data) {
@@ -203,7 +226,7 @@ var oldScale = panzoom.getScale();
     
                     for(var i = 0; i < array.lugares.length; i++) {
     
-                        $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.3 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
+                        $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.5 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
                         console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
                         console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
                     }

@@ -1,5 +1,12 @@
-.divMainUI {
+.divPaginas {
     
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.divMainUI {
+
     width: 100vw;
     height: 100vh;
 
@@ -111,12 +118,6 @@
 
 }
 
-#divMainPage {
-
-    background-color: white;
-
-}
-
 #imgMapa {
 
     width: 100vw;
@@ -135,6 +136,72 @@
 
 }
 
+.paginasSeccionTitulo {
+
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    width: 100%;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+
+}
+
+.paginasSeccionCuerpo {
+
+    text-align: justify;
+    padding-left: 5vw;
+    padding-right: 5vw;
+
+}
+
+.paginasSeccionFooter {
+
+    position: fixed;
+    bottom: 0;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: 10vh;
+
+}
+
+#buttonGoToMap {
+
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: green;
+    color: white;
+    border: none;
+    text-decoration: none;
+    animation-name: bounce-3;
+    animation-timing-function: ease;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes bounce-3 {
+    0%   { transform: translateY(0); }
+    30%  { transform: translateY(-10px); }
+    50%  { transform: translateY(0); }
+    100% { transform: translateY(0); }
+}
+
+@keyframes iconBounce {
+    0%   { transform: translateY(0); }
+    30%  { transform: translateY(-0.1vh); }
+    50%  { transform: translateY(0); }
+    100% { transform: translateY(0); }
+}
 
 /* peticiones de anchura de viewport */
 
