@@ -2,8 +2,14 @@
 
     "lugares": [
 
-        {"nombre": "Cerro El Liquidambo", "descripcion": "Placeholder Description", "icono": "img/iconografias/cerroymontañas.svg", "coordX": "60.343309859155", "coordY": "5.7333970377449"},
-        {"nombre": "Finca Agroturística Las Nubes", "descripcion": "Placeholder Description", "icono": "img/iconografias/cerroymontañas.svg", "coordX": "62.147887323944", "coordY": "6.6411849020545"}
+        {"nombre": "Cerro El Liquidambo", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "59.713500784929", "coordY": "3.8028521391043"},
+        {"nombre": "Fila Cerro Frio", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "58.104395604396", "coordY": "14.736052039029"},
+        {"nombre": "Fila Bijagua", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "57.339089481947", "coordY": "18.238679009257"},
+        {"nombre": "Cerro Guntalón", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "56.770015698587", "coordY": "24.993745308982"},
+        {"nombre": "Cerro San Jacinto", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "46.07535321821", "coordY": "10.207655741806"},
+        {"nombre": "Loma La Gracia", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "46.055729984301", "coordY": "14.285714285714"},
+        {"nombre": "Cerro Los Números", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "43.210361067504", "coordY": "20.490367775832"},
+        {"nombre": "Cerro Partido", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "44.093406593407", "coordY": "24.843632724543"}
 
     ]
 

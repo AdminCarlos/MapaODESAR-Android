@@ -75,7 +75,7 @@
 .modal {
 
     display: none;
-    width: 80%;
+    width: 90%;
     height: 90%;
     position: fixed;
     left: 50%;
@@ -193,6 +193,15 @@
     animation-timing-function: ease;
     animation-duration: 2s;
     animation-iteration-count: infinite;
+}
+
+.mapIcon {
+
+    animation-name: iconBounce;
+    animation-timing-function: ease;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
 }
 
 @keyframes bounce-3 {

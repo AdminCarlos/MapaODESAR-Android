@@ -145,7 +145,7 @@ var oldScale = panzoom.getScale();
     
                     for(var i = 0; i < array.leyendas.length; i++) {
     
-                        $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p>" + array.leyendas[i].Descripcion + "</p> </div>");
+                        $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p> <b>" + array.leyendas[i].Nombre + ": </b>" + array.leyendas[i].Descripcion + "</p> </div>");
     
                     }
     
@@ -169,8 +169,8 @@ var oldScale = panzoom.getScale();
     
                     for(var i = 0; i < array.leyendas.length; i++) {
     
-                        $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p>" + array.leyendas[i].Descripcion + "</p> </div>");
-    
+                        $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p> <b>" + array.leyendas[i].Nombre + ": </b>" + array.leyendas[i].Descripcion + "</p> </div>");
+                        
                     }
 
             })
@@ -226,7 +226,7 @@ var oldScale = panzoom.getScale();
     
                     for(var i = 0; i < array.lugares.length; i++) {
     
-                        $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.5 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
+                        $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
                         console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
                         console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
                     }
@@ -249,7 +249,7 @@ var oldScale = panzoom.getScale();
 
                 for(var i = 0; i < array.lugares.length; i++) {
     
-                    $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.5 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
+                    $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
                     console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
                     console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
                 }
