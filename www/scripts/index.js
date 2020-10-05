@@ -237,18 +237,6 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
 
     }
 
-    function zoom() {
-
-
-
-    }
-
-    function unzoom() {
-
-        panzoom.zoomOut();
-
-    }
-
     function putElementsOnMap() {
 
         if (device.platform === "Android") {
