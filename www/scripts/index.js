@@ -4,7 +4,9 @@ var panzoom = Panzoom(elem, {
     maxScale: 7,
     minScale: 1,
     step: 0.5,
-    startScale: 3
+    startScale: 3,
+    startX: 7.333333333333334,
+    startY: 83.55557250976562
 });
 
 $("#divContainerMapa").width($("#imgMapa").width());
@@ -12,6 +14,9 @@ $("#divContainerMapa").height($("#imgMapa").height());
 
 
 var oldScale = panzoom.getScale();
+
+console.log("Current pan position X: " + panzoom.getPan().x);
+console.log("Current pan position Y: " + panzoom.getPan().y);
 
 (function () {
     "use strict";
@@ -97,6 +102,12 @@ var oldScale = panzoom.getScale();
             }
         });
 
+        elem.addEventListener('panzoompan', (event) => {
+
+            console.log(event.detail) // => { x: 0, y: 0, scale: 1 }
+
+        });
+
         $(document).on("click", ".mapIcon", function () {
 
             openDescripcion();
@@ -141,7 +152,7 @@ var oldScale = panzoom.getScale();
 
     function showMapa() {
 
-        $("#paginaInicio").fadeOut();
+        $("#paginaInicio").hide();
         $("#paginaMapa").fadeIn();
 
     }
