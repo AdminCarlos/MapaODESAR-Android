@@ -1,35 +1,291 @@
 {
-
     "lugares": [
-
-        {"nombre": "Cerro El Liquidambo", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "59.713500784929", "coordY": "3.8028521391043"},
-        {"nombre": "Fila Cerro Frio", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "58.104395604396", "coordY": "14.736052039029"},
-        {"nombre": "Fila Bijagua", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "57.339089481947", "coordY": "18.238679009257"},
-        {"nombre": "Cerro Guntalón", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "56.770015698587", "coordY": "24.993745308982"},
-        {"nombre": "Cerro San Jacinto", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "46.07535321821", "coordY": "10.207655741806"},
-        {"nombre": "Loma La Gracia", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "46.055729984301", "coordY": "14.285714285714"},
-        {"nombre": "Cerro Los Números", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "43.210361067504", "coordY": "20.490367775832"},
-        {"nombre": "Cerro Partido", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "44.093406593407", "coordY": "24.843632724543"},
-        {"nombre": "Loma El Porvenir", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "45.388540031397", "coordY": "25.419064298224"},
-        {"nombre": "Cerro Fuente Pura", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "43.229984301413", "coordY": "26.770077558169"},
-        {"nombre": "Cerro El Picacho", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "43.602825745683", "coordY": "28.021015761821"},
-        {"nombre": "Cerro Bravo", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "47.664835164835", "coordY": "27.720790592945"},
-        {"nombre": "Cerro La Mesa", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "31.887755102041", "coordY": "25.769326995246"},
-        {"nombre": "Las Trancas", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "31.691522762951", "coordY": "32.02401801351"},
-        {"nombre": "Cerro La Joya", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "28.767660910518", "coordY": "34.100575431574"},
-        {"nombre": "Cerro Tejerino", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "29.434850863422", "coordY": "35.501626219665"},
-        {"nombre": "Cerro El Orégano", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "26.432496075353", "coordY": "33.57518138604"},
-        {"nombre": "Loma El Palacio", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "21.546310832025", "coordY": "35.701776332249"},
-        {"nombre": "Cerro Liquidámbar", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "27.511773940345", "coordY": "37.678258694021"},
-        {"nombre": "Cerro El Ocote", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "29.042386185243", "coordY": "39.454590943207"},
-        {"nombre": "Cerro La Mesa", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "20.133437990581", "coordY": "45.283962972229"},
-        {"nombre": "Cerro La Pita", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "18.524332810047", "coordY": "49.186890167626"},
-        {"nombre": "Cerro El Guayacán", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "22.370486656201", "coordY": "51.238428821616"},
-        {"nombre": "Cerro El Taburete", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "16.326530612245", "coordY": "50.988241180886"},
-        {"nombre": "Cerro Grande", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "24.352433281005", "coordY": "54.265699274456"},
-        {"nombre": "Cerro El Venado", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "21.64442700157", "coordY": "58.944208156117"},
-        {"nombre": "Loma El Jícaro", "descripcion": "Placeholder Description", "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png", "coordX": "22.350863422292", "coordY": "64.223167375532"}
-
+        {
+            "nombre": "Cerro El Liquidámbar",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "59.713500784929",
+            "coordY": "3.8028521391043"
+        },
+        {
+            "nombre": "Fila Cerro Frio",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "58.104395604396",
+            "coordY": "14.736052039029"
+        },
+        {
+            "nombre": "Fila Bijagua",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "57.339089481947",
+            "coordY": "18.238679009257"
+        },
+        {
+            "nombre": "Cerro Guntalón",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "56.770015698587",
+            "coordY": "24.993745308982"
+        },
+        {
+            "nombre": "Cerro San Jacinto",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "46.07535321821",
+            "coordY": "10.207655741806"
+        },
+        {
+            "nombre": "Loma La Gracia",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "46.055729984301",
+            "coordY": "14.285714285714"
+        },
+        {
+            "nombre": "Cerro Los Números",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "43.210361067504",
+            "coordY": "20.490367775832"
+        },
+        {
+            "nombre": "Cerro Partido",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "44.093406593407",
+            "coordY": "24.843632724543"
+        },
+        {
+            "nombre": "Loma El Porvenir",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "45.388540031397",
+            "coordY": "25.419064298224"
+        },
+        {
+            "nombre": "Cerro Fuente Pura",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "43.229984301413",
+            "coordY": "26.770077558169"
+        },
+        {
+            "nombre": "Cerro El Picacho",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "43.602825745683",
+            "coordY": "28.021015761821"
+        },
+        {
+            "nombre": "Cerro Bravo",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "47.664835164835",
+            "coordY": "27.720790592945"
+        },
+        {
+            "nombre": "Cerro La Mesa",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "31.887755102041",
+            "coordY": "25.769326995246"
+        },
+        {
+            "nombre": "Las Trancas",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "31.691522762951",
+            "coordY": "32.02401801351"
+        },
+        {
+            "nombre": "Cerro La Joya",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "28.767660910518",
+            "coordY": "34.100575431574"
+        },
+        {
+            "nombre": "Cerro Tejerina",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "29.434850863422",
+            "coordY": "35.501626219665"
+        },
+        {
+            "nombre": "Cerro El Orégano",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "26.432496075353",
+            "coordY": "33.57518138604"
+        },
+        {
+            "nombre": "Loma El Palacio",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "21.546310832025",
+            "coordY": "35.701776332249"
+        },
+        {
+            "nombre": "Cerro Liquidámbar",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "27.511773940345",
+            "coordY": "37.678258694021"
+        },
+        {
+            "nombre": "Cerro El Ocote",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "29.042386185243",
+            "coordY": "39.454590943207"
+        },
+        {
+            "nombre": "Cerro La Mesa",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "20.133437990581",
+            "coordY": "45.283962972229"
+        },
+        {
+            "nombre": "Cerro La Pita",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "18.524332810047",
+            "coordY": "49.186890167626"
+        },
+        {
+            "nombre": "Cerro El Guayacán",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "22.370486656201",
+            "coordY": "51.238428821616"
+        },
+        {
+            "nombre": "Cerro El Taburete",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "16.326530612245",
+            "coordY": "50.988241180886"
+        },
+        {
+            "nombre": "Cerro Grande",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "24.352433281005",
+            "coordY": "54.265699274456"
+        },
+        {
+            "nombre": "Cerro El Venado",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "21.64442700157",
+            "coordY": "58.944208156117"
+        },
+        {
+            "nombre": "Loma El Jícaro",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "22.350863422292",
+            "coordY": "64.223167375532"
+        },
+        {
+            "nombre": "Cerro Moropotente",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "19.976452119309",
+            "coordY": "66.775081310983"
+        },
+        {
+            "nombre": "Cerro La Sepultura",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "22.135007849294",
+            "coordY": "71.278458844133"
+        },
+        {
+            "nombre": "Cerro El Portillo del Cacao",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "25.94191522763",
+            "coordY": "67.97598198649"
+        },
+        {
+            "nombre": "Fila San Marcos",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "78.041601255887",
+            "coordY": "73.304978734051"
+        },
+        {
+            "nombre": "Fila Apatite",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "80.455259026688",
+            "coordY": "77.683262446835"
+        },
+        {
+            "nombre": "Loma El Zapote",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "76.903453689168",
+            "coordY": "82.461846384789"
+        },
+        {
+            "nombre": "Cerro San Jerónimo",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "81.927001569859",
+            "coordY": "83.86289717288"
+        },
+        {
+            "nombre": "Loma Yarakamita",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "78.237833594976",
+            "coordY": "87.865899424568"
+        },
+        {
+            "nombre": "Cerro El Padre",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "79.572213500785",
+            "coordY": "89.291968976733"
+        },
+        {
+            "nombre": "Cerro El Confite",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "74.470172684458",
+            "coordY": "94.545909432074"
+        },
+        {
+            "nombre": "Cerro El Ocote",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "73.175039246468",
+            "coordY": "89.917438078559"
+        },
+        {
+            "nombre": "Loma El Chompipe",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "73.096546310832",
+            "coordY": "86.865148861646"
+        },
+        {
+            "nombre": "Cerro El Pelón",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "70.663265306122",
+            "coordY": "92.119089316988"
+        },
+        {
+            "nombre": "Cerro San Sebastián",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "67.248822605965",
+            "coordY": "90.74305729297"
+        }
     ]
-
 }
