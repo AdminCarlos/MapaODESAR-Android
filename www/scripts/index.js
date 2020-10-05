@@ -1,10 +1,10 @@
 ﻿var elem = document.getElementById('divContainerMapa');
 
 var panzoom = Panzoom(elem, {
-    maxScale: 5,
+    maxScale: 7,
     minScale: 1,
     step: 0.5,
-    startScale: 1
+    startScale: 3
 });
 
 $("#divContainerMapa").width($("#imgMapa").width());
