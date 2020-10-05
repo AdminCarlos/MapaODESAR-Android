@@ -47,32 +47,57 @@ var oldScale = panzoom.getScale();
 
         showInicio();
 
-         elem.addEventListener('panzoomzoom', (event) => {
+        document.addEventListener("backbutton", onBackKeyDown, false);
+        function onBackKeyDown(e) {
+            e.preventDefault();
+
+            if ($("#paginaInicio").css("display") != "none") {
+
+                console.log("Adios");
+                navigator.app.exitApp();
+
+            }
+
+            else if ($("#paginaMapa").css("display") != "none" && $(".modal").css("display") === "none") {
+
+                showInicio();
+
+            }
+
+            else if ($(".modal").css("display") != "none") {
+
+                closeLeyendas();
+                closeDescription();
+
+            }
+        }
+
+        elem.addEventListener('panzoomzoom', (event) => {
 
             console.log("Panzoom Scale Level: " + panzoom.getScale());
-        
-            if (panzoom.getScale() >= 5 &&  panzoom.getScale() <= 7) {
-        
+
+            if (panzoom.getScale() >= 5 && panzoom.getScale() <= 7) {
+
                 $("#imgMapa").attr("src", "img/mapahdpi.png");
                 console.log("Mapa HDPI loaded!");
-        
+
             }
-        
-            else if (panzoom.getScale() >= 3 &&  panzoom.getScale() <= 5) {
-        
+
+            else if (panzoom.getScale() >= 3 && panzoom.getScale() <= 5) {
+
                 $("#imgMapa").attr("src", "img/mapamdpi.png");
                 console.log("Mapa MDPI loaded!");
-        
+
             }
-        
+
             else {
-        
+
                 $("#imgMapa").attr("src", "img/mapaldpi.png");
                 console.log("Mapa LDPI loaded!");
             }
         });
 
-        $(document).on("click", ".mapIcon", function() {
+        $(document).on("click", ".mapIcon", function () {
 
             openDescripcion();
 
@@ -80,32 +105,32 @@ var oldScale = panzoom.getScale();
 
         putElementsOnMap();
 
-        $("#buttonGoToMap").click(function() {
+        $("#buttonGoToMap").click(function () {
 
             showMapa();
 
         });
-        
-        
-        $("#buttonOpenLeyendas").click(function() {
+
+
+        $("#buttonOpenLeyendas").click(function () {
 
             openLeyendas();
 
         });
 
-        $("#buttonZoom").click(function() {
+        $("#buttonZoom").click(function () {
 
             zoom();
-            
+
         });
 
-        $("#buttonUnzoom").click(function() {
+        $("#buttonUnzoom").click(function () {
 
             unzoom();
 
         });
 
-        $(".divMainUI").click(function() {
+        $(".divMainUI").click(function () {
 
             closeLeyendas();
             closeDescription();
@@ -123,7 +148,7 @@ var oldScale = panzoom.getScale();
 
     function showInicio() {
 
-        $("#paginaInicio").show();
+        $("#paginaInicio").fadeIn();
         $("#paginaMapa").hide();
 
     }
@@ -138,22 +163,22 @@ var oldScale = panzoom.getScale();
                 data: {},
                 cache: false,
                 success: function (data) {
-    
+
                     var array = JSON.parse(data);
-    
+
                     $("#modalLeyendasCuerpo").empty();
-    
-                    for(var i = 0; i < array.leyendas.length; i++) {
-    
+
+                    for (var i = 0; i < array.leyendas.length; i++) {
+
                         $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p> <b>" + array.leyendas[i].Nombre + ": </b>" + array.leyendas[i].Descripcion + "</p> </div>");
-    
+
                     }
-    
+
                 },
                 error: function () {
-    
+
                     alert("error");
-    
+
                 }
             })
 
@@ -162,18 +187,18 @@ var oldScale = panzoom.getScale();
         else {
 
             fetch('scripts/leyendas.json')
-            .then((response) => response.json())
-            .then(function(array) {
+                .then((response) => response.json())
+                .then(function (array) {
 
-                $("#modalLeyendasCuerpo").empty();
-    
-                    for(var i = 0; i < array.leyendas.length; i++) {
-    
+                    $("#modalLeyendasCuerpo").empty();
+
+                    for (var i = 0; i < array.leyendas.length; i++) {
+
                         $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p> <b>" + array.leyendas[i].Nombre + ": </b>" + array.leyendas[i].Descripcion + "</p> </div>");
-                        
+
                     }
 
-            })
+                })
 
         }
 
@@ -201,13 +226,13 @@ var oldScale = panzoom.getScale();
 
     function zoom() {
 
-        panzoom.zoom(panzoom.getScale() + 0.5, {animate: true});
+        panzoom.zoom(panzoom.getScale() + 0.5, { animate: true });
 
     }
 
     function unzoom() {
 
-        panzoom.zoom(panzoom.getScale() - 0.5, {animate: true});
+        panzoom.zoom(panzoom.getScale() - 0.5, { animate: true });
 
     }
 
@@ -221,21 +246,21 @@ var oldScale = panzoom.getScale();
                 data: {},
                 cache: false,
                 success: function (data) {
-    
+
                     var array = JSON.parse(data);
-    
-                    for(var i = 0; i < array.lugares.length; i++) {
-    
-                        $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
+
+                    for (var i = 0; i < array.lugares.length; i++) {
+
+                        $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono + "' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
                         console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
                         console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
                     }
-    
+
                 },
                 error: function () {
-    
+
                     alert("error");
-    
+
                 }
             })
 
@@ -244,25 +269,25 @@ var oldScale = panzoom.getScale();
         else {
 
             fetch('scripts/lugares.json')
-            .then((response) => response.json())
-            .then(function(array) {
+                .then((response) => response.json())
+                .then(function (array) {
 
-                for(var i = 0; i < array.lugares.length; i++) {
-    
-                    $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono +"' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
-                    console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
-                    console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
-                }
+                    for (var i = 0; i < array.lugares.length; i++) {
 
-            })
+                        $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono + "' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
+                        console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
+                        console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
+                    }
+
+                })
 
         }
-        
-    console.log("Container Width: " + $("#divContainerMapa").width());
-    console.log("Container Height: " + $("#divContainerMapa").height());
 
-    console.log("Map Width: " + $("#imgMapa").width());
-    console.log("Map Height: " + $("#imgMapa").height());
+        console.log("Container Width: " + $("#divContainerMapa").width());
+        console.log("Container Height: " + $("#divContainerMapa").height());
+
+        console.log("Map Width: " + $("#imgMapa").width());
+        console.log("Map Height: " + $("#imgMapa").height());
 
     }
 

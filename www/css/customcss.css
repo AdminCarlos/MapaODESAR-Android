@@ -72,21 +72,18 @@
 .modal {
 
     display: none;
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
     position: fixed;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
     z-index: 6;
     background-color: rgb(230, 230, 230);
-    border-radius: 5vw;
-    border-style: solid;
-    border-color: black;
     overflow: auto;
 }
 
-#modalLeyendasTitulo{
+.modalTitulo{
     position: -webkit-sticky;
     position: sticky;
     top: 0;
@@ -100,7 +97,7 @@
     padding-bottom: 2vh;
 }
 
-#modalLeyendasCuerpo {
+.modalCuerpo {
 
     padding: 2vh 2vw 2vh 2vw;
 
