@@ -286,6 +286,90 @@
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "67.248822605965",
             "coordY": "90.74305729297"
+        },
+        {
+            "nombre": "Cerro Monte Grande",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "37.225274725275",
+            "coordY": "32.949712284213"
+        },
+        {
+            "nombre": "Cerro Los Llanitos",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "37.009419152276",
+            "coordY": "35.451588691519"
+        },
+        {
+            "nombre": "Cerro Las Mercedes",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "39.089481946625",
+            "coordY": "38.078558919189"
+        },
+        {
+            "nombre": "Cerro de Piedra de Agua",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "36.263736263736",
+            "coordY": "40.45534150613"
+        },
+        {
+            "nombre": "Cerro de Piedra",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "37.912087912088",
+            "coordY": "45.033775331499"
+        },
+        {
+            "nombre": "",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "",
+            "coordY": ""
+        },
+        {
+            "nombre": "Salto La Mocuana",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
+            "coordX": "49.175824175824",
+            "coordY": "9.6822616962722"
+        },
+        {
+            "nombre": "Salto El Diamante",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
+            "coordX": "55.631868131868",
+            "coordY": "26.094570928196"
+        },
+        {
+            "nombre": "Salto Santa Emilia",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
+            "coordX": "60.302197802198",
+            "coordY": "31.748811608707"
+        },
+        {
+            "nombre": "El Salto",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
+            "coordX": "75.588697017268",
+            "coordY": "83.53765323993"
+        },
+        {
+            "nombre": "Salto El Corozo",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
+            "coordX": "51.334379905808",
+            "coordY": "48.836627470603"
+        },
+        {
+            "nombre": "",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
+            "coordX": "",
+            "coordY": ""
         }
     ]
 }
