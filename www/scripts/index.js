@@ -1,9 +1,9 @@
 ﻿var elem = document.getElementById('divContainerMapa');
 
 var panzoom = Panzoom(elem, {
-    maxScale: 7,
-    minScale: 1,
-    step: 0.5,
+    maxScale: 10,
+    minScale: 3,
+    step: 0.3,
     startScale: 3,
     startX: 7.333333333333334,
     startY: 83.55557250976562
@@ -63,13 +63,13 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
 
             }
 
-            else if ($("#paginaMapa").css("display") != "none" && $(".modal").css("display") === "none") {
+            else if ($("#paginaMapa").css("display") != "none" && $("#divLeyendas").css("display") === "none" && $("#divDescripcion").css("display") === "none") {
 
                 showInicio();
 
             }
 
-            else if ($(".modal").css("display") != "none") {
+            else if ($("#divLeyendas").css("display") != "none" || $("#divDescripcion").css("display") != "none") {
 
                 closeLeyendas();
                 closeDescription();
@@ -81,7 +81,7 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
 
             console.log("Panzoom Scale Level: " + panzoom.getScale());
 
-            if (panzoom.getScale() >= 5 && panzoom.getScale() <= 7) {
+            /* if (panzoom.getScale() >= 5 && panzoom.getScale() <= 7) {
 
                 $("#imgMapa").attr("src", "img/mapahdpi.png");
                 console.log("Mapa HDPI loaded!");
@@ -99,7 +99,9 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
 
                 $("#imgMapa").attr("src", "img/mapaldpi.png");
                 console.log("Mapa LDPI loaded!");
-            }
+            } */
+
+
         });
 
         elem.addEventListener('panzoompan', (event) => {
@@ -131,13 +133,13 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
 
         $("#buttonZoom").click(function () {
 
-            zoom();
+            panzoom.zoomIn();
 
         });
 
         $("#buttonUnzoom").click(function () {
 
-            unzoom();
+            panzoom.zoomOut();
 
         });
 
@@ -237,13 +239,13 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
 
     function zoom() {
 
-        panzoom.zoom(panzoom.getScale() + 0.5, { animate: true });
+
 
     }
 
     function unzoom() {
 
-        panzoom.zoom(panzoom.getScale() - 0.5, { animate: true });
+        panzoom.zoomOut();
 
     }
 
