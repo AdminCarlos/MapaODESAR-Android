@@ -208,10 +208,20 @@
 
 .mapIcon {
 
+    width: 100%;
     animation-name: iconBounce;
     animation-timing-function: ease;
     animation-duration: 2s;
     animation-iteration-count: infinite;
+
+}
+
+.spanIcon {
+
+    font-size: 0.000001%;
+    outline: none;
+    text-shadow: none;
+    color: blue;
 
 }
 
