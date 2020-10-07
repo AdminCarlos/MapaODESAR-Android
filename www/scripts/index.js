@@ -250,14 +250,15 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
 
                     var array = JSON.parse(data);
 
-                    for (var i = 0; i < array.lugares.length; i++) {
+                    // for (var i = 0; i < array.lugares.length; i++) {
 
-                        $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono + "' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
-                        $("#divContainerMapa").prepend("<span class='spanIcon' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 101'>" + array.lugares[i].nombre + "</span>");
-                        //$("#divContainerMapa").prepend("<div class='mapIconDiv' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; height='" + ((0.4 / 100) * $("#divContainerMapa").width()) + "' z-index: 100'><img class='mapIcon' src='" + array.lugares[i].icono + "'> </div>");
-                        console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
-                        console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
-                    }
+                    //     $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono + "' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
+                    //     $("#divContainerMapa").prepend("<span class='spanIcon' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 101'>" + array.lugares[i].nombre + "</span>");
+                    //     //$("#divContainerMapa").prepend("<div class='mapIconDiv' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; height='" + ((0.4 / 100) * $("#divContainerMapa").width()) + "' z-index: 100'><img class='mapIcon' src='" + array.lugares[i].icono + "'> </div>");
+                    //     console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
+                    //     console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
+                    // }
+                    parserLugares(array.lugares);
 
 
                 },
@@ -275,14 +276,7 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
             fetch('scripts/lugares.json')
                 .then((response) => response.json())
                 .then(function (array) {
-
-                    for (var i = 0; i < array.lugares.length; i++) {
-
-                        $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono + "' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
-                        console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
-                        console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
-                    }
-
+                    parserLugares(array.lugares);
                 })
 
         }
@@ -296,3 +290,31 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
     }
 
 })();
+
+function parserLugares(jsonLugares){
+    jsonLugares.forEach(lugar => {
+        //íconos del mapa
+        let icono = document.createElement('img');
+        icono.classList.add('mapIcon');
+        icono.src = lugar.icono;
+        icono.style.position = "absolute";
+        icono.style.top = ((lugar.coordY / 100) * $("#divContainerMapa").height()) + 'px';
+        icono.style.left = ((lugar.coordX / 100) * $("#divContainerMapa").width()) + 'px';
+        icono.style.width = + ((0.4 / 100) * $("#divContainerMapa").width()) + "%";
+        icono.style.zIndex = '100';
+        document.getElementById('divContainerMapa').appendChild(icono);
+        
+        //nombres íconos
+        let spanIcono = document.createElement('span');
+        spanIcono.classList.add('spanIcon');
+        spanIcono.style.position = "absolute";
+        spanIcono.style.top = ((lugar.coordY / 100) * $("#divContainerMapa").height()) + 'px';
+        spanIcono.style.left = ((lugar.coordX / 100) * $("#divContainerMapa").width()) + 'px';
+        spanIcono.style.width = + ((0.4 / 100) * $("#divContainerMapa").width()) + "%";
+        spanIcono.style.zIndex = '101';
+        spanIcono.innerHTML = lugar.nombre;
+        document.getElementById('divContainerMapa').appendChild(spanIcono);
+        console.log(((lugar.coordY / 100) * $("#divContainerMapa").height()));
+        console.log(((lugar.coordX / 100) * $("#divContainerMapa").width()));
+    });
+}
