@@ -1,9 +1,9 @@
 ﻿var elem = document.getElementById('divContainerMapa');
 
 var panzoom = Panzoom(elem, {
-    maxScale: 10,
+    maxScale: 9,
     minScale: 3,
-    step: 0.3,
+    step: 0.4,
     startScale: 3,
     startX: 7.333333333333334,
     startY: 83.55557250976562
@@ -14,9 +14,6 @@ $("#divContainerMapa").height($("#imgMapa").height());
 
 
 var oldScale = panzoom.getScale();
-
-console.log("Current pan position X: " + panzoom.getPan().x);
-console.log("Current pan position Y: " + panzoom.getPan().y);
 
 (function () {
     "use strict";
@@ -79,28 +76,13 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
 
         elem.addEventListener('panzoomzoom', (event) => {
 
-            console.log("Panzoom Scale Level: " + panzoom.getScale());
+            $(".mapIcon").css("width", ((0.3 / 100) * ($("#divContainerMapa").width() / panzoom.getScale())) + "em");
 
-            /* if (panzoom.getScale() >= 5 && panzoom.getScale() <= 7) {
+            if (panzoom.getScale() < 4 && panzoom.getScale() >= 3) {
 
-                $("#imgMapa").attr("src", "img/mapahdpi.png");
-                console.log("Mapa HDPI loaded!");
-
-            }
-
-            else if (panzoom.getScale() >= 3 && panzoom.getScale() <= 5) {
-
-                $("#imgMapa").attr("src", "img/mapamdpi.png");
-                console.log("Mapa MDPI loaded!");
+                $(".mapIcon").css("width",((0.4 / 100) * $("#divContainerMapa").width()) + "%");
 
             }
-
-            else {
-
-                $("#imgMapa").attr("src", "img/mapaldpi.png");
-                console.log("Mapa LDPI loaded!");
-            } */
-
 
         });
 
@@ -133,13 +115,13 @@ console.log("Current pan position Y: " + panzoom.getPan().y);
 
         $("#buttonZoom").click(function () {
 
-            panzoom.zoomIn();
+            panzoom.zoom(panzoom.getScale() + 0.5);
 
         });
 
         $("#buttonUnzoom").click(function () {
 
-            panzoom.zoomOut();
+            panzoom.zoom(panzoom.getScale() - 0.5);
 
         });
 
@@ -300,12 +282,12 @@ function parserLugares(jsonLugares){
         icono.style.position = "absolute";
         icono.style.top = ((lugar.coordY / 100) * $("#divContainerMapa").height()) + 'px';
         icono.style.left = ((lugar.coordX / 100) * $("#divContainerMapa").width()) + 'px';
-        icono.style.width = + ((0.4 / 100) * $("#divContainerMapa").width()) + "%";
-        icono.style.zIndex = '100';
+        icono.style.width = ((0.4 / 100) * $("#divContainerMapa").width()) + "%";
+        //icono.style.zIndex = '100';
         document.getElementById('divContainerMapa').appendChild(icono);
         
         //nombres íconos
-        let spanIcono = document.createElement('span');
+       /*  let spanIcono = document.createElement('span');
         spanIcono.classList.add('spanIcon');
         spanIcono.style.position = "absolute";
         spanIcono.style.top = ((lugar.coordY / 100) * $("#divContainerMapa").height()) + 'px';
@@ -315,6 +297,6 @@ function parserLugares(jsonLugares){
         spanIcono.innerHTML = lugar.nombre;
         document.getElementById('divContainerMapa').appendChild(spanIcono);
         console.log(((lugar.coordY / 100) * $("#divContainerMapa").height()));
-        console.log(((lugar.coordX / 100) * $("#divContainerMapa").width()));
+        console.log(((lugar.coordX / 100) * $("#divContainerMapa").width())); */
     });
 }
