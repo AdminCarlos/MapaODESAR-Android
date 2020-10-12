@@ -93,7 +93,7 @@ var oldScale = panzoom.getScale();
 
         $(document).on("click", ".mapIcon", function () {
 
-            openDescripcion();
+            openDescripcion($(this).attr("id"));
 
         });
 
@@ -208,10 +208,53 @@ var oldScale = panzoom.getScale();
 
     }
 
-    function openDescripcion() {
+    function openDescripcion(iconID) {
+
+        $("#modalDescripcion .modalTitulo span").text(iconID);
+
+        if (device.platform === "Android") {
+
+            $.ajax({
+                type: "POST",
+                url: "scripts/lugares.json",
+                data: {},
+                cache: false,
+                success: function (data) {
+
+                    var array = JSON.parse(data);
+
+                    for (var i = 0; i < array.lugares.length; i++) {
+
+                        if (iconID === array.lugares[i].nombre) {
+
+                            $("#modalDescripcion .modalCuerpo").html(array.lugares[i].descripcion);
+
+                        }
+
+                    }
+
+                },
+                error: function () {
+
+                    alert("error");
+
+                }
+            })
+
+        }
+
+        else {
+
+            fetch('scripts/lugares.json')
+                .then((response) => response.json())
+                .then(function (array) {
+                    parserLugares(array.lugares);
+                })
+
+        }
 
         $("#divDescripcion").slideDown();
-
+        //console.log("Nombre del lugar: " + iconID + " Descripcion: " + placeDescription);
     }
 
     function closeDescription() {
@@ -279,6 +322,7 @@ function parserLugares(jsonLugares) {
         //íconos del mapa
         let icono = document.createElement('img');
         icono.classList.add('mapIcon');
+        icono.id = lugar.nombre;
         icono.src = lugar.icono;
         icono.style.position = "absolute";
         icono.style.top = ((lugar.coordY / 100) * $("#divContainerMapa").height()) + 'px';
