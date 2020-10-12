@@ -208,6 +208,7 @@
 
 .mapIcon {
 
+    min-width: 3px;
     animation-name: iconBounce;
     animation-timing-function: ease;
     animation-duration: 2s;

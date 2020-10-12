@@ -79,7 +79,7 @@ var oldScale = panzoom.getScale();
 
             if (panzoom.getScale() < 4 && panzoom.getScale() >= 3) {
 
-                $(".mapIcon").css("width",((0.4 / 100) * $("#divContainerMapa").width()) + "%");
+                $(".mapIcon").css("width", ((0.4 / 100) * $("#divContainerMapa").width()) + "%");
 
             }
 
@@ -97,7 +97,7 @@ var oldScale = panzoom.getScale();
 
         });
 
-        
+
 
         $("#buttonGoToMap").click(function () {
 
@@ -274,7 +274,7 @@ var oldScale = panzoom.getScale();
 
 })();
 
-function parserLugares(jsonLugares){
+function parserLugares(jsonLugares) {
     jsonLugares.forEach(lugar => {
         //íconos del mapa
         let icono = document.createElement('img');
@@ -286,18 +286,18 @@ function parserLugares(jsonLugares){
         icono.style.width = ((0.4 / 100) * $("#divContainerMapa").width()) + "%";
         //icono.style.zIndex = '100';
         document.getElementById('divContainerMapa').appendChild(icono);
-        
+
         //nombres íconos
-       /*  let spanIcono = document.createElement('span');
-        spanIcono.classList.add('spanIcon');
-        spanIcono.style.position = "absolute";
-        spanIcono.style.top = ((lugar.coordY / 100) * $("#divContainerMapa").height()) + 'px';
-        spanIcono.style.left = ((lugar.coordX / 100) * $("#divContainerMapa").width()) + 'px';
-        spanIcono.style.width = + ((0.4 / 100) * $("#divContainerMapa").width()) + "%";
-        spanIcono.style.zIndex = '101';
-        spanIcono.innerHTML = lugar.nombre;
-        document.getElementById('divContainerMapa').appendChild(spanIcono);
-        console.log(((lugar.coordY / 100) * $("#divContainerMapa").height()));
-        console.log(((lugar.coordX / 100) * $("#divContainerMapa").width())); */
+        /*  let spanIcono = document.createElement('span');
+         spanIcono.classList.add('spanIcon');
+         spanIcono.style.position = "absolute";
+         spanIcono.style.top = ((lugar.coordY / 100) * $("#divContainerMapa").height()) + 'px';
+         spanIcono.style.left = ((lugar.coordX / 100) * $("#divContainerMapa").width()) + 'px';
+         spanIcono.style.width = + ((0.4 / 100) * $("#divContainerMapa").width()) + "%";
+         spanIcono.style.zIndex = '101';
+         spanIcono.innerHTML = lugar.nombre;
+         document.getElementById('divContainerMapa').appendChild(spanIcono);
+         console.log(((lugar.coordY / 100) * $("#divContainerMapa").height()));
+         console.log(((lugar.coordX / 100) * $("#divContainerMapa").width())); */
     });
 }

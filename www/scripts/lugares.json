@@ -323,6 +323,174 @@
             "coordY": "45.033775331499"
         },
         {
+            "nombre": "Cerro El Eden",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "28.787284144427",
+            "coordY": "34.100575431574"
+        },
+        {
+            "nombre": "Cerro Largo",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "16.326530612245",
+            "coordY": "58.794095571679"
+        },
+        {
+            "nombre": "Cerro Taurete",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "28.610675039246",
+            "coordY": "71.803852889667"
+        },
+        {
+            "nombre": "Cerro El Jobo",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "27.786499215071",
+            "coordY": "73.304978734051"
+        },
+        {
+            "nombre": "Cerro Las Mesas",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "32.162480376766",
+            "coordY": "71.778834125594"
+        },
+        {
+            "nombre": "Cerro El Pilón",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "36.55808477237",
+            "coordY": "74.2807105329"
+        },
+        {
+            "nombre": "Fila Jumaiqui",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "37.696232339089",
+            "coordY": "77.23292469352"
+        },
+        {
+            "nombre": "Cerro La Flor",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "35.675039246468",
+            "coordY": "82.411808856642"
+        },
+        {
+            "nombre": "El Castillo",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "37.912087912088",
+            "coordY": "84.43832874656"
+        },
+        {
+            "nombre": "Los Mangos",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "45.32967032967",
+            "coordY": "73.179884913685"
+        },
+        {
+            "nombre": "Cerro La Molonca o Cerro Las Máscara",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "49.529042386185",
+            "coordY": "79.759819864899"
+        },
+        {
+            "nombre": "Cerro El Chancho",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "46.565934065934",
+            "coordY": "68.87665749312"
+        },
+        {
+            "nombre": "Santa Josefina",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "47.291993720565",
+            "coordY": "67.725794345759"
+        },
+        {
+            "nombre": "Cerro Pelón",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "54.140502354788",
+            "coordY": "66.825118839129"
+        },
+        {
+            "nombre": "Cerro Chirimia",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "52.001569858713",
+            "coordY": "72.804603452589"
+        },
+        {
+            "nombre": "Cerro El Venado",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "56.33830455259",
+            "coordY": "73.204903677758"
+        },
+        {
+            "nombre": "Cerro Apante",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "45.113814756672",
+            "coordY": "54.640980735552"
+        },
+        {
+            "nombre": "Cerro La Granja",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "49.116954474097",
+            "coordY": "52.739554665999"
+        },
+        {
+            "nombre": "Cerro El Campanario",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "51.11852433281",
+            "coordY": "54.816112084063"
+        },
+        {
+            "nombre": "Yaguare",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "47.93956043956",
+            "coordY": "54.640980735552"
+        },
+        {
+            "nombre": "Cerro Buena Vista",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "49.25431711146",
+            "coordY": "58.243682762072"
+        },
+        {
+            "nombre": "Cerro La Campana",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "48.194662480377",
+            "coordY": "60.120090067551"
+        },
+        {
+            "nombre": "Cerro La China",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "53.7284144427",
+            "coordY": "58.293720290218"
+        },
+        {
+            "nombre": "Cerro El Toro",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "52.276295133438",
+            "coordY": "49.612209156868"
+        },
+        {
             "nombre": "",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
