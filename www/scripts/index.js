@@ -9,8 +9,7 @@ var panzoom = Panzoom(elem, {
     startY: 83.55557250976562
 });
 
-$("#divContainerMapa").width($("#imgMapa").width());
-$("#divContainerMapa").height($("#imgMapa").height());
+
 
 
 var oldScale = panzoom.getScale();
@@ -98,7 +97,7 @@ var oldScale = panzoom.getScale();
 
         });
 
-        putElementsOnMap();
+        
 
         $("#buttonGoToMap").click(function () {
 
@@ -138,7 +137,9 @@ var oldScale = panzoom.getScale();
 
         $("#paginaInicio").hide();
         $("#paginaMapa").fadeIn();
-
+        $("#divContainerMapa").width($("#imgMapa").width());
+        $("#divContainerMapa").height($("#imgMapa").height());
+        putElementsOnMap();
     }
 
     function showInicio() {
