@@ -11,18 +11,6 @@
     <link rel='stylesheet' href='css/jqueryMobileUI.min.css'>
     <link rel='stylesheet' href='css/customcss.css'>
 
-    <script src="scripts/jquery.js"></script>
-
-    <script>
-        $(document).on('mobileinit', function () {
-            $.mobile.ignoreContentEnabled = true;
-        });
-    </script>
-
-    <script src="scripts/jqueryMobile.js"></script>
-
-    <script src="scripts/panzoom.js"></script>
-
     <title>Mapa ODESAR</title>
 
 </head>
@@ -59,6 +47,8 @@
         <div id="panelGlobal" data-enhance="false">
 
             <div id="containerButtons" data-enhance="false">
+
+                <button class="panelButton" id="buttonSearch"><img src="img/buscar.png"></button>
 
                 <button class="panelButton" id="buttonZoom"><img src="img/mas.png"></button>
 
@@ -120,7 +110,17 @@
 
     </div>
 
+    <script src="scripts/jquery.js"></script>
 
+    <script>
+        $(document).on('mobileinit', function () {
+            $.mobile.ignoreContentEnabled = true;
+        });
+    </script>
+
+    <script src="scripts/jqueryMobile.js"></script>
+
+    <script src="scripts/panzoom.js"></script>
 
     <script type=" text/javascript" src="cordova.js"></script>
 
