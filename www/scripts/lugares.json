@@ -491,6 +491,97 @@
             "coordY": "49.612209156868"
         },
         {
+            "nombre": "Cerro El Chile",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "64.246467817896",
+            "coordY": "75.656742556918"
+        },
+        {
+            "nombre": "Cerro Ocalca",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "68.720565149137",
+            "coordY": "70.903177383037"
+        },
+        {
+            "nombre": "Peña Las Mercedes",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "69.642857142857",
+            "coordY": "86.23967975982"
+        },
+        {
+            "nombre": "Loma Bupale",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "85.81240188383",
+            "coordY": "83.037277958469"
+        },
+        {
+            "nombre": "El Tepeyac",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "58.634222919937",
+            "coordY": "60.420315236427"
+        },
+        {
+            "nombre": "Cerro Portillo de San Pedro",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "37.087912087912",
+            "coordY": "63.522641981486"
+        },
+        {
+            "nombre": "Cerro Las Minitas",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "40.698587127159",
+            "coordY": "64.023017262947"
+        },
+        {
+            "nombre": "Cerro El Naranjal",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "41.777864992151",
+            "coordY": "66.274706029522"
+        },
+        {
+            "nombre": "Altamira",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "42.189952904239",
+            "coordY": "42.957217913435"
+        },
+        {
+            "nombre": "Los Lipes",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "43.308477237049",
+            "coordY": "38.078558919189"
+        },
+        {
+            "nombre": "Cerro La Trinchera",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "40.364992150706",
+            "coordY": "29.07180385289"
+        },
+        {
+            "nombre": "Cerro La Zopilota",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "41.562009419152",
+            "coordY": "32.549412059044"
+        },
+        {
+            "nombre": "Cerro San Salvador",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "48.724489795918",
+            "coordY": "38.353765323993"
+        },
+        {
             "nombre": "",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
