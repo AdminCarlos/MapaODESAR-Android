@@ -113,10 +113,25 @@
     <!-- /.container -->
 
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <script src="scripts/jquery.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="scripts/bootstrap.min.js"></script>
+
+    <!-- Biblioteca para zoom -->
+    <script src="scripts/panzoom.js"></script>
+
+    <script>
+        $(document).on('mobileinit', function () {
+            $.mobile.ignoreContentEnabled = true;
+        });
+    </script>
+
+    <script src="scripts/jqueryMobile.js"></script>
+
+    <script type=" text/javascript" src="cordova.js"></script>
+
+    <script type="text/javascript" src="scripts/index.js"></script>
 
 </body>
 
