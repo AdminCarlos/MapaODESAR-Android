@@ -136,7 +136,7 @@ var oldScale = panzoom.getScale();
     function showMapa() {
 
         $("#paginaInicio").hide();
-        $("#paginaMapa").fadeIn();
+        $("#paginaMapa").show();
         $("#divContainerMapa").width($("#imgMapa").width());
         $("#divContainerMapa").height($("#imgMapa").height());
         putElementsOnMap();
@@ -144,7 +144,7 @@ var oldScale = panzoom.getScale();
 
     function showInicio() {
 
-        $("#paginaInicio").fadeIn();
+        $("#paginaInicio").show();
         $("#paginaMapa").hide();
 
     }
@@ -264,6 +264,8 @@ var oldScale = panzoom.getScale();
     }
 
     function putElementsOnMap() {
+
+        $(".mapIcon").remove();
 
         if (device.platform === "Android") {
 
