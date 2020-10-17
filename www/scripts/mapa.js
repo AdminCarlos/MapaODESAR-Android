@@ -20,6 +20,22 @@ function onDeviceReady() {
     document.getElementById('buttonOpenLeyendas').addEventListener('click',(e)=>{
         abrirLeyendas();
     });
+    if (device.platform.toLowerCase == 'browser') {
+        //litener de clicks del título de modal de leyendas
+        document.getElementById('tituloModalLeyendas').addEventListener('click', (e) => {
+            closeLeyendas();
+        });
+    } else {
+        document.addEventListener("backbutton", onBackKeyDown, false);
+
+        function onBackKeyDown() {
+            // Handle the back button
+            if($("#divLeyendas").css("display") != "none"){
+                closeLeyendas();
+            }
+        }
+    }
+    
 }
 
 //esta función se encargará de hacer las peticiones una sola vez y luego
@@ -61,3 +77,6 @@ function abrirLeyendas() {
     $("#divLeyendas").slideDown();
 }
 
+function closeLeyendas() {
+    $("#divLeyendas").slideUp();
+}
