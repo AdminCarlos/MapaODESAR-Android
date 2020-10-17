@@ -68,6 +68,12 @@ function onDeviceReady() {
             }
         }
     }
+    //listener de los iconos del mapa
+    $(document).on("click", ".mapIcon", function () {
+
+        openDescripcion($(this).attr("id"));
+
+    });
 }
 
 //esta función se encargará de hacer las peticiones una sola vez y luego
@@ -165,4 +171,19 @@ function colocarLugaresEnMapa() {
          console.log(((lugar.coordY / 100) * $("#divContainerMapa").height()));
          console.log(((lugar.coordX / 100) * $("#divContainerMapa").width())); */
     });
+}
+
+function openDescripcion(iconID) {
+    $("#modalDescripcion .modalTitulo span").text(iconID);
+    for (let i = 0; i < lugares.length; i++) {
+
+        if (iconID === lugares[i].nombre) {
+
+            $("#modalDescripcion .modalCuerpo").html(lugares[i].descripcion);
+
+        }
+
+    }
+
+    $("#divDescripcion").slideDown();
 }
