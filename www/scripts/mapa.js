@@ -15,6 +15,17 @@ function onDeviceReady() {
         startX: 7.333333333333334,
         startY: 83.55557250976562
     });
+    elem.addEventListener('panzoomzoom', (event) => {
+
+        $(".mapIcon").css("width", ((0.3 / 100) * ($("#divContainerMapa").width() / panzoom.getScale())) + "em");
+
+        if (panzoom.getScale() < 4 && panzoom.getScale() >= 3) {
+
+            $(".mapIcon").css("width", ((0.4 / 100) * $("#divContainerMapa").width()) + "%");
+
+        }
+
+    });
     peticiones();
     //mostrar todo cuando cordova esté listo
     document.getElementById('divBody').style.display = "";
