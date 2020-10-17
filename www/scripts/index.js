@@ -5,8 +5,8 @@ var panzoom = Panzoom(elem, {
     minScale: 3,
     step: 0.4,
     startScale: 3,
-    startX: 7.333333333333334,
-    startY: 83.55557250976562
+    startX: 31.300050099690754,
+    startY: 45.95204671223958
 });
 
 
@@ -75,13 +75,87 @@ var oldScale = panzoom.getScale();
 
         elem.addEventListener('panzoomzoom', (event) => {
 
-            $(".mapIcon").css("width", ((0.3 / 100) * ($("#divContainerMapa").width() / panzoom.getScale())) + "em");
+            /* $(".mapIcon").css("width", ((0.3 / 100) * ($("#divContainerMapa").width() / panzoom.getScale())) + "%");
 
             if (panzoom.getScale() < 4 && panzoom.getScale() >= 3) {
 
                 $(".mapIcon").css("width", ((0.4 / 100) * $("#divContainerMapa").width()) + "%");
 
+            } */
+
+            if (panzoom.getScale() === 3) {
+
+                $(".mapIcon").css("width", "2%");
+
             }
+
+            else if (panzoom.getScale() > 3 && panzoom.getScale() <= 3.5) {
+
+                $(".mapIcon").css("width", "1.8%");
+
+            }
+
+            else if (panzoom.getScale() > 3.5 && panzoom.getScale() <= 4) {
+
+                $(".mapIcon").css("width", "1.6%");
+
+            }
+
+            else if (panzoom.getScale() > 4 && panzoom.getScale() <= 4.5) {
+
+                $(".mapIcon").css("width", "1.4%");
+
+            }
+
+            else if (panzoom.getScale() > 4.5 && panzoom.getScale() <= 5) {
+
+                $(".mapIcon").css("width", "1.2%");
+
+            }
+
+            else if (panzoom.getScale() > 5 && panzoom.getScale() <= 5.5) {
+
+                $(".mapIcon").css("width", "1%");
+
+            }
+
+            else if (panzoom.getScale() > 5.5 && panzoom.getScale() <= 6) {
+
+                $(".mapIcon").css("width", "0.8%");
+
+            }
+
+            else if (panzoom.getScale() > 6 && panzoom.getScale() <= 6.5) {
+
+                $(".mapIcon").css("width", "0.6%");
+
+            }
+
+            else if (panzoom.getScale() > 6.5 && panzoom.getScale() <= 7) {
+
+                $(".mapIcon").css("width", "0.4%");
+
+            }
+
+            else if (panzoom.getScale() > 7 && panzoom.getScale() <= 7.5) {
+
+                $(".mapIcon").css("width", "0.2%");
+
+            }
+
+            else if (panzoom.getScale() > 7.5 && panzoom.getScale() <= 9) {
+
+                $(".mapIcon").css("width", "0.09%");
+
+            }
+
+            else if (panzoom.getScale() === 9) {
+
+                $(".mapIcon").css("width", "0.5%");
+
+            }
+
+            console.log("Nivel de Escala: " + panzoom.getScale() + " Icon size: " + $(".mapIcon").css("width"));
 
         });
 
@@ -140,6 +214,7 @@ var oldScale = panzoom.getScale();
         $("#divContainerMapa").width($("#imgMapa").width());
         $("#divContainerMapa").height($("#imgMapa").height());
         putElementsOnMap();
+        console.log(device.platform);
     }
 
     function showInicio() {
@@ -329,7 +404,7 @@ function parserLugares(jsonLugares) {
         icono.style.position = "absolute";
         icono.style.top = ((lugar.coordY / 100) * $("#divContainerMapa").height()) + 'px';
         icono.style.left = ((lugar.coordX / 100) * $("#divContainerMapa").width()) + 'px';
-        icono.style.width = ((0.4 / 100) * $("#divContainerMapa").width()) + "%";
+        icono.style.width = "2%";
         //icono.style.zIndex = '100';
         document.getElementById('divContainerMapa').appendChild(icono);
 
