@@ -11,6 +11,7 @@ function onDeviceReady() {
         minScale: 3,
         step: 0.4,
         startScale: 3,
+        contain: 'outside',
         startX: 7.333333333333334,
         startY: 83.55557250976562
     });
