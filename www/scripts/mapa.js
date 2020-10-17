@@ -52,10 +52,13 @@ function onDeviceReady() {
         panzoom.zoom(panzoom.getScale() - 0.5);
     });
 
-    if (device.platform.toLowerCase == 'browser') {
+    if (device.platform === 'browser') {
         //litener de clicks del título de modal de leyendas
         document.getElementById('tituloModalLeyendas').addEventListener('click', (e) => {
             closeLeyendas();
+        });
+        document.getElementById('tituloModalDescripcion').addEventListener('click', (e) => {
+            closeDescription();
         });
     } else {
         //listener del botón de atrás
@@ -63,8 +66,9 @@ function onDeviceReady() {
 
         function onBackKeyDown() {
             // Handle the back button
-            if($("#divLeyendas").css("display") != "none"){
+            if($("#divLeyendas").css("display") != "none" || $("#divDescripcion").css("display") != "none"){
                 closeLeyendas();
+                closeDescription();
             }
         }
     }
@@ -142,6 +146,12 @@ function abrirLeyendas() {
 
 function closeLeyendas() {
     $("#divLeyendas").slideUp();
+}
+
+function closeDescription() {
+
+    $("#divDescripcion").slideUp();
+
 }
 
 function colocarLugaresEnMapa() {
