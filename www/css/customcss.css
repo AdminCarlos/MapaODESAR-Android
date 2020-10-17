@@ -125,7 +125,6 @@
     background-image: url("../img/background.png");
     background-size: cover;
     background-position: bottom right;
-    position: absolute;
     width: 99vw;
 
 }
