@@ -215,7 +215,7 @@
     animation-iteration-count: infinite;
     padding: 0 0 0 0;
     margin: 0 0 0 0;
-    transition: width 0.5s;
+    transition: width 0.5s, opacity 1s, visibility 1s;
     height: auto !important;
 
 }
@@ -241,6 +241,40 @@
     30%  { transform: translateY(-0.1vh); }
     50%  { transform: translateY(0); }
     100% { transform: translateY(0); }
+}
+
+#divBuscar {
+
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 15%;
+    width: 0%;
+    height: 5%;
+    transition: width 0.5s;
+    padding: 0;
+    margin: 0;
+    z-index: 5;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(255, 255, 255, 0.5);;
+}
+
+#divBuscar input {
+
+    width: 100%;
+    height: 100%;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-sizing: content-box;
+    border: none;
+    outline: none;
+    text-decoration: none;
+
 }
 
 /* peticiones de anchura de viewport */

@@ -9,9 +9,6 @@ var panzoom = Panzoom(elem, {
     startY: 45.95204671223958
 });
 
-
-
-
 var oldScale = panzoom.getScale();
 
 (function () {
@@ -49,6 +46,7 @@ var oldScale = panzoom.getScale();
         showInicio();
 
         document.addEventListener("backbutton", onBackKeyDown, false);
+
         function onBackKeyDown(e) {
             e.preventDefault();
 
@@ -65,10 +63,11 @@ var oldScale = panzoom.getScale();
 
             }
 
-            else if ($("#divLeyendas").css("display") != "none" || $("#divDescripcion").css("display") != "none") {
+            else if ($("#divLeyendas").css("display") != "none" || $("#divDescripcion").css("display") != "none" || $("#divBuscar").css("display") != "none") {
 
                 closeLeyendas();
                 closeDescription();
+                closeBuscar();
 
             }
         }
@@ -171,6 +170,11 @@ var oldScale = panzoom.getScale();
 
         });
 
+        $("#inputBuscar").on("input", function () {
+
+            buscar($("#inputBuscar").val());
+
+        });
 
 
         $("#buttonGoToMap").click(function () {
@@ -179,6 +183,12 @@ var oldScale = panzoom.getScale();
 
         });
 
+        $("#buttonSearch").click(function () {
+
+            openBuscar();
+            buscar();
+
+        });
 
         $("#buttonOpenLeyendas").click(function () {
 
@@ -202,6 +212,7 @@ var oldScale = panzoom.getScale();
 
             closeLeyendas();
             closeDescription();
+            closeBuscar();
 
         });
 
@@ -338,6 +349,30 @@ var oldScale = panzoom.getScale();
 
     }
 
+    function openBuscar() {
+
+        $("#divBuscar").css("width", "85%");
+        $("#inputBuscar").focus();
+
+    }
+
+    function closeBuscar() {
+
+        if ($("#inputBuscar").val() === "") {
+
+            $("#divBuscar").css("width", "0%");
+            $("#inputBuscar").blur();
+
+        }
+
+        else {
+
+            $("#inputBuscar").blur();
+
+        }
+
+    }
+
     function putElementsOnMap() {
 
         $(".mapIcon").remove();
@@ -389,6 +424,28 @@ var oldScale = panzoom.getScale();
 
         console.log("Map Width: " + $("#imgMapa").width());
         console.log("Map Height: " + $("#imgMapa").height());
+
+    }
+
+    function buscar(stringToSearch) {
+
+        $(".mapIcon").each(function () {
+
+            if ($(this).attr("id").toLowerCase().includes(stringToSearch.toLowerCase())) {
+
+                $(this).css("opacity", "1");
+                $(this).css("visibility", "visible");
+
+            }
+
+            else {
+
+                $(this).css("opacity", "0");
+                $(this).css("visibility", "hidden");
+
+            }
+
+        });
 
     }
 
