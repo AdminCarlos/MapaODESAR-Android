@@ -1,12 +1,30 @@
 @font-face {
 
-    font-family: fontCaviar;
-    src: url("../fonts/CaviarDreams.ttf");
+    font-family: fontConfortaa;
+    src: url("../fonts/Comfortaa-Bold.ttf");
+    font-weight: bold;
+
+}
+
+@font-face {
+
+    font-family: fontConfortaa;
+    src: url("../fonts/Comfortaa-Light.ttf");
+    font-weight: lighter;
+
+}
+
+@font-face {
+
+    font-family: fontConfortaa;
+    src: url("../fonts/Comfortaa-Regular.ttf");
+    font-weight: normal;
 
 }
 
 .divPaginas {
     
+    box-sizing: border-box;
     width: 100vw;
     height: 100vh;
 
@@ -139,78 +157,41 @@
 
 * {
 
-    padding: 0 0 0 0;
-font-family: fontCaviar !important;
+    padding: 0 0 0 0 !important;
+
 }
 
 #paginaInicio {
 
-    background-color: rgba(255, 255, 255, 0.5) !important; 
-
-}
-
-.paginasSeccionTitulo {
-
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    display: block;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    background-color: black;
-    width: 100%;
-    height: 7vh;
-
-}
-
-.paginasSeccionTitulo span {
-
-    position: relative;
-    display: block;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-
-}
-
-.paginasSeccionCuerpo {
-
+    overflow: auto;
     text-align: justify;
-    height: 100%;
-    padding-left: 5vw;
-    padding-right: 5vw;
-    background-color: rgba(255, 255, 255, 0.5)
+    background-color: white !important;
+    font-family: fontConfortaa !important;
+    font-weight: bold;
+    border-style: solid;
+    border-color: red;
+    padding-right: 4% !important;
+    padding-left: 4% !important;
 
 }
 
-.paginasSeccionFooter {
 
-    position: fixed;
-    bottom: 0;
-    display: block;
-    text-align: center;
-    text-decoration: none;
-    color: white;
-    background-color: green;
-    width: 100%;
-    height: 7vh;
-
-}
 
 #buttonGoToMap {
 
+    position: sticky;
+    top: 0;
     display: block;
     width: 100%;
-    height: 100%;
-    background-color: green;
-    color: white;
+    height: 15%;
+    color: green;
+    background-color: white;
     border: none;
+    font-family: fontConfortaa;
+    font-weight: 900;
+    font-size: 25px;
     text-decoration: none;
-    animation-name: bounce-3;
-    animation-timing-function: ease;
-    animation-duration: 2s;
-    animation-iteration-count: infinite;
+    overflow: auto;
 }
 
 .mapIcon {
