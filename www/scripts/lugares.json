@@ -582,6 +582,20 @@
             "coordY": "38.353765323993"
         },
         {
+            "nombre": "Cerro Matapalo",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "57.476452119309",
+            "coordY": "42.732049036778"
+        },
+        {
+            "nombre": "Cerro El Portillo",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
+            "coordX": "55.926216640502",
+            "coordY": "38.754065549162"
+        },
+        {
             "nombre": "",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
@@ -627,6 +641,132 @@
             "nombre": "",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
+            "coordX": "",
+            "coordY": ""
+        },
+        {
+            "nombre": "Cueva de Los Murciélagos",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
+            "coordX": "38.343799058085",
+            "coordY": "23.91793845384"
+        },
+        {
+            "nombre": "Cueva de Los Duendes",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
+            "coordX": "38.186813186813",
+            "coordY": "24.89367025269"
+        },
+        {
+            "nombre": "Cueva Los Mojones",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
+            "coordX": "34.51726844584",
+            "coordY": "27.245434075557"
+        },
+        {
+            "nombre": "Sitio Cueva Los Ladrones",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
+            "coordX": "37.794348508634",
+            "coordY": "29.021766324744"
+        },
+        {
+            "nombre": "Cueva del Duende",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
+            "coordX": "38.147566718995",
+            "coordY": "31.223417563172"
+        },
+        {
+            "nombre": "Sitio Cueva La Puerta del Cerro",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
+            "coordX": "39.854788069074",
+            "coordY": "71.528646484864"
+        },
+        {
+            "nombre": "Sitio Cueva de Piedra Colorada",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
+            "coordX": "49.372056514914",
+            "coordY": "74.85614210658"
+        },
+        {
+            "nombre": "Sitio Finca La Azucena",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
+            "coordX": "84.909733124019",
+            "coordY": "73.95546659995"
+        },
+        {
+            "nombre": "",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
+            "coordX": "",
+            "coordY": ""
+        },
+        {
+            "nombre": "Partera",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
+            "coordX": "54.317111459969",
+            "coordY": "72.229171878909"
+        },
+        {
+            "nombre": "Partera",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
+            "coordX": "42.405808477237",
+            "coordY": "77.933450087566"
+        },
+        {
+            "nombre": "Partera",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
+            "coordX": "38.893249607535",
+            "coordY": "84.038028521391"
+        },
+        {
+            "nombre": "Partera",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
+            "coordX": "46.64442700157",
+            "coordY": "85.238929196898"
+        },
+        {
+            "nombre": "Partera",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
+            "coordX": "35.498430141287",
+            "coordY": "80.335251438579"
+        },
+        {
+            "nombre": "Partera",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
+            "coordX": "66.365777080063",
+            "coordY": "71.903927945959"
+        },
+        {
+            "nombre": "Partera",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
+            "coordX": "77.727629513344",
+            "coordY": "86.114585939455"
+        },
+        {
+            "nombre": "Partera",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
+            "coordX": "83.084772370487",
+            "coordY": "80.810607955967"
+        },
+        {
+            "nombre": "Partera",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "",
             "coordY": ""
         }
