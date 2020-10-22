@@ -522,7 +522,9 @@ function parserLugares(jsonLugares) {
         spanIcono.classList.add('spanIcon');
         let spanIconoCanvas = spanIcono.getContext("2d");
         spanIconoCanvas.font = "250% Arial bold";
-        spanIconoCanvas.fillStyle = "white";
+        spanIconoCanvas.fillStyle = "black";
+        spanIconoCanvas.shadowBlur = 7;
+        spanIconoCanvas.shadowColor = "white"
         spanIconoCanvas.textAlign = "center";
         spanIconoCanvas.fillText(lugar.nombre, spanIcono.width / 2, 30);
         spanIcono.style.position = "absolute";

@@ -1,3 +1,5 @@
+@import url("../fonts/Comfortaa-Bold.ttf");
+
 @font-face {
 
     font-family: fontConfortaa;
@@ -159,6 +161,7 @@
 #divContainerMapa {
 
     width: 100vw;
+    font-family: fontConfortaa;
 
 }
 
@@ -265,8 +268,6 @@
     border-color: rgba(0, 0, 0, 1);
     border-width: 0.5px; */
     box-sizing: border-box;
-
-
 }
 
 @keyframes bounce-3 {
