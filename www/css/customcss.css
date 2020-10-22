@@ -175,6 +175,12 @@
 
 }
 
+#divContainerMapa {
+
+    font-size: 1px;
+
+}
+
 #spanTituloInicio {
 
     color: orangered;
@@ -241,7 +247,7 @@
 
 .mapIcon {
 
-    /* min-width: 2px;
+    min-width: 2px;
     animation-name: iconBounce;
     animation-timing-function: ease;
     animation-duration: 2s;
@@ -249,17 +255,17 @@
     padding: 0 0 0 0;
     margin: 0 0 0 0;
     transition: width 0.5s, opacity 1s, visibility 1s;
-    height: auto !important; */
+    height: auto !important;
 
 }
 
-.divContainerIcono {
+.spanIcon {
 
-    border-style: solid;
-    border-color: cornflowerblue;
-    border-width: 0.5px;
-    transition: width 0.5s, opacity 1s, visibility 1s;
-    min-width: 2px;
+    /* border-style: solid;
+    border-color: rgba(0, 0, 0, 1);
+    border-width: 0.5px; */
+    box-sizing: border-box;
+
 
 }
 
