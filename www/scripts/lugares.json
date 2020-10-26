@@ -2,6 +2,7 @@
     "lugares": [
         {
             "nombre": "Cerro El Liquidámbar",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "59.713500784929",
@@ -9,6 +10,7 @@
         },
         {
             "nombre": "Fila Cerro Frio",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "58.104395604396",
@@ -16,6 +18,7 @@
         },
         {
             "nombre": "Fila Bijagua",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "57.339089481947",
@@ -23,6 +26,7 @@
         },
         {
             "nombre": "Cerro Guntalón",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "56.770015698587",
@@ -30,6 +34,7 @@
         },
         {
             "nombre": "Cerro San Jacinto",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "46.07535321821",
@@ -37,6 +42,7 @@
         },
         {
             "nombre": "Loma La Gracia",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "46.055729984301",
@@ -44,6 +50,7 @@
         },
         {
             "nombre": "Cerro Los Números",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "43.210361067504",
@@ -51,6 +58,7 @@
         },
         {
             "nombre": "Cerro Partido",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "44.093406593407",
@@ -58,6 +66,7 @@
         },
         {
             "nombre": "Loma El Porvenir",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "45.388540031397",
@@ -65,6 +74,7 @@
         },
         {
             "nombre": "Cerro Fuente Pura",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "43.229984301413",
@@ -72,6 +82,7 @@
         },
         {
             "nombre": "Cerro El Picacho",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "43.602825745683",
@@ -79,6 +90,7 @@
         },
         {
             "nombre": "Cerro Bravo",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "47.664835164835",
@@ -86,6 +98,7 @@
         },
         {
             "nombre": "Cerro La Mesa",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "31.887755102041",
@@ -93,6 +106,7 @@
         },
         {
             "nombre": "Las Trancas",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "31.691522762951",
@@ -100,6 +114,7 @@
         },
         {
             "nombre": "Cerro La Joya",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "28.767660910518",
@@ -107,6 +122,7 @@
         },
         {
             "nombre": "Cerro Tejerina",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "29.434850863422",
@@ -114,6 +130,7 @@
         },
         {
             "nombre": "Cerro El Orégano",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "26.432496075353",
@@ -121,6 +138,7 @@
         },
         {
             "nombre": "Loma El Palacio",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "21.546310832025",
@@ -128,6 +146,7 @@
         },
         {
             "nombre": "Cerro Liquidámbar",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "27.511773940345",
@@ -135,6 +154,7 @@
         },
         {
             "nombre": "Cerro El Ocote",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "29.042386185243",
@@ -142,6 +162,7 @@
         },
         {
             "nombre": "Cerro La Mesa",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "20.133437990581",
@@ -149,6 +170,7 @@
         },
         {
             "nombre": "Cerro La Pita",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "18.524332810047",
@@ -156,6 +178,7 @@
         },
         {
             "nombre": "Cerro El Guayacán",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "22.370486656201",
@@ -163,6 +186,7 @@
         },
         {
             "nombre": "Cerro El Taburete",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "16.326530612245",
@@ -170,6 +194,7 @@
         },
         {
             "nombre": "Cerro Grande",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "24.352433281005",
@@ -177,6 +202,7 @@
         },
         {
             "nombre": "Cerro El Venado",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "21.64442700157",
@@ -184,6 +210,7 @@
         },
         {
             "nombre": "Loma El Jícaro",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "22.350863422292",
@@ -191,6 +218,7 @@
         },
         {
             "nombre": "Cerro Moropotente",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "19.976452119309",
@@ -198,6 +226,7 @@
         },
         {
             "nombre": "Cerro La Sepultura",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "22.135007849294",
@@ -205,6 +234,7 @@
         },
         {
             "nombre": "Cerro El Portillo del Cacao",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "25.94191522763",
@@ -212,6 +242,7 @@
         },
         {
             "nombre": "Fila San Marcos",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "78.041601255887",
@@ -219,6 +250,7 @@
         },
         {
             "nombre": "Fila Apatite",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "80.455259026688",
@@ -226,6 +258,7 @@
         },
         {
             "nombre": "Loma El Zapote",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "76.903453689168",
@@ -233,6 +266,7 @@
         },
         {
             "nombre": "Cerro San Jerónimo",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "81.927001569859",
@@ -240,6 +274,7 @@
         },
         {
             "nombre": "Loma Yarakamita",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "78.237833594976",
@@ -247,6 +282,7 @@
         },
         {
             "nombre": "Cerro El Padre",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "79.572213500785",
@@ -254,6 +290,7 @@
         },
         {
             "nombre": "Cerro El Confite",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "74.470172684458",
@@ -261,6 +298,7 @@
         },
         {
             "nombre": "Cerro El Ocote",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "73.175039246468",
@@ -268,6 +306,7 @@
         },
         {
             "nombre": "Loma El Chompipe",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "73.096546310832",
@@ -275,6 +314,7 @@
         },
         {
             "nombre": "Cerro El Pelón",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "70.663265306122",
@@ -282,6 +322,7 @@
         },
         {
             "nombre": "Cerro San Sebastián",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "67.248822605965",
@@ -289,6 +330,7 @@
         },
         {
             "nombre": "Cerro Monte Grande",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "37.225274725275",
@@ -296,6 +338,7 @@
         },
         {
             "nombre": "Cerro Los Llanitos",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "37.009419152276",
@@ -303,6 +346,7 @@
         },
         {
             "nombre": "Cerro Las Mercedes",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "39.089481946625",
@@ -310,6 +354,7 @@
         },
         {
             "nombre": "Cerro de Piedra de Agua",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "36.263736263736",
@@ -317,6 +362,7 @@
         },
         {
             "nombre": "Cerro de Piedra",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "37.912087912088",
@@ -324,6 +370,7 @@
         },
         {
             "nombre": "Cerro El Eden",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "28.787284144427",
@@ -331,6 +378,7 @@
         },
         {
             "nombre": "Cerro Largo",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "16.326530612245",
@@ -338,6 +386,7 @@
         },
         {
             "nombre": "Cerro Taurete",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "28.610675039246",
@@ -345,6 +394,7 @@
         },
         {
             "nombre": "Cerro El Jobo",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "27.786499215071",
@@ -352,6 +402,7 @@
         },
         {
             "nombre": "Cerro Las Mesas",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "32.162480376766",
@@ -359,6 +410,7 @@
         },
         {
             "nombre": "Cerro El Pilón",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "36.55808477237",
@@ -366,6 +418,7 @@
         },
         {
             "nombre": "Fila Jumaiqui",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "37.696232339089",
@@ -373,6 +426,7 @@
         },
         {
             "nombre": "Cerro La Flor",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "35.675039246468",
@@ -380,6 +434,7 @@
         },
         {
             "nombre": "El Castillo",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "37.912087912088",
@@ -387,6 +442,7 @@
         },
         {
             "nombre": "Los Mangos",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "45.32967032967",
@@ -394,6 +450,7 @@
         },
         {
             "nombre": "Cerro La Molonca o Cerro Las Máscara",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "49.529042386185",
@@ -401,6 +458,7 @@
         },
         {
             "nombre": "Cerro El Chancho",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "46.565934065934",
@@ -408,6 +466,7 @@
         },
         {
             "nombre": "Santa Josefina",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "47.291993720565",
@@ -415,6 +474,7 @@
         },
         {
             "nombre": "Cerro Pelón",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "54.140502354788",
@@ -422,6 +482,7 @@
         },
         {
             "nombre": "Cerro Chirimia",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "52.001569858713",
@@ -429,6 +490,7 @@
         },
         {
             "nombre": "Cerro El Venado",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "56.33830455259",
@@ -436,6 +498,7 @@
         },
         {
             "nombre": "Cerro Apante",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "45.113814756672",
@@ -443,6 +506,7 @@
         },
         {
             "nombre": "Cerro La Granja",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "49.116954474097",
@@ -450,6 +514,7 @@
         },
         {
             "nombre": "Cerro El Campanario",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "51.11852433281",
@@ -457,6 +522,7 @@
         },
         {
             "nombre": "Yaguare",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "47.93956043956",
@@ -464,6 +530,7 @@
         },
         {
             "nombre": "Cerro Buena Vista",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "49.25431711146",
@@ -471,6 +538,7 @@
         },
         {
             "nombre": "Cerro La Campana",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "48.194662480377",
@@ -478,6 +546,7 @@
         },
         {
             "nombre": "Cerro La China",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "53.7284144427",
@@ -485,6 +554,7 @@
         },
         {
             "nombre": "Cerro El Toro",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "52.276295133438",
@@ -492,6 +562,7 @@
         },
         {
             "nombre": "Cerro El Chile",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "64.246467817896",
@@ -499,6 +570,7 @@
         },
         {
             "nombre": "Cerro Ocalca",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "68.720565149137",
@@ -506,6 +578,7 @@
         },
         {
             "nombre": "Peña Las Mercedes",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "69.642857142857",
@@ -513,6 +586,7 @@
         },
         {
             "nombre": "Loma Bupale",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "85.81240188383",
@@ -520,6 +594,7 @@
         },
         {
             "nombre": "El Tepeyac",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "58.634222919937",
@@ -527,6 +602,7 @@
         },
         {
             "nombre": "Cerro Portillo de San Pedro",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "37.087912087912",
@@ -534,6 +610,7 @@
         },
         {
             "nombre": "Cerro Las Minitas",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "40.698587127159",
@@ -541,6 +618,7 @@
         },
         {
             "nombre": "Cerro El Naranjal",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "41.777864992151",
@@ -548,6 +626,7 @@
         },
         {
             "nombre": "Altamira",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "42.189952904239",
@@ -555,6 +634,7 @@
         },
         {
             "nombre": "Los Lipes",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "43.308477237049",
@@ -562,6 +642,7 @@
         },
         {
             "nombre": "Cerro La Trinchera",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "40.364992150706",
@@ -569,6 +650,7 @@
         },
         {
             "nombre": "Cerro La Zopilota",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "41.562009419152",
@@ -576,6 +658,7 @@
         },
         {
             "nombre": "Cerro San Salvador",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "48.724489795918",
@@ -583,6 +666,7 @@
         },
         {
             "nombre": "Cerro Matapalo",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "57.476452119309",
@@ -590,6 +674,7 @@
         },
         {
             "nombre": "Cerro El Portillo",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "55.926216640502",
@@ -597,6 +682,7 @@
         },
         {
             "nombre": "",
+            "categoria": "CerrosyMontañas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "",
@@ -604,6 +690,7 @@
         },
         {
             "nombre": "Salto La Mocuana",
+            "categoria": "SaltosyCascadas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
             "coordX": "49.175824175824",
@@ -611,6 +698,7 @@
         },
         {
             "nombre": "Salto El Diamante",
+            "categoria": "SaltosyCascadas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
             "coordX": "55.631868131868",
@@ -618,6 +706,7 @@
         },
         {
             "nombre": "Salto Santa Emilia",
+            "categoria": "SaltosyCascadas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
             "coordX": "60.302197802198",
@@ -625,6 +714,7 @@
         },
         {
             "nombre": "El Salto",
+            "categoria": "SaltosyCascadas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
             "coordX": "75.588697017268",
@@ -632,6 +722,7 @@
         },
         {
             "nombre": "Salto El Corozo",
+            "categoria": "SaltosyCascadas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
             "coordX": "51.334379905808",
@@ -639,6 +730,7 @@
         },
         {
             "nombre": "",
+            "categoria": "SaltosyCascadas",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
             "coordX": "",
@@ -646,6 +738,7 @@
         },
         {
             "nombre": "Cueva de Los Murciélagos",
+            "categoria": "Cuevas/Abrigosrocosos",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "38.343799058085",
@@ -653,6 +746,7 @@
         },
         {
             "nombre": "Cueva de Los Duendes",
+            "categoria": "Cuevas/Abrigosrocosos",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "38.186813186813",
@@ -660,6 +754,7 @@
         },
         {
             "nombre": "Cueva Los Mojones",
+            "categoria": "Cuevas/Abrigosrocosos",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "34.51726844584",
@@ -667,6 +762,7 @@
         },
         {
             "nombre": "Sitio Cueva Los Ladrones",
+            "categoria": "Cuevas/Abrigosrocosos",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "37.794348508634",
@@ -674,6 +770,7 @@
         },
         {
             "nombre": "Cueva del Duende",
+            "categoria": "Cuevas/Abrigosrocosos",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "38.147566718995",
@@ -681,6 +778,7 @@
         },
         {
             "nombre": "Sitio Cueva La Puerta del Cerro",
+            "categoria": "Cuevas/Abrigosrocosos",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "39.854788069074",
@@ -688,6 +786,7 @@
         },
         {
             "nombre": "Sitio Cueva de Piedra Colorada",
+            "categoria": "Cuevas/Abrigosrocosos",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "49.372056514914",
@@ -695,6 +794,7 @@
         },
         {
             "nombre": "Sitio Finca La Azucena",
+            "categoria": "Cuevas/Abrigosrocosos",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "84.909733124019",
@@ -702,6 +802,7 @@
         },
         {
             "nombre": "",
+            "categoria": "Cuevas/Abrigosrocosos",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "",
@@ -709,6 +810,7 @@
         },
         {
             "nombre": "Partera",
+            "categoria": "Parteras",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "54.317111459969",
@@ -716,6 +818,7 @@
         },
         {
             "nombre": "Partera",
+            "categoria": "Parteras",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "42.405808477237",
@@ -723,6 +826,7 @@
         },
         {
             "nombre": "Partera",
+            "categoria": "Parteras",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "38.893249607535",
@@ -730,6 +834,7 @@
         },
         {
             "nombre": "Partera",
+            "categoria": "Parteras",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "46.64442700157",
@@ -737,6 +842,7 @@
         },
         {
             "nombre": "Partera",
+            "categoria": "Parteras",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "35.498430141287",
@@ -744,6 +850,7 @@
         },
         {
             "nombre": "Partera",
+            "categoria": "Parteras",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "66.365777080063",
@@ -751,6 +858,7 @@
         },
         {
             "nombre": "Partera",
+            "categoria": "Parteras",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "77.727629513344",
@@ -758,6 +866,7 @@
         },
         {
             "nombre": "Partera",
+            "categoria": "Parteras",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "83.084772370487",
@@ -765,6 +874,7 @@
         },
         {
             "nombre": "Partera",
+            "categoria": "Parteras",
             "descripcion": "Placeholder Description",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "",

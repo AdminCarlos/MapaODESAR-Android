@@ -68,6 +68,7 @@ var oldScale = panzoom.getScale();
                 closeLeyendas();
                 closeDescription();
                 closeBuscar();
+                //closeFiltrar();
 
             }
         }
@@ -188,6 +189,26 @@ var oldScale = panzoom.getScale();
 
         });
 
+        /* $(".checkboxFiltrar").on("change", function () {
+
+            console.log($(this).attr("id"));
+
+            if ($(this).is(":checked")) {
+
+                filtrar($(this).attr("id"));
+                //console.log($(this).attr("id") + " esta chequeado");
+
+            }
+
+            else {
+
+                unfiltrar($(this).attr("id"));
+                //console.log($(this).attr("id") + " esta chequeado");
+
+            }
+
+        }); */
+
 
         $("#buttonGoToMap").click(function () {
 
@@ -198,9 +219,14 @@ var oldScale = panzoom.getScale();
         $("#buttonSearch").click(function () {
 
             openBuscar();
-            buscar();
 
         });
+
+        /* $("#buttonFilter").click(function () {
+
+            openFiltrar();
+
+        }); */
 
         $("#buttonOpenLeyendas").click(function () {
 
@@ -225,6 +251,7 @@ var oldScale = panzoom.getScale();
             closeLeyendas();
             closeDescription();
             closeBuscar();
+            //closeFiltrar();
 
         });
 
@@ -385,6 +412,18 @@ var oldScale = panzoom.getScale();
 
     }
 
+    /* function openFiltrar() {
+
+        $("#divFiltrar").css("width", "20%");
+
+    }
+
+    function closeFiltrar() {
+
+        $("#divFiltrar").css("width", "0%");
+
+    } */
+
     function putElementsOnMap() {
 
         $(".mapIcon").remove();
@@ -459,7 +498,61 @@ var oldScale = panzoom.getScale();
 
         });
 
+        $(".spanIcon").each(function () {
+
+            if ($(this).attr("id").toLowerCase().includes(stringToSearch.toLowerCase())) {
+
+                $(this).css("opacity", "1");
+                $(this).css("visibility", "visible");
+
+            }
+
+            else {
+
+                $(this).css("opacity", "0");
+                $(this).css("visibility", "hidden");
+
+            }
+
+        });
+
     }
+
+    /* function filtrar(categoryToFilter) {
+
+        $(".mapIcon").each(function () {
+
+            if ($(this).attr("class").split(" ")[1] != categoryToFilter) {
+
+                $(this).css("opacity", "0");
+                $(this).css("visibility", "hidden");
+
+            }
+
+            else {
+
+                $(this).css("opacity", "1");
+                $(this).css("visibility", "visible");
+
+            }
+        });
+
+    } */
+
+    /* function unfiltrar(categoryToUnfilter) {
+
+        $(".mapIcon").each(function () {
+
+            if ($(this).attr("class").split(" ")[1] != categoryToUnfilter) {
+
+                $(this).css("opacity", "1");
+                $(this).css("visibility", "visible");
+
+            }
+
+        });
+
+    } */
 
 })();
 
@@ -507,6 +600,7 @@ function parserLugares(jsonLugares) {
         //íconos del mapa
         let icono = document.createElement('img');
         icono.classList.add('mapIcon');
+        icono.classList.add(lugar.categoria);
         icono.id = lugar.nombre;
         icono.src = lugar.icono;
         icono.style.position = "absolute";
@@ -520,6 +614,8 @@ function parserLugares(jsonLugares) {
         //nombres íconos
         let spanIcono = document.createElement('canvas');
         spanIcono.classList.add('spanIcon');
+        spanIcono.id = "span" + lugar.nombre;
+        spanIcono.classList.add(lugar.categoria);
         let spanIconoCanvas = spanIcono.getContext("2d");
         spanIconoCanvas.font = "250% Arial bold";
         spanIconoCanvas.fillStyle = "black";

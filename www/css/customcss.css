@@ -268,6 +268,7 @@
     border-color: rgba(0, 0, 0, 1);
     border-width: 0.5px; */
     box-sizing: border-box;
+    transition: width 0.5s, opacity 1s, visibility 1s;
 }
 
 @keyframes bounce-3 {
@@ -315,6 +316,43 @@
     border: none;
     outline: none;
     text-decoration: none;
+
+}
+
+#divFiltrar {
+
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    width: 0%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    z-index: 5;
+    background-color: white;
+    overflow: scroll;
+    transition: width 0.5s;
+
+}
+
+.divFiltrarRow {
+
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.checkboxFiltrar {
+
+    display: block;
+    width: 80%;
+    margin: auto auto auto auto;
+
+}
+
+.imgFiltrarRow {
+
+    width: 100%;
 
 }
 
