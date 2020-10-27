@@ -879,6 +879,70 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "",
             "coordY": ""
+        },
+        {
+            "nombre": "Piedra La Montosa",
+            "categoria": "PeñasyPeñascos",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/peñas y peñazcos.png",
+            "coordX": "34.615384615385",
+            "coordY": "22.416812609457"
+        },
+        {
+            "nombre": "Piedra La Sonadora",
+            "categoria": "PeñasyPeñascos",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/peñas y peñazcos.png",
+            "coordX": "35.773155416013",
+            "coordY": "22.892169126845"
+        },
+        {
+            "nombre": "Peñas Las Lomas",
+            "categoria": "PeñasyPeñascos",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/peñas y peñazcos.png",
+            "coordX": "34.51726844584",
+            "coordY": "67.425569176883"
+        },
+        {
+            "nombre": "Piedra del Chompipe",
+            "categoria": "PeñasyPeñascos",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/peñas y peñazcos.png",
+            "coordX": "36.401098901099",
+            "coordY": "66.825118839129"
+        },
+        {
+            "nombre": "Peña El Duende",
+            "categoria": "PeñasyPeñascos",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/peñas y peñazcos.png",
+            "coordX": "45.604395604396",
+            "coordY": "78.859144358269"
+        },
+        {
+            "nombre": "Peña Santa",
+            "categoria": "PeñasyPeñascos",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/peñas y peñazcos.png",
+            "coordX": "65.364992150706",
+            "coordY": "75.956967725794"
+        },
+        {
+            "nombre": "Laguna La Providencia",
+            "categoria": "Lagunas",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/lagunas.png",
+            "coordX": "47.331240188383",
+            "coordY": "56.9176882662"
+        },
+        {
+            "nombre": "Cueva del Toro",
+            "categoria": "Cuevas",
+            "descripcion": "Placeholder Description",
+            "icono": "img/iconografias/Sitios Naturales/cuevas 2.png",
+            "coordX": "30.455259026688",
+            "coordY": "73.755316487366"
         }
     ]
 }
