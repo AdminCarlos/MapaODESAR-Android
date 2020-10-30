@@ -60,6 +60,7 @@ var oldScale = panzoom.getScale();
             else if ($("#paginaMapa").css("display") != "none" && $("#divLeyendas").css("display") === "none" && $("#divDescripcion").css("display") === "none") {
 
                 showInicio();
+                resetMap();
 
             }
 
@@ -85,6 +86,7 @@ var oldScale = panzoom.getScale();
 
             if (panzoom.getScale() === 3) {
 
+                console.log("Holos");
                 $(".mapIcon").css("width", "2%");
                 $(".spanIcon").hide();
 
@@ -243,6 +245,12 @@ var oldScale = panzoom.getScale();
         $("#buttonUnzoom").click(function () {
 
             panzoom.zoom(panzoom.getScale() - 0.5);
+
+        });
+
+        $("#imgLogoMapa").click(function () {
+
+            resetMap();
 
         });
 
@@ -553,6 +561,13 @@ var oldScale = panzoom.getScale();
         });
 
     } */
+
+    function resetMap() {
+
+        panzoom.zoom(3);
+        panzoom.pan(31.300050099690754, 45.95204671223958);
+
+    }
 
 })();
 
