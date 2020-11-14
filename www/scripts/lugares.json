@@ -1079,6 +1079,46 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
             "coordX": "72.944869531097",
             "coordY": "82.525"
-        }    
+        },
+        {
+            "nombre": "Telares",
+            "categoria": "Telares",
+            "descripcion": "Los Lipes",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "coordX": "41.220325681774",
+            "coordY": "38.15"
+        },
+        {
+            "nombre": "Telares",
+            "categoria": "Telares",
+            "descripcion": "El ocotal",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "coordX": "41.357661369433",
+            "coordY": "62.95"
+        },
+        {
+            "nombre": "Telares",
+            "categoria": "Telares",
+            "descripcion": "El Chile",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "coordX": "65.195212870316",
+            "coordY": "73.4"
+        },
+        {
+            "nombre": "Telares",
+            "categoria": "Telares",
+            "descripcion": "El Chile 2",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "coordX": "67.333725721012",
+            "coordY": "73.6"
+        },
+        {
+            "nombre": "Telares",
+            "categoria": "Telares",
+            "descripcion": "La Gloria",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "coordX": "72.591720619973",
+            "coordY": "83.225"
+        }        
     ]
 }
