@@ -1199,6 +1199,30 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
             "coordX": "27.310182460271",
             "coordY": "47.475"
+        },
+        {
+            "nombre": "Artesanías con Bambú",
+            "categoria": "ArtesaniasBambu",
+            "descripcion": "Empalme la banquita",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
+            "coordX": "49.34275063763",
+            "coordY": "21.1"
+        },
+        {
+            "nombre": "Artesanías con Bambú",
+            "categoria": "ArtesaniasBambu",
+            "descripcion": "Santa Emilia",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
+            "coordX": "57.582891897194",
+            "coordY": "34.575"
+        },
+        {
+            "nombre": "Artesanías con Bambú",
+            "categoria": "ArtesaniasBambu",
+            "descripcion": "Cerro El Padre",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
+            "coordX": "79.458505002943",
+            "coordY": "82.1"
         }       
     ]
 }
