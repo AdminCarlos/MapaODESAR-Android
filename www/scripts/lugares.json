@@ -1015,6 +1015,70 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/pintores.png",
             "coordX": "38.61852433281",
             "coordY": "40.230172629472"
-        }
+        },
+        {
+            "nombre": "Artesanías de barro",
+            "categoria": "Artesaniasdebarro",
+            "descripcion": "Sitio Viejo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "coordX": "37.649597802629",
+            "coordY": "22.1"
+        },
+        {
+            "nombre": "Artesanías de barro",
+            "categoria": "Artesaniasdebarro",
+            "descripcion": "Piedra de agua",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "coordX": "37.296448891505",
+            "coordY": "40.925"
+        },
+        {
+            "nombre": "Artesanías de barro",
+            "categoria": "Artesaniasdebarro",
+            "descripcion": "Cerro Piedra de agua",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "coordX": "36.040808318619",
+            "coordY": "45.275"
+        },
+        {
+            "nombre": "Artesanías de barro",
+            "categoria": "Artesaniasdebarro",
+            "descripcion": "TepeYac",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "coordX": "57.484794977438",
+            "coordY": "58.425"
+        },
+        {
+            "nombre": "Artesanías de barro",
+            "categoria": "Artesaniasdebarro",
+            "descripcion": "La estrella",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "coordX": "44.536001569551",
+            "coordY": "78.175"
+        },
+        {
+            "nombre": "Artesanías de barro",
+            "categoria": "Artesaniasdebarro",
+            "descripcion": "San Jerónimo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "coordX": "83.990582695703",
+            "coordY": "82.9"
+        },
+        {
+            "nombre": "Artesanías de barro",
+            "categoria": "Artesaniasdebarro",
+            "descripcion": "Cerro El Padre",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "coordX": "80.282519128899",
+            "coordY": "86.65"
+        },
+        {
+            "nombre": "Artesanías de barro",
+            "categoria": "Artesaniasdebarro",
+            "descripcion": "Pueblo Viejo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "coordX": "72.944869531097",
+            "coordY": "82.525"
+        }    
     ]
 }
