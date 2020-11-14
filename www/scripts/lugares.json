@@ -1119,6 +1119,86 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
             "coordX": "72.591720619973",
             "coordY": "83.225"
-        }        
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "Palcila",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "38.277418089072",
+            "coordY": "32.7"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "Quebrada Honda",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "17.343535412988",
+            "coordY": "51.95"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "Limixto",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "34.785167745733",
+            "coordY": "58.9"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "Apante Grande",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "45.379635079459",
+            "coordY": "60.675"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "El Chilamate",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "29.723366686286",
+            "coordY": "67.9"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "El Matasano",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "45.144202472042",
+            "coordY": "76.6"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "El Matasano",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "45.144202472042",
+            "coordY": "76.6"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "SombreroSinEscoba",
+            "descripcion": "YauleAbajo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "25.83872866392",
+            "coordY": "56.45"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "SombreroSinEscoba",
+            "descripcion": "La Granja",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "48.852266038846",
+            "coordY": "51.25"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "SombreroSinEscoba",
+            "descripcion": "La Tijerina",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "27.310182460271",
+            "coordY": "47.475"
+        }       
     ]
 }
