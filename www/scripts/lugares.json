@@ -1479,6 +1479,214 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
             "coordX": "40.72984108299",
             "coordY": "32.375"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Villa Kokomo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "21.326270355111",
+            "coordY": "54.85"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "El Palacio",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "18.716892289582",
+            "coordY": "62.65"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Bijagüe Sur",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "33.156758877771",
+            "coordY": "74.25"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "El Guineo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "40.121640180498",
+            "coordY": "79.15"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Piedra Colorada",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "49.754757700608",
+            "coordY": "75.2"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Santa Josefina",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "43.456935452227",
+            "coordY": "68.425"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Jucuapa Oriental",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "34.333921914852",
+            "coordY": "63.4"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Limixto",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "35.118697272906",
+            "coordY": "60.85"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "El Bálsamo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "38.709044536002",
+            "coordY": "64.825"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Palcila",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "39.650774965666",
+            "coordY": "29.825"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Rincon Largo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "33.86305670002",
+            "coordY": "24.35"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Las Lajas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "33.706101628409",
+            "coordY": "30.075"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Piedra de Agua",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "36.099666470473",
+            "coordY": "38.2"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Palestina",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "46.615656268393",
+            "coordY": "11.15"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "La Granja",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "52.285658230332",
+            "coordY": "50.575"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "El Chile",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "62.782028644301",
+            "coordY": "72.05"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Guadalupe",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "59.172061997253",
+            "coordY": "65.05"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Samulalí",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "52.540710221699",
+            "coordY": "63.85"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Siare SS",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "53.600156955072",
+            "coordY": "60.7"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Santa Emilia",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "59.230920149107",
+            "coordY": "36.15"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Las Escaleras 1",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "54.129880321758",
+            "coordY": "30.625"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Las Nubes",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "58.230331567589",
+            "coordY": "4.7"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Pueblo Viejo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "72.238571708848",
+            "coordY": "79.75"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Cerro El Padre",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "77.123798312733",
+            "coordY": "84.45"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Apatite",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "79.536982538748",
+            "coordY": "80.075"
+        },
+        {
+            "nombre": "Panadería",
+            "categoria": "Panaderia",
+            "descripcion": "Yaule Arriba",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "coordX": "24.720423778693",
+            "coordY": "47.25"
         }
     ]
 }
