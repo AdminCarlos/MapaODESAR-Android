@@ -1079,6 +1079,86 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
             "coordX": "72.944869531097",
             "coordY": "82.525"
-        }    
+        },
+        {
+            "nombre": "Ceramica Negra",
+            "categoria": "CeramicaNegra",
+            "descripcion": "Guanuca",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/ceramica negra.svg",
+            "coordX": "45.918367346939",
+            "coordY": "47.58568926695"
+        },
+        {
+            "nombre": "Canasta de Carrizo o Bambú",
+            "categoria": "CanastadeCarrizooBambú",
+            "descripcion": "Las Escaleras 2",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "coordX": "54.434850863422",
+            "coordY": "24.543407555667"
+        },
+        {
+            "nombre": "Canasta de Carrizo o Bambú",
+            "categoria": "CanastadeCarrizooBambú",
+            "descripcion": "Las Escaleras 1",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "coordX": "54.434850863422",
+            "coordY": "28.846634976232"
+        },
+        {
+            "nombre": "Canasta de Carrizo o Bambú",
+            "categoria": "CanastadeCarrizooBambú",
+            "descripcion": "Cerro El Portillo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "coordX": "56.102825745683",
+            "coordY": "37.353014761071"
+        },
+        {
+            "nombre": "Canasta de Carrizo o Bambú",
+            "categoria": "CanastadeCarrizooBambú",
+            "descripcion": "Pueblo Viejo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "coordX": "73.057299843014",
+            "coordY": "81.16087065299"
+        },
+        {
+            "nombre": "Canasta de Carrizo o Bambú",
+            "categoria": "CanastadeCarrizooBambú",
+            "descripcion": "El Matasano",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "coordX": "46.860282574568",
+            "coordY": "77.933450087566"  
+        },
+        {
+            "nombre": "Canasta de Carrizo o Bambú",
+            "categoria": "CanastadeCarrizooBambú",
+            "descripcion": "Las Mercedes",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "coordX": "46.07535321821",
+            "coordY": "65.449086815111"     
+        },
+        {
+            "nombre": "Canasta de Carrizo o Bambú",
+            "categoria": "CanastadeCarrizooBambú",
+            "descripcion": "Siarre SS",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "coordX": "54.905808477237",
+            "coordY": "59.719789842382"   
+        },
+        {
+            "nombre": "Canasta de Carrizo o Bambú",
+            "categoria": "CanastadeCarrizooBambú",
+            "descripcion": "La Granja",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "coordX": "50.078492935636",
+            "coordY": "51.51363522642"    
+        },
+        {
+            "nombre": "Canasta de Carrizo o Bambú",
+            "categoria": "CanastadeCarrizooBambú",
+            "descripcion": "El Portillo de Payacuca",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "coordX": "36.518838304553",
+            "coordY": "84.638478859144"  
+        }
     ]
 }
