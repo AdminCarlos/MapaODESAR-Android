@@ -1160,6 +1160,7 @@
             "coordX": "36.518838304553",
             "coordY": "84.638478859144"  
         },
+        {
             "nombre": "Telares",
             "categoria": "Telares",
             "descripcion": "Los Lipes",
@@ -1302,6 +1303,182 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
             "coordX": "79.458505002943",
             "coordY": "82.1"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Yaule Arriba",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "23.641357661369",
+            "coordY": "47.575"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Villa Kokomo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "20.404159309398",
+            "coordY": "53.625"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "El Palacio",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "19.050421816755",
+            "coordY": "60.825"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Jumaiqui",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "33.941534235825",
+            "coordY": "79.25"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Jucuapa Oriental",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "34.922503433392",
+            "coordY": "64.525"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Limixto",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "34.098489307436",
+            "coordY": "61.5"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Las Lajas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "35.589562487738",
+            "coordY": "29.375"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Rincón Largo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "32.99980380616",
+            "coordY": "24.2"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Sitio Viejo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "38.610947616245",
+            "coordY": "21.875"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Palestina",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "47.969393761036",
+            "coordY": "10.075"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "El Diamante",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "52.99195605258",
+            "coordY": "25.775"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Las Escaleras 2",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "53.266627427899",
+            "coordY": "30.3"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "La Granja",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "49.77437708456",
+            "coordY": "53.225"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Samulalí",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "54.30645477732",
+            "coordY": "63.45"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Guadalupe",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "60.29036688248",
+            "coordY": "63.725"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Siare SS",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "54.875416911909",
+            "coordY": "61.35"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Santa Emilia",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "58.583480478713",
+            "coordY": "34.4"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Las Nubes",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "60.349225034334",
+            "coordY": "5.2"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "El Chile",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "66.666666666667",
+            "coordY": "74.5"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Pueblo Viejo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "73.690406121248",
+            "coordY": "81.825"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Cerro El Padre",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "79.281930547381",
+            "coordY": "85.25"
+        },
+        {
+            "nombre": "Gastronomía Tradicional",
+            "categoria": "GastronomiaTradicional",
+            "descripcion": "Palcila",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "coordX": "40.72984108299",
+            "coordY": "32.375"
         }
     ]
 }
