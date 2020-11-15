@@ -1081,6 +1081,7 @@
             "coordY": "82.525"
         },
         {
+<<<<<<< HEAD
             "nombre": "Ceramica Negra",
             "categoria": "CeramicaNegra",
             "descripcion": "Guanuca",
@@ -1160,5 +1161,150 @@
             "coordX": "36.518838304553",
             "coordY": "84.638478859144"  
         }
+=======
+            "nombre": "Telares",
+            "categoria": "Telares",
+            "descripcion": "Los Lipes",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "coordX": "41.220325681774",
+            "coordY": "38.15"
+        },
+        {
+            "nombre": "Telares",
+            "categoria": "Telares",
+            "descripcion": "El ocotal",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "coordX": "41.357661369433",
+            "coordY": "62.95"
+        },
+        {
+            "nombre": "Telares",
+            "categoria": "Telares",
+            "descripcion": "El Chile",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "coordX": "65.195212870316",
+            "coordY": "73.4"
+        },
+        {
+            "nombre": "Telares",
+            "categoria": "Telares",
+            "descripcion": "El Chile 2",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "coordX": "67.333725721012",
+            "coordY": "73.6"
+        },
+        {
+            "nombre": "Telares",
+            "categoria": "Telares",
+            "descripcion": "La Gloria",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "coordX": "72.591720619973",
+            "coordY": "83.225"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "Palcila",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "38.277418089072",
+            "coordY": "32.7"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "Quebrada Honda",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "17.343535412988",
+            "coordY": "51.95"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "Limixto",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "34.785167745733",
+            "coordY": "58.9"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "Apante Grande",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "45.379635079459",
+            "coordY": "60.675"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "El Chilamate",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "29.723366686286",
+            "coordY": "67.9"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "El Matasano",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "45.144202472042",
+            "coordY": "76.6"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "EscobasMillon",
+            "descripcion": "El Matasano",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "45.144202472042",
+            "coordY": "76.6"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "SombreroSinEscoba",
+            "descripcion": "YauleAbajo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "25.83872866392",
+            "coordY": "56.45"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "SombreroSinEscoba",
+            "descripcion": "La Granja",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "48.852266038846",
+            "coordY": "51.25"
+        },
+        {
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "categoria": "SombreroSinEscoba",
+            "descripcion": "La Tijerina",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "coordX": "27.310182460271",
+            "coordY": "47.475"
+        },
+        {
+            "nombre": "Artesanías con Bambú",
+            "categoria": "ArtesaniasBambu",
+            "descripcion": "Empalme la banquita",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
+            "coordX": "49.34275063763",
+            "coordY": "21.1"
+        },
+        {
+            "nombre": "Artesanías con Bambú",
+            "categoria": "ArtesaniasBambu",
+            "descripcion": "Santa Emilia",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
+            "coordX": "57.582891897194",
+            "coordY": "34.575"
+        },
+        {
+            "nombre": "Artesanías con Bambú",
+            "categoria": "ArtesaniasBambu",
+            "descripcion": "Cerro El Padre",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
+            "coordX": "79.458505002943",
+            "coordY": "82.1"
+        }       
+>>>>>>> ba713377b04859f10148945eabc38a8ac1a17c6f
     ]
 }
