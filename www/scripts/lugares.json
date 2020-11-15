@@ -1081,7 +1081,6 @@
             "coordY": "82.525"
         },
         {
-<<<<<<< HEAD
             "nombre": "Ceramica Negra",
             "categoria": "CeramicaNegra",
             "descripcion": "Guanuca",
@@ -1160,8 +1159,7 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
             "coordX": "36.518838304553",
             "coordY": "84.638478859144"  
-        }
-=======
+        },
             "nombre": "Telares",
             "categoria": "Telares",
             "descripcion": "Los Lipes",
@@ -1304,7 +1302,6 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
             "coordX": "79.458505002943",
             "coordY": "82.1"
-        }       
->>>>>>> ba713377b04859f10148945eabc38a8ac1a17c6f
+        }
     ]
 }
