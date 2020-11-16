@@ -1020,7 +1020,7 @@
             "nombre": "Artesanías de barro",
             "categoria": "Artesaniasdebarro",
             "descripcion": "Sitio Viejo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "37.649597802629",
             "coordY": "22.1"
         },
@@ -1028,7 +1028,7 @@
             "nombre": "Artesanías de barro",
             "categoria": "Artesaniasdebarro",
             "descripcion": "Piedra de agua",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "37.296448891505",
             "coordY": "40.925"
         },
@@ -1036,7 +1036,7 @@
             "nombre": "Artesanías de barro",
             "categoria": "Artesaniasdebarro",
             "descripcion": "Cerro Piedra de agua",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "36.040808318619",
             "coordY": "45.275"
         },
@@ -1044,7 +1044,7 @@
             "nombre": "Artesanías de barro",
             "categoria": "Artesaniasdebarro",
             "descripcion": "TepeYac",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "57.484794977438",
             "coordY": "58.425"
         },
@@ -1052,7 +1052,7 @@
             "nombre": "Artesanías de barro",
             "categoria": "Artesaniasdebarro",
             "descripcion": "La estrella",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "44.536001569551",
             "coordY": "78.175"
         },
@@ -1060,7 +1060,7 @@
             "nombre": "Artesanías de barro",
             "categoria": "Artesaniasdebarro",
             "descripcion": "San Jerónimo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "83.990582695703",
             "coordY": "82.9"
         },
@@ -1068,7 +1068,7 @@
             "nombre": "Artesanías de barro",
             "categoria": "Artesaniasdebarro",
             "descripcion": "Cerro El Padre",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "80.282519128899",
             "coordY": "86.65"
         },
@@ -1076,7 +1076,7 @@
             "nombre": "Artesanías de barro",
             "categoria": "Artesaniasdebarro",
             "descripcion": "Pueblo Viejo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "72.944869531097",
             "coordY": "82.525"
         },
@@ -1084,7 +1084,7 @@
             "nombre": "Ceramica Negra",
             "categoria": "CeramicaNegra",
             "descripcion": "Guanuca",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/ceramica negra.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/ceramica negra.png",
             "coordX": "45.918367346939",
             "coordY": "47.58568926695"
         },
@@ -1092,7 +1092,7 @@
             "nombre": "Canasta de Carrizo o Bambú",
             "categoria": "CanastadeCarrizooBambú",
             "descripcion": "Las Escaleras 2",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "54.434850863422",
             "coordY": "24.543407555667"
         },
@@ -1100,7 +1100,7 @@
             "nombre": "Canasta de Carrizo o Bambú",
             "categoria": "CanastadeCarrizooBambú",
             "descripcion": "Las Escaleras 1",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "54.434850863422",
             "coordY": "28.846634976232"
         },
@@ -1108,7 +1108,7 @@
             "nombre": "Canasta de Carrizo o Bambú",
             "categoria": "CanastadeCarrizooBambú",
             "descripcion": "Cerro El Portillo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "56.102825745683",
             "coordY": "37.353014761071"
         },
@@ -1116,7 +1116,7 @@
             "nombre": "Canasta de Carrizo o Bambú",
             "categoria": "CanastadeCarrizooBambú",
             "descripcion": "Pueblo Viejo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "73.057299843014",
             "coordY": "81.16087065299"
         },
@@ -1124,47 +1124,47 @@
             "nombre": "Canasta de Carrizo o Bambú",
             "categoria": "CanastadeCarrizooBambú",
             "descripcion": "El Matasano",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "46.860282574568",
-            "coordY": "77.933450087566"  
+            "coordY": "77.933450087566"
         },
         {
             "nombre": "Canasta de Carrizo o Bambú",
             "categoria": "CanastadeCarrizooBambú",
             "descripcion": "Las Mercedes",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "46.07535321821",
-            "coordY": "65.449086815111"     
+            "coordY": "65.449086815111"
         },
         {
             "nombre": "Canasta de Carrizo o Bambú",
             "categoria": "CanastadeCarrizooBambú",
             "descripcion": "Siarre SS",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "54.905808477237",
-            "coordY": "59.719789842382"   
+            "coordY": "59.719789842382"
         },
         {
             "nombre": "Canasta de Carrizo o Bambú",
             "categoria": "CanastadeCarrizooBambú",
             "descripcion": "La Granja",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "50.078492935636",
-            "coordY": "51.51363522642"    
+            "coordY": "51.51363522642"
         },
         {
             "nombre": "Canasta de Carrizo o Bambú",
             "categoria": "CanastadeCarrizooBambú",
             "descripcion": "El Portillo de Payacuca",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "36.518838304553",
-            "coordY": "84.638478859144"  
+            "coordY": "84.638478859144"
         },
         {
             "nombre": "Telares",
             "categoria": "Telares",
             "descripcion": "Los Lipes",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.png",
             "coordX": "41.220325681774",
             "coordY": "38.15"
         },
@@ -1172,7 +1172,7 @@
             "nombre": "Telares",
             "categoria": "Telares",
             "descripcion": "El ocotal",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.png",
             "coordX": "41.357661369433",
             "coordY": "62.95"
         },
@@ -1180,7 +1180,7 @@
             "nombre": "Telares",
             "categoria": "Telares",
             "descripcion": "El Chile",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.png",
             "coordX": "65.195212870316",
             "coordY": "73.4"
         },
@@ -1188,7 +1188,7 @@
             "nombre": "Telares",
             "categoria": "Telares",
             "descripcion": "El Chile 2",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.png",
             "coordX": "67.333725721012",
             "coordY": "73.6"
         },
@@ -1196,7 +1196,7 @@
             "nombre": "Telares",
             "categoria": "Telares",
             "descripcion": "La Gloria",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.png",
             "coordX": "72.591720619973",
             "coordY": "83.225"
         },
@@ -1204,7 +1204,7 @@
             "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
             "categoria": "EscobasMillon",
             "descripcion": "Palcila",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "38.277418089072",
             "coordY": "32.7"
         },
@@ -1212,7 +1212,7 @@
             "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
             "categoria": "EscobasMillon",
             "descripcion": "Quebrada Honda",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "17.343535412988",
             "coordY": "51.95"
         },
@@ -1220,7 +1220,7 @@
             "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
             "categoria": "EscobasMillon",
             "descripcion": "Limixto",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "34.785167745733",
             "coordY": "58.9"
         },
@@ -1228,7 +1228,7 @@
             "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
             "categoria": "EscobasMillon",
             "descripcion": "Apante Grande",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "45.379635079459",
             "coordY": "60.675"
         },
@@ -1236,7 +1236,7 @@
             "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
             "categoria": "EscobasMillon",
             "descripcion": "El Chilamate",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "29.723366686286",
             "coordY": "67.9"
         },
@@ -1244,7 +1244,7 @@
             "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
             "categoria": "EscobasMillon",
             "descripcion": "El Matasano",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "45.144202472042",
             "coordY": "76.6"
         },
@@ -1252,7 +1252,7 @@
             "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
             "categoria": "EscobasMillon",
             "descripcion": "El Matasano",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "45.144202472042",
             "coordY": "76.6"
         },
@@ -1260,7 +1260,7 @@
             "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
             "categoria": "SombreroSinEscoba",
             "descripcion": "YauleAbajo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "25.83872866392",
             "coordY": "56.45"
         },
@@ -1268,7 +1268,7 @@
             "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
             "categoria": "SombreroSinEscoba",
             "descripcion": "La Granja",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "48.852266038846",
             "coordY": "51.25"
         },
@@ -1276,7 +1276,7 @@
             "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
             "categoria": "SombreroSinEscoba",
             "descripcion": "La Tijerina",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "27.310182460271",
             "coordY": "47.475"
         },
@@ -1284,7 +1284,7 @@
             "nombre": "Artesanías con Bambú",
             "categoria": "ArtesaniasBambu",
             "descripcion": "Empalme la banquita",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).png",
             "coordX": "49.34275063763",
             "coordY": "21.1"
         },
@@ -1292,7 +1292,7 @@
             "nombre": "Artesanías con Bambú",
             "categoria": "ArtesaniasBambu",
             "descripcion": "Santa Emilia",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).png",
             "coordX": "57.582891897194",
             "coordY": "34.575"
         },
@@ -1300,7 +1300,7 @@
             "nombre": "Artesanías con Bambú",
             "categoria": "ArtesaniasBambu",
             "descripcion": "Cerro El Padre",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).png",
             "coordX": "79.458505002943",
             "coordY": "82.1"
         },
@@ -1308,7 +1308,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Yaule Arriba",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "23.641357661369",
             "coordY": "47.575"
         },
@@ -1316,7 +1316,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Villa Kokomo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "20.404159309398",
             "coordY": "53.625"
         },
@@ -1324,7 +1324,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "El Palacio",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "19.050421816755",
             "coordY": "60.825"
         },
@@ -1332,7 +1332,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Jumaiqui",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "33.941534235825",
             "coordY": "79.25"
         },
@@ -1340,7 +1340,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Jucuapa Oriental",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "34.922503433392",
             "coordY": "64.525"
         },
@@ -1348,7 +1348,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Limixto",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "34.098489307436",
             "coordY": "61.5"
         },
@@ -1356,7 +1356,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Las Lajas",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "35.589562487738",
             "coordY": "29.375"
         },
@@ -1364,7 +1364,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Rincón Largo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "32.99980380616",
             "coordY": "24.2"
         },
@@ -1372,7 +1372,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Sitio Viejo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "38.610947616245",
             "coordY": "21.875"
         },
@@ -1380,7 +1380,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Palestina",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "47.969393761036",
             "coordY": "10.075"
         },
@@ -1388,7 +1388,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "El Diamante",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "52.99195605258",
             "coordY": "25.775"
         },
@@ -1396,7 +1396,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Las Escaleras 2",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "53.266627427899",
             "coordY": "30.3"
         },
@@ -1404,7 +1404,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "La Granja",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "49.77437708456",
             "coordY": "53.225"
         },
@@ -1412,7 +1412,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Samulalí",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "54.30645477732",
             "coordY": "63.45"
         },
@@ -1420,7 +1420,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Guadalupe",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "60.29036688248",
             "coordY": "63.725"
         },
@@ -1428,7 +1428,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Siare SS",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "54.875416911909",
             "coordY": "61.35"
         },
@@ -1436,7 +1436,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Santa Emilia",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "58.583480478713",
             "coordY": "34.4"
         },
@@ -1444,7 +1444,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Las Nubes",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "60.349225034334",
             "coordY": "5.2"
         },
@@ -1452,7 +1452,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "El Chile",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "66.666666666667",
             "coordY": "74.5"
         },
@@ -1460,7 +1460,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Pueblo Viejo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "73.690406121248",
             "coordY": "81.825"
         },
@@ -1468,7 +1468,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Cerro El Padre",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "79.281930547381",
             "coordY": "85.25"
         },
@@ -1476,7 +1476,7 @@
             "nombre": "Gastronomía Tradicional",
             "categoria": "GastronomiaTradicional",
             "descripcion": "Palcila",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "40.72984108299",
             "coordY": "32.375"
         },
@@ -1484,7 +1484,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Villa Kokomo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "21.326270355111",
             "coordY": "54.85"
         },
@@ -1492,7 +1492,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "El Palacio",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "18.716892289582",
             "coordY": "62.65"
         },
@@ -1500,7 +1500,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Bijagüe Sur",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "33.156758877771",
             "coordY": "74.25"
         },
@@ -1508,7 +1508,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "El Guineo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "40.121640180498",
             "coordY": "79.15"
         },
@@ -1516,7 +1516,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Piedra Colorada",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "49.754757700608",
             "coordY": "75.2"
         },
@@ -1524,7 +1524,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Santa Josefina",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "43.456935452227",
             "coordY": "68.425"
         },
@@ -1532,7 +1532,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Jucuapa Oriental",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "34.333921914852",
             "coordY": "63.4"
         },
@@ -1540,7 +1540,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Limixto",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "35.118697272906",
             "coordY": "60.85"
         },
@@ -1548,7 +1548,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "El Bálsamo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "38.709044536002",
             "coordY": "64.825"
         },
@@ -1556,7 +1556,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Palcila",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "39.650774965666",
             "coordY": "29.825"
         },
@@ -1564,7 +1564,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Rincon Largo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "33.86305670002",
             "coordY": "24.35"
         },
@@ -1572,7 +1572,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Las Lajas",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "33.706101628409",
             "coordY": "30.075"
         },
@@ -1580,7 +1580,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Piedra de Agua",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "36.099666470473",
             "coordY": "38.2"
         },
@@ -1588,7 +1588,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Palestina",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "46.615656268393",
             "coordY": "11.15"
         },
@@ -1596,7 +1596,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "La Granja",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "52.285658230332",
             "coordY": "50.575"
         },
@@ -1604,7 +1604,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "El Chile",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "62.782028644301",
             "coordY": "72.05"
         },
@@ -1612,7 +1612,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Guadalupe",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "59.172061997253",
             "coordY": "65.05"
         },
@@ -1620,7 +1620,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Samulalí",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "52.540710221699",
             "coordY": "63.85"
         },
@@ -1628,7 +1628,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Siare SS",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "53.600156955072",
             "coordY": "60.7"
         },
@@ -1636,7 +1636,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Santa Emilia",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "59.230920149107",
             "coordY": "36.15"
         },
@@ -1644,7 +1644,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Las Escaleras 1",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "54.129880321758",
             "coordY": "30.625"
         },
@@ -1652,7 +1652,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Las Nubes",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "58.230331567589",
             "coordY": "4.7"
         },
@@ -1660,7 +1660,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Pueblo Viejo",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "72.238571708848",
             "coordY": "79.75"
         },
@@ -1668,7 +1668,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Cerro El Padre",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "77.123798312733",
             "coordY": "84.45"
         },
@@ -1676,7 +1676,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Apatite",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "79.536982538748",
             "coordY": "80.075"
         },
@@ -1684,7 +1684,7 @@
             "nombre": "Panadería",
             "categoria": "Panaderia",
             "descripcion": "Yaule Arriba",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.svg",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "24.720423778693",
             "coordY": "47.25"
         }
