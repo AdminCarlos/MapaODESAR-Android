@@ -1799,6 +1799,38 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/arreglos florales, cultivo de flores.png",
             "coordX": "49.273940345369",
             "coordY": "19.089316987741"
+        },
+        {
+            "nombre": "Bisutería",
+            "categoria": "Bisutería",
+            "descripcion": "Apante Grande",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/bisuteria.png",
+            "coordX": "45.39925446341",
+            "coordY": "62.95"
+        },
+        {
+            "nombre": "Bisutería",
+            "categoria": "Bisutería",
+            "descripcion": "Santa Josefina",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/bisuteria.png",
+            "coordX": "46.792230723955",
+            "coordY": "66.2"
+        },
+        {
+            "nombre": "Bisutería",
+            "categoria": "Bisutería",
+            "descripcion": "El Paraíso",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/bisuteria.png",
+            "coordX": "57.22974298607",
+            "coordY": "37.375"
+        },
+        {
+            "nombre": "Bisutería",
+            "categoria": "Bisutería",
+            "descripcion": "Santa Emilia",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/bisuteria.png",
+            "coordX": "58.171473415735",
+            "coordY": "33.6"
         }
     ]
 }
