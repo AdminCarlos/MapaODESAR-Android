@@ -1687,6 +1687,118 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "24.720423778693",
             "coordY": "47.25"
+        },
+        {
+            "nombre": "Dulces y Cajetas",
+            "categoria": "DulcesyCajetas",
+            "descripcion": "San Jerónimo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
+            "coordX": "83.379120879121",
+            "coordY": "84.938704028021"
+        },
+        {
+            "nombre": "Dulces y Cajetas",
+            "categoria": "DulcesyCajetas",
+            "descripcion": "El Balsamo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
+            "coordX": "38.108320251177",
+            "coordY": "73.95546659995"
+        },
+        {
+            "nombre": "Jaleas y Vinos",
+            "categoria": "Jaleasyvinos",
+            "descripcion": "El Balsamo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
+            "coordX": "39.835164835165",
+            "coordY": "75.831873905429"
+        },
+        {
+            "nombre": "Jaleas y Vinos",
+            "categoria": "Jaleasyvinos",
+            "descripcion": "El Ocote",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
+            "coordX": "37.951334379906",
+            "coordY": "70.828121090818"
+        },
+        {
+            "nombre": "Jaleas y Vinos",
+            "categoria": "Jaleasyvinos",
+            "descripcion": "Siarre SS",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
+            "coordX": "56.456043956044",
+            "coordY": "59.519639729797"
+        },
+        {
+            "nombre": "Dulces y Cajetas",
+            "categoria": "DulcesyCajetas",
+            "descripcion": "Santa Emilia",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
+            "coordX": "58.02590266876",
+            "coordY": "34.976232174131"
+        },
+        {
+            "nombre": "Dulces y Cajetas",
+            "categoria": "DulcesyCajetas",
+            "descripcion": "El Carrizo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
+            "coordX": "40.914442700157",
+            "coordY": "33.675256442332"
+        },
+        {
+            "nombre": "Dulces y Cajetas",
+            "categoria": "DulcesyCajetas",
+            "descripcion": "Piedra de Agua",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
+            "coordX": "35.851648351648",
+            "coordY": "37.853390042532"
+        },
+        {
+            "nombre": "Dulces y Cajetas",
+            "categoria": "DulcesyCajetas",
+            "descripcion": "Las Lajas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
+            "coordX": "36.342229199372",
+            "coordY": "27.770828121091"
+        },
+        {
+            "nombre": "Jaleas y Vinos",
+            "categoria": "Jaleasyvinos",
+            "descripcion": "El Descanso",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
+            "coordX": "44.113029827316",
+            "coordY": "20.665499124343"
+        },
+        {
+            "nombre": "Arreglos Florales, Cultivo de Flores",
+            "categoria": "Arreglosfloralescultivodeflores",
+            "descripcion": "San Simon de Palcila",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/arreglos florales, cultivo de flores.png",
+            "coordX": "38.952119309262",
+            "coordY": "28.146109582187"
+        },
+        {
+            "nombre": "Arreglos Florales, Cultivo de Flores",
+            "categoria": "Arreglosfloralescultivodeflores",
+            "descripcion": "Disparate de Potter",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/arreglos florales, cultivo de flores.png",
+            "coordX": "42.248822605965",
+            "coordY": "42.248822605965"
+        },
+        {
+            "nombre": "Arreglos Florales, Cultivo de Flores",
+            "categoria": "Arreglosfloralescultivodeflores",
+            "descripcion": "El Descanso",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/arreglos florales, cultivo de flores.png",
+            "coordX": "45.879120879121",
+            "coordY": "21.641230923192"
+        },
+        {
+            "nombre": "Arreglos Florales, Cultivo de Flores",
+            "categoria": "Arreglosfloralescultivodeflores",
+            "descripcion": "Empalme La Blanquita",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/arreglos florales, cultivo de flores.png",
+            "coordX": "49.273940345369",
+            "coordY": "19.089316987741"
         }
     ]
 }
