@@ -1831,6 +1831,86 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/bisuteria.png",
             "coordX": "58.171473415735",
             "coordY": "33.6"
+        },
+        {
+            "nombre": "Manualidades y Piñatas",
+            "categoria": "Manualidades_Piñatas",
+            "descripcion": "Yaule Arriba",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
+            "coordX": "26.172258191093",
+            "coordY": "44.475"
+        },
+        {
+            "nombre": "Manualidades y Piñatas",
+            "categoria": "Manualidades_Piñatas",
+            "descripcion": "La Florida",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
+            "coordX": "41.004512458309",
+            "coordY": "80.625"
+        },
+        {
+            "nombre": "Manualidades y Piñatas",
+            "categoria": "Manualidades_Piñatas",
+            "descripcion": "La Rinconada",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
+            "coordX": "43.986658818913",
+            "coordY": "84.2"
+        },
+        {
+            "nombre": "Manualidades y Piñatas",
+            "categoria": "Manualidades_Piñatas",
+            "descripcion": "Limixto",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
+            "coordX": "30.684716499902",
+            "coordY": "58.475"
+        },
+        {
+            "nombre": "Manualidades y Piñatas",
+            "categoria": "Manualidades_Piñatas",
+            "descripcion": "El Descanso",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
+            "coordX": "45.516970767118",
+            "coordY": "18.0000000000001"
+        },
+        {
+            "nombre": "Manualidades y Piñatas",
+            "categoria": "Manualidades_Piñatas",
+            "descripcion": "Las Escaleras 2",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
+            "coordX": "51.147733961154",
+            "coordY": "21.175"
+        },
+        {
+            "nombre": "Manualidades y Piñatas",
+            "categoria": "Manualidades_Piñatas",
+            "descripcion": "La Granja",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
+            "coordX": "48.302923288209",
+            "coordY": "49.825"
+        },
+        {
+            "nombre": "Manualidades y Piñatas",
+            "categoria": "Manualidades_Piñatas",
+            "descripcion": "El Ocotal",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
+            "coordX": "42.789876397881",
+            "coordY": "63.025"
+        },
+        {
+            "nombre": "Manualidades y Piñatas",
+            "categoria": "Manualidades_Piñatas",
+            "descripcion": "El Coyol",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
+            "coordX": "77.731999215225",
+            "coordY": "82.325"
+        },
+        {
+            "nombre": "Manualidades y Piñatas",
+            "categoria": "Manualidades_Piñatas",
+            "descripcion": "Palcila",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
+            "coordX": "38.238179321169",
+            "coordY": "31.95"
         }
     ]
 }
