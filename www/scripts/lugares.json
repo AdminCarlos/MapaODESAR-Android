@@ -2223,6 +2223,86 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "47.664835164835",
             "coordY": "17.237928446335"
+        },
+        {
+            "nombre": "Elaboración de Instrumentos Musicales",
+            "categoria": "ElaboracióndeInstrumentosMusicales",
+            "descripcion": "Aranjuez",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
+            "coordX": "83.281004709576",
+            "coordY": "77.207905929447"
+        },
+        {
+            "nombre": "Elaboración de Instrumentos Musicales",
+            "categoria": "ElaboracióndeInstrumentosMusicales",
+            "descripcion": "Pueblo Viejo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
+            "coordX": "71.350078492936",
+            "coordY": "82.937202902177"
+        },
+        {
+            "nombre": "Elaboración de Instrumentos Musicales",
+            "categoria": "ElaboracióndeInstrumentosMusicales",
+            "descripcion": "La Estrella",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
+            "coordX": "71.350078492936",
+            "coordY": "76.057042782087"
+        },
+        {
+            "nombre": "Elaboración de Instrumentos Musicales",
+            "categoria": "ElaboracióndeInstrumentosMusicales",
+            "descripcion": "El Ocote",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
+            "coordX": "40.718210361068",
+            "coordY": "70.753064798599"
+        },
+        {
+            "nombre": "Elaboración de Instrumentos Musicales",
+            "categoria": "ElaboracióndeInstrumentosMusicales",
+            "descripcion": "Jucuapa Occidental",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
+            "coordX": "37.578492935636",
+            "coordY": "68.201150863147"
+        },
+        {
+            "nombre": "Elaboración de Instrumentos Musicales",
+            "categoria": "ElaboracióndeInstrumentosMusicales",
+            "descripcion": "Las Mercedes",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
+            "coordX": "43.720565149137",
+            "coordY": "66.775081310983"
+        },
+        {
+            "nombre": "Elaboración de Instrumentos Musicales",
+            "categoria": "ElaboracióndeInstrumentosMusicales",
+            "descripcion": "Piedra Colorada",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
+            "coordX": "47.880690737834",
+            "coordY": "72.054040530398"
+        },
+        {
+            "nombre": "Elaboración de Instrumentos Musicales",
+            "categoria": "ElaboracióndeInstrumentosMusicales",
+            "descripcion": "Limixto",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
+            "coordX": "31.16169544741",
+            "coordY": "61.070803102327"
+        },
+        {
+            "nombre": "Elaboración de Instrumentos Musicales",
+            "categoria": "ElaboracióndeInstrumentosMusicales",
+            "descripcion": "La Pita",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
+            "coordX": "19.466248037677",
+            "coordY": "50.237678258694"
+        },
+        {
+            "nombre": "Elaboración de Instrumentos Musicales",
+            "categoria": "ElaboracióndeInstrumentosMusicales",
+            "descripcion": "Las Escaleras 2",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
+            "coordX": "51.707221350078",
+            "coordY": "26.04453340005"
         }
     ]
 }
