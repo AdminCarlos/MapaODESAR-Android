@@ -2303,6 +2303,38 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "51.707221350078",
             "coordY": "26.04453340005"
+        },
+        {
+            "nombre": "Elaboración de Jícaros, Iguillas",
+            "categoria": "ElaboracióndeJícarosIguillas",
+            "descripcion": "El Guineo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de jicaros.png",
+            "coordX": "39.756671899529",
+            "coordY": "78.183637728296"
+        },
+        {
+            "nombre": "Elaboración de Jícaros, Iguillas",
+            "categoria": "ElaboracióndeJícarosIguillas",
+            "descripcion": "La Amistad",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de jicaros.png",
+            "coordX": "37.892464678179",
+            "coordY": "59.819864898674"
+        },
+        {
+            "nombre": "Elaboración de Jícaros, Iguillas",
+            "categoria": "ElaboracióndeJícarosIguillas",
+            "descripcion": "Ojo de Agua",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de jicaros.png",
+            "coordX": "36.872056514914",
+            "coordY": "69.301976482362"
+        },
+        {
+            "nombre": "Elaboración de Jícaros, Iguillas",
+            "categoria": "ElaboracióndeJícarosIguillas",
+            "descripcion": "El Chilamate",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de jicaros.png",
+            "coordX": "28.944270015699",
+            "coordY": "68.22616962722"
         }
     ]
 }
