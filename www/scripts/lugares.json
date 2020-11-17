@@ -2111,6 +2111,118 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "59.713500784929",
             "coordY": "5.003752814611"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Cerro El Padre",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "80.886970172684",
+            "coordY": "85.088816612459"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Apatite",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "29.757664233577",
+            "coordY": "79.059294470853"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "El Chile",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "37.106796116505",
+            "coordY": "71.978984238179"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Seca El Toro",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "46.239697542533",
+            "coordY": "75.831873905429"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Maria Auxiliadora",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "54.116814159292",
+            "coordY": "80.085063797848"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Quebrachal",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "53.198782079165",
+            "coordY": "83.937953465099"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Alemanita",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "55.003924646782",
+            "coordY": "55.766825118839"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Las Mercedes",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "43.112244897959",
+            "coordY": "65.59919939955"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Limixto",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "33.163265306122",
+            "coordY": "60.920690517888"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "La Cumplida",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "57.319466248038",
+            "coordY": "9.397047785839"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Las Escaleras 2",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "53.061224489796",
+            "coordY": "23.567675756818"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Empalme La Blanquita",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "50.117739403454",
+            "coordY": "21.341005754316"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "El Arenal",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "44.78021978022",
+            "coordY": "22.091568676507"
+        },
+        {
+            "nombre": "Conocimiento en Medicina Natural",
+            "categoria": "ConocimientoenMedicinaNatural",
+            "descripcion": "Aranjuez",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
+            "coordX": "47.664835164835",
+            "coordY": "17.237928446335"
         }
     ]
 }
