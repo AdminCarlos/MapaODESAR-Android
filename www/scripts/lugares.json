@@ -2791,6 +2791,222 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion ladrillos.png",
             "coordX": "81.16539140671",
             "coordY": "87.05"
+        },
+        {   
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "La Esmeralda",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "59.811616954474",
+            "coordY": "1.9764823617713"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Las Escaleras 2",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "50.74568288854",
+            "coordY": "23.542656992745"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "El Diamante",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "53.002354788069",
+            "coordY": "28.071053289967"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "El Paraíso",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "57.28021978022",
+            "coordY": "35.776832624468"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "La Granja",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "49.450549450549",
+            "coordY": "49.862396797598"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Siarre SS",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "54.886185243328",
+            "coordY": "60.19514635977"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Las Mercedes",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "47.488226059655",
+            "coordY": "66.199649737303"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Santa Josefina",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "46.094976452119",
+            "coordY": "68.926695021266"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Pierda Colorada",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "50.961538461538",
+            "coordY": "71.328496372279"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Apatite",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "81.946624803768",
+            "coordY": "78.633975481611"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Cerro El Padre",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "80.239403453689",
+            "coordY": "85.939454590943"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "El Matasano",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "46.507064364207",
+            "coordY": "77.833375031273"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Managuita",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "47.291993720565",
+            "coordY": "81.260945709282"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Quebrachal",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "44.701726844584",
+            "coordY": "82.561921441081"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "La Florida",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "41.660125588697",
+            "coordY": "78.809106830123"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Jumaiquí Abajo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "37.087912087912",
+            "coordY": "77.182887165374"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "El Ocotal",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "40.227629513344",
+            "coordY": "65.449086815111"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "El Ocotal",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "40.227629513344",
+            "coordY": "65.449086815111"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Jucuapa Arriba",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "36.636577708006",
+            "coordY": "64.523392544408"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Las Mesas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "31.357927786499",
+            "coordY": "73.079809857393"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Quebrada Honda",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "18.759811616954",
+            "coordY": "51.263447585689"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Yaule Arriba",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "24.077708006279",
+            "coordY": "44.758568926695"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "El Carrizo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "38.657770800628",
+            "coordY": "35.351513635226"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "San Simon de Palcila",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "38.932496075353",
+            "coordY": "30.647985989492"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "San Simon de Palcila",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "38.932496075353",
+            "coordY": "30.647985989492"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Las Lajas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "36.675824175824",
+            "coordY": "29.522141606205"
+        },
+        {
+            "nombre": "Carpintería",
+            "categoria": "Carpintería",
+            "descripcion": "Sitio Viejo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
+            "coordX": "36.75431711146",
+            "coordY": "22.316737553165"
         }
     ]
 }
