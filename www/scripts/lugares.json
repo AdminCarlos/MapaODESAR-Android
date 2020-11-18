@@ -2335,6 +2335,118 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de jicaros.png",
             "coordX": "28.944270015699",
             "coordY": "68.22616962722"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "La Pita",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "20.090249166176",
+            "coordY": "51.2"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "El Palacio",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "21.365509123014",
+            "coordY": "60.225"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "Jumaiquí Abajo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "36.727486756916",
+            "coordY": "79.55"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "Las Mesas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "29.998038061605",
+            "coordY": "71.425"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "Limixto",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "31.744163233274",
+            "coordY": "58.95"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "Santa Josefina",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "48.577594663528",
+            "coordY": "68.75"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "Siare SS",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "52.305277614283",
+            "coordY": "58.925"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "El Ocote",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "38.767902687856",
+            "coordY": "69.7"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "La Florida",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "43.456935452227",
+            "coordY": "80.025"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "El Matasano",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "46.890327643712",
+            "coordY": "75.6"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "El Quebrachal",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "46.497939964685",
+            "coordY": "83.275"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "San Jeronimo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "82.695703354915",
+            "coordY": "77.75"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "Cerro El padre",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "84.226015303119",
+            "coordY": "84.65"
+        },
+        {
+            "nombre": "Sobador",
+            "categoria": "Sobador",
+            "descripcion": "Apatite",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
+            "coordX": "80.164802825191",
+            "coordY": "82.725"
         }
     ]
 }
