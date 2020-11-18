@@ -2447,6 +2447,326 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "80.164802825191",
             "coordY": "82.725"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Las Mesas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "21.287031587208",
+            "coordY": "45.000000000001"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Quebrada Honda",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "18.363743378458",
+            "coordY": "53.525"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "El Palacio",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "20.168726701982",
+            "coordY": "60.15"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Las Mesas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "29.409456543065",
+            "coordY": "72.825"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Jumaiquí",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "34.667451442025",
+            "coordY": "78.075"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "El Balsamo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "35.805375711203",
+            "coordY": "76.35"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "El Castillo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "37.041396900137",
+            "coordY": "83.025"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Jucuapa Oriental",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "33.823817932117",
+            "coordY": "65.575"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Limixto",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "32.273886599961",
+            "coordY": "61.325"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Yaule Abajo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "26.780459093584",
+            "coordY": "54.70"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Waswalí Arriba",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "32.528938591328",
+            "coordY": "43.525"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Yaule Arriba",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "25.132430841672",
+            "coordY": "44.55"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "San José de Umure",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "25.171669609574",
+            "coordY": "32.25"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Las Lajas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "33.627624092603",
+            "coordY": "27.325"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Las Trancas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "30.311948204826",
+            "coordY": "33.15"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Rincón Largo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "32.332744751815",
+            "coordY": "24.325"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Sitio Viejo",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "37.198351971748",
+            "coordY": "23.925"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Palestina",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "46.831469491858",
+            "coordY": "9.525"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Palcila",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "41.16146752992",
+            "coordY": "30.075"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Empalme la Banquita",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "48.636452815382",
+            "coordY": "20.825"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Piedra de Agua",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "38.081224249559",
+            "coordY": "40.625"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Apante Grande",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "46.752991956053",
+            "coordY": "63.1"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Apante Grande",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "45.615067686875",
+            "coordY": "64.75"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Las Mercedes",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "45.615067686875",
+            "coordY": "64.75"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Santa Josefina",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "45.026486168334",
+            "coordY": "68.025"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "El Matasano",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "45.026486168334",
+            "coordY": "75.6"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "La Florida",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "41.828526584265",
+            "coordY": "80.75"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Piedra Colorada",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "51.226211496959",
+            "coordY": "75.175"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Samulalí",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "52.40337453404",
+            "coordY": "65.525"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "La Granja",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "53.070433588385",
+            "coordY": "52.375"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Santa Emilia",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "58.406906023151",
+            "coordY": "36.000000000001"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Santa Emilia",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "58.818913086129",
+            "coordY": "32.825"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Santa Emilia",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "61.075142240534",
+            "coordY": "30.675"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Las Escaleras 1",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "54.01216401805",
+            "coordY": "28.45"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Las Escaleras 2",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "51.108495193251",
+            "coordY": "24.65"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Cerro El Padre",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "78.516774573278",
+            "coordY": "85.125"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "La Ceiba",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "70.767117912498",
+            "coordY": "82.825"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "Apatite",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "80.674906807926",
+            "coordY": "81.000000000001"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "San Marcos de Apatite",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "82.087502452423",
+            "coordY": "75.25"
+        },
+        {
+            "nombre": "Músico y/o Compositor",
+            "categoria": "MusicoCompositor",
+            "descripcion": "El Chile",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
+            "coordX": "63.21365509123",
+            "coordY": "74.075"
         }
     ]
 }
