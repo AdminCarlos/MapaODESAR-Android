@@ -2767,6 +2767,30 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "63.21365509123",
             "coordY": "74.075"
+        },
+        {
+            "nombre": "Tejas y Ladrillos",
+            "categoria": "TejasLadrillos",
+            "descripcion": "El Guayacán",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion ladrillos.png",
+            "coordX": "26.368452030606",
+            "coordY": "48.05"
+        },
+        {
+            "nombre": "Tejas y Ladrillos",
+            "categoria": "TejasLadrillos",
+            "descripcion": "Las Mesas",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion ladrillos.png",
+            "coordX": "28.03609966647",
+            "coordY": "74.05"
+        },
+        {
+            "nombre": "Tejas y Ladrillos",
+            "categoria": "TejasLadrillos",
+            "descripcion": "Cerro El Padre",
+            "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion ladrillos.png",
+            "coordX": "81.16539140671",
+            "coordY": "87.05"
         }
     ]
 }
