@@ -3071,6 +3071,38 @@
             "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
             "coordX": "46.321365509123",
             "coordY": "13.35"
+        },
+        {
+            "nombre": "Montículos",
+            "categoria": "Monticulos",
+            "descripcion": "Fuente Pura",
+            "icono": "img/iconografias/Sitios Arqueologicos/monticulos.png",
+            "coordX": "42.574063174416",
+            "coordY": "26.7"
+        },
+        {
+            "nombre": "Montículos",
+            "categoria": "Monticulos",
+            "descripcion": "Solingalpa",
+            "icono": "img/iconografias/Sitios Arqueologicos/monticulos.png",
+            "coordX": "38.336276240926",
+            "coordY": "57.775"
+        },
+        {
+            "nombre": "Montículos",
+            "categoria": "Monticulos",
+            "descripcion": "Sitio Hacienda La China, Alemania",
+            "icono": "img/iconografias/Sitios Arqueologicos/monticulos.png",
+            "coordX": "54.679223072396",
+            "coordY": "57.425"
+        },
+        {
+            "nombre": "Montículos",
+            "categoria": "Monticulos",
+            "descripcion": "Sitio La Sombra, Pueblo Viejo",
+            "icono": "img/iconografias/Sitios Arqueologicos/monticulos.png",
+            "coordX": "74.74985285462",
+            "coordY": "81.2"
         }
     ]
 }
