@@ -3031,6 +3031,46 @@
             "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
             "coordX": "30.861290955464",
             "coordY": "32.25"
+        },
+        {
+            "nombre": "Material en Superficie",
+            "categoria": "MaterialSuperficie",
+            "descripcion": "Sitio Finca el Orégano",
+            "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
+            "coordX": "26.898175397293",
+            "coordY": "36.5"
+        },
+        {
+            "nombre": "Material en Superficie",
+            "categoria": "MaterialSuperficie",
+            "descripcion": "Sitio Viejo",
+            "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
+            "coordX": "39.160290366882",
+            "coordY": "25.35"
+        },
+        {
+            "nombre": "Material en Superficie",
+            "categoria": "MaterialSuperficie",
+            "descripcion": "El Descanso",
+            "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
+            "coordX": "44.948008632529",
+            "coordY": "18.8"
+        },
+        {
+            "nombre": "Material en Superficie",
+            "categoria": "MaterialSuperficie",
+            "descripcion": "Aranjuez",
+            "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
+            "coordX": "48.008632528939",
+            "coordY": "20.25"
+        },
+        {
+            "nombre": "Material en Superficie",
+            "categoria": "MaterialSuperficie",
+            "descripcion": "Loma La Gracia",
+            "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
+            "coordX": "46.321365509123",
+            "coordY": "13.35"
         }
     ]
 }
