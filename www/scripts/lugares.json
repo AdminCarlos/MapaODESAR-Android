@@ -3047,8 +3047,6 @@
             "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
             "coordX": "30.861290955464",
             "coordY": "32.25"
-<<<<<<< HEAD
-=======
         },
         {
             "nombre": "Material en Superficie",
@@ -3153,10 +3151,6 @@
             "icono": "img/iconografias/Sitios Naturales/lagunas.png",
             "coordX": "47.361192858544",
             "coordY": "56.9"
-<<<<<<< Updated upstream
-=======
->>>>>>> dbddab02a40cd969fce7baf3a4553ec9472356e8
->>>>>>> Stashed changes
         }
     ]
 }
