@@ -3107,10 +3107,18 @@
         {
             "nombre": "Vetas de Obsidiana",
             "categoria": "VetasObsidiana",
-            "descripcion": "Sitio La Sombra, Pueblo Viejo",
+            "descripcion": "El Chagüite",
             "icono": "img/iconografias/Sitios Arqueologicos/veta.svg",
             "coordX": "26.584265254071",
             "coordY": "36.825"
+        },
+        {
+            "nombre": "Material Cerámico",
+            "categoria": "MaterialCeramico",
+            "descripcion": "Sitio San José, Molino Norte",
+            "icono": "img/iconografias/Sitios Arqueologicos/material ceramico.svg",
+            "coordX": "44.222091426329",
+            "coordY": "41.575"
         }
     ]
 }
