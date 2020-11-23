@@ -3103,6 +3103,14 @@
             "icono": "img/iconografias/Sitios Arqueologicos/monticulos.png",
             "coordX": "74.74985285462",
             "coordY": "81.2"
+        },
+        {
+            "nombre": "Vetas de Obsidiana",
+            "categoria": "VetasObsidiana",
+            "descripcion": "Sitio La Sombra, Pueblo Viejo",
+            "icono": "img/iconografias/Sitios Arqueologicos/veta.svg",
+            "coordX": "26.584265254071",
+            "coordY": "36.825"
         }
     ]
 }
