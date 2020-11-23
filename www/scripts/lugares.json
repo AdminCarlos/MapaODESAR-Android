@@ -3007,6 +3007,30 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "36.75431711146",
             "coordY": "22.316737553165"
+        },
+        {
+            "nombre": "PetroGrabados",
+            "categoria": "PetroGrabados",
+            "descripcion": "Afueras casco Urbano Matagalpa",
+            "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
+            "coordX": "41.985481655876",
+            "coordY": "50.4"
+        },
+        {
+            "nombre": "PetroGrabados",
+            "categoria": "PetroGrabados",
+            "descripcion": "Piedra Cortada",
+            "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
+            "coordX": "50.618010594467",
+            "coordY": "73.85"
+        },
+        {
+            "nombre": "PetroGrabados",
+            "categoria": "PetroGrabados",
+            "descripcion": "Piedra Cortada",
+            "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
+            "coordX": "30.861290955464",
+            "coordY": "32.25"
         }
     ]
 }
