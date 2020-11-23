@@ -3119,6 +3119,22 @@
             "icono": "img/iconografias/Sitios Arqueologicos/material ceramico.svg",
             "coordX": "44.222091426329",
             "coordY": "41.575"
+        },
+        {
+            "nombre": "Laguna Selva Negra",
+            "categoria": "Laguna",
+            "descripcion": "Selva Negra",
+            "icono": "img/iconografias/Sitios Naturales/lagunas.png",
+            "coordX": "45.948597214047",
+            "coordY": "28.075"
+        },
+        {
+            "nombre": "Laguna La Providencia",
+            "categoria": "Laguna",
+            "descripcion": "La Providencia",
+            "icono": "img/iconografias/Sitios Naturales/lagunas.png",
+            "coordX": "47.361192858544",
+            "coordY": "56.9"
         }
     ]
 }
