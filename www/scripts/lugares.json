@@ -3154,7 +3154,7 @@
         },
         {
             "nombre": "Poza El Salto",
-            "categoria": "Pozas y Ojos de Agua",
+            "categoria": "PozasOjos",
             "descripcion": "Jucuapa Oriental",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.svg",
             "coordX": "33.176378261723",
@@ -3162,7 +3162,7 @@
         },
         {
             "nombre": "Poza El Guacal",
-            "categoria": "Pozas y Ojos de Agua",
+            "categoria": "PozasOjos",
             "descripcion": "Siarre SS",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.svg",
             "coordX": "55.777908573671",
@@ -3170,7 +3170,7 @@
         },
         {
             "nombre": "Poza Azul",
-            "categoria": "Pozas y Ojos de Agua",
+            "categoria": "PozasOjos",
             "descripcion": "San José",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.svg",
             "coordX": "53.560918187169",
@@ -3178,7 +3178,7 @@
         },
         {
             "nombre": "Poza El Violín",
-            "categoria": "Pozas y Ojos de Agua",
+            "categoria": "PozasOjos",
             "descripcion": "Las Trancas",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.svg",
             "coordX": "31.567588777712",
@@ -3186,7 +3186,7 @@
         },
         {
             "nombre": "Poza La Sirena",
-            "categoria": "Pozas y Ojos de Agua",
+            "categoria": "PozasOjos",
             "descripcion": "Las Lajas",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.svg",
             "coordX": "33.882676083971",
@@ -3194,7 +3194,7 @@
         },
         {
             "nombre": "Pozas El Encanto",
-            "categoria": "Pozas y Ojos de Agua",
+            "categoria": "PozasOjos",
             "descripcion": "La Cumplida",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.svg",
             "coordX": "54.30645477732",
@@ -3202,7 +3202,7 @@
         },
         {
             "nombre": "Poza Santa Emilia",
-            "categoria": "Pozas y Ojos de Agua",
+            "categoria": "PozasOjos",
             "descripcion": "Santa Emilia",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.svg",
             "coordX": "60.015695507161",
