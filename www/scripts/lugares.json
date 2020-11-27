@@ -3247,6 +3247,54 @@
             "icono": "img/iconografias/Casco Urbano/Malecón Río Grande de Matagalpa.png",
             "coordX": "42.672160094173",
             "coordY": "50.525"
+        },
+        {
+            "nombre": "Alcaldía Municipal",
+            "categoria": "Alcaldía",
+            "descripcion": "Santa Teresita",
+            "icono": "img/iconografias/Casco Urbano/Alcaldía Municipal.png",
+            "coordX": "44.280949578183",
+            "coordY": "49.8"
+        },
+        {
+            "nombre": "Campo Deportivo Elías Alonso",
+            "categoria": "CampoDeportivo",
+            "descripcion": "Barrio Edmundo Castellon",
+            "icono": "img/iconografias/Casco Urbano/Capo Deportivo Elías Alonso.png",
+            "coordX": "43.201883460859",
+            "coordY": "47.1"
+        },
+        {
+            "nombre": "Casa Cuna Carlos Fonseca",
+            "categoria": "CasaCuna",
+            "descripcion": "Barrio El Cementerio",
+            "icono": "img/iconografias/Casco Urbano/Casa Cuna Carlos Fonseca.png",
+            "coordX": "43.967039434962",
+            "coordY": "51.7"
+        },
+        {
+            "nombre": "Catedral San Pedro Apostol",
+            "categoria": "Catedral",
+            "descripcion": "Barrio Guanuca",
+            "icono": "img/iconografias/Casco Urbano/Catedral San Pedro Apostol.png",
+            "coordX": "44.437904649794",
+            "coordY": "48.15"
+        },
+        {
+            "nombre": "Cementerio de los Extranjeros",
+            "categoria": "Cementerio",
+            "descripcion": "Reparto Sandino",
+            "icono": "img/iconografias/Casco Urbano/Cementerio de los Extranjeros.png",
+            "coordX": "41.259564449676",
+            "coordY": "53.575"
+        },
+        {
+            "nombre": "Cementerio Municipal",
+            "categoria": "Cementerio",
+            "descripcion": "Reparto Sandino",
+            "icono": "img/iconografias/Casco Urbano/Cementerio Municipal.png",
+            "coordX": "41.396900137336",
+            "coordY": "53.575"
         }
     ]
 }
