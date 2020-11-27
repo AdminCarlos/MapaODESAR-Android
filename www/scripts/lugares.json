@@ -3207,6 +3207,46 @@
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.png",
             "coordX": "60.015695507161",
             "coordY": "32.75"
+        },
+        {
+            "nombre": "Complejo Deportivo Ernesto Cabrera",
+            "categoria": "ComplejoDeportivo",
+            "descripcion": "Solingalpa",
+            "icono": "img/iconografias/Casco Urbano/Complejo Deportivo Ernesto Cabrera.png",
+            "coordX": "38.905238375515",
+            "coordY": "54.15"
+        },
+        {
+            "nombre": "Parque De Ferias Waswalí",
+            "categoria": "ParqueDeFerias",
+            "descripcion": "Waswalí Abajo",
+            "icono": "img/iconografias/Casco Urbano/Parque de Ferias.png",
+            "coordX": "32.058073376496",
+            "coordY": "53.025"
+        },
+        {
+            "nombre": "Complejo Deportivo Carlos Fonseca Amador",
+            "categoria": "ComplejoDeportivo",
+            "descripcion": "Yaule Arriba",
+            "icono": "img/iconografias/Casco Urbano/Complejo Deportivo Carlos Fonseca.png",
+            "coordX": "28.408867961546",
+            "coordY": "53.925"
+        },
+        {
+            "nombre": "Parque Ecológico Mirador Cerro El Calvario",
+            "categoria": "ParqueEcologico",
+            "descripcion": "Santa Teresita",
+            "icono": "img/iconografias/Casco Urbano/Parque Ecológico Mirador Cerro El Calvario.png",
+            "coordX": "39.533058661958",
+            "coordY": "48.05"
+        },
+        {
+            "nombre": "Malecón Río Grande de Matagalpa",
+            "categoria": "Malecón",
+            "descripcion": "Barrio El Cementerio",
+            "icono": "img/iconografias/Casco Urbano/Malecón Río Grande de Matagalpa.png",
+            "coordX": "42.672160094173",
+            "coordY": "50.525"
         }
     ]
 }
