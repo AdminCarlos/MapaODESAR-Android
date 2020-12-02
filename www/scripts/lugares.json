@@ -355,7 +355,7 @@
         {
             "nombre": "Cerro de Piedra de Agua",
             "categoria": "CerrosyMontañas",
-            "descripcion": "Una montaña es una elevación natural de terreno superior a 700 m respecto a su base. Un cerro o colina es una elevación natural, en general, no supera los 100 metros desde la base hasta la cima.",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Varias/Cerro del Cuervo, Piedra de Agua-min.jpg'>",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "36.263736263736",
             "coordY": "40.45534150613"
@@ -411,7 +411,7 @@
         {
             "nombre": "Cerro El Pilón",
             "categoria": "CerrosyMontañas",
-            "descripcion": "Una montaña es una elevación natural de terreno superior a 700 m respecto a su base. Un cerro o colina es una elevación natural, en general, no supera los 100 metros desde la base hasta la cima.",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/3ra parte/Cerro El Pilon El Balsamo COMP/1.jpg'> <img class='imageDescription' src='img/audiovisual/3ra parte/Cerro El Pilon El Balsamo COMP/2.jpg'>",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "36.55808477237",
             "coordY": "74.2807105329"
@@ -451,7 +451,7 @@
         {
             "nombre": "Cerro La Molonca o Cerro Las Máscara",
             "categoria": "CerrosyMontañas",
-            "descripcion": "Una montaña es una elevación natural de terreno superior a 700 m respecto a su base. Un cerro o colina es una elevación natural, en general, no supera los 100 metros desde la base hasta la cima.",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/3ra parte/Cerro La Mascara o Molonca- Piedra colorada COMP/1.jpg'>",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "49.529042386185",
             "coordY": "79.759819864899"
@@ -507,7 +507,7 @@
         {
             "nombre": "Cerro La Granja",
             "categoria": "CerrosyMontañas",
-            "descripcion": "Una montaña es una elevación natural de terreno superior a 700 m respecto a su base. Un cerro o colina es una elevación natural, en general, no supera los 100 metros desde la base hasta la cima.",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Cerro Buena Vista La granja/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Cerro Buena Vista La granja/2.jpg'>",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "49.116954474097",
             "coordY": "52.739554665999"
@@ -531,7 +531,7 @@
         {
             "nombre": "Cerro Buena Vista",
             "categoria": "CerrosyMontañas",
-            "descripcion": "Una montaña es una elevación natural de terreno superior a 700 m respecto a su base. Un cerro o colina es una elevación natural, en general, no supera los 100 metros desde la base hasta la cima.",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Cerro Buena Vista La granja/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Cerro Buena Vista La granja/2.jpg'>",
             "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
             "coordX": "49.25431711146",
             "coordY": "58.243682762072"
@@ -681,14 +681,6 @@
             "coordY": "38.754065549162"
         },
         {
-            "nombre": "",
-            "categoria": "CerrosyMontañas",
-            "descripcion": "Una montaña es una elevación natural de terreno superior a 700 m respecto a su base. Un cerro o colina es una elevación natural, en general, no supera los 100 metros desde la base hasta la cima.",
-            "icono": "img/iconografias/Sitios Naturales/cerro y montañas.png",
-            "coordX": "",
-            "coordY": ""
-        },
-        {
             "nombre": "Salto La Mocuana",
             "categoria": "SaltosyCascadas",
             "descripcion": "Tramo de un curso fluvial donde, por causa de un fuerte desnivel del lecho o cauce, el agua cae verticalmente por efecto de la gravedad.",
@@ -729,14 +721,6 @@
             "coordY": "48.836627470603"
         },
         {
-            "nombre": "",
-            "categoria": "SaltosyCascadas",
-            "descripcion": "Tramo de un curso fluvial donde, por causa de un fuerte desnivel del lecho o cauce, el agua cae verticalmente por efecto de la gravedad.",
-            "icono": "img/iconografias/Sitios Naturales/saltos y cascadas.png",
-            "coordX": "",
-            "coordY": ""
-        },
-        {
             "nombre": "Cueva de Los Murciélagos",
             "categoria": "Cuevas/Abrigosrocosos",
             "descripcion": "Formación rocosa con una oquedad en su interior, generalmente se estas se encuentran restos arqueológicos cerámicos y líticos o dibujos e diversos motivos en su interior.",
@@ -771,7 +755,7 @@
         {
             "nombre": "Cueva del Duende",
             "categoria": "Cuevas/Abrigosrocosos",
-            "descripcion": "Formación rocosa con una oquedad en su interior, generalmente se estas se encuentran restos arqueológicos cerámicos y líticos o dibujos e diversos motivos en su interior.",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Varias/Cueva del duende Apante Grande-min.JPG'>",
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "38.147566718995",
             "coordY": "31.223417563172"
@@ -799,14 +783,6 @@
             "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
             "coordX": "84.909733124019",
             "coordY": "73.95546659995"
-        },
-        {
-            "nombre": "",
-            "categoria": "Cuevas/Abrigosrocosos",
-            "descripcion": "Formación rocosa con una oquedad en su interior, generalmente se estas se encuentran restos arqueológicos cerámicos y líticos o dibujos e diversos motivos en su interior.",
-            "icono": "img/iconografias/Sitios Arqueologicos/cuevas.png",
-            "coordX": "",
-            "coordY": ""
         },
         {
             "nombre": "Partera",
@@ -849,9 +825,9 @@
             "coordY": "80.335251438579"
         },
         {
-            "nombre": "Partera",
+            "nombre": "Partera El Chile",
             "categoria": "Parteras",
-            "descripcion": "Mujeres y abuelas reconocidas por la práctica de este importante oficio ancestral. Los cuidados y atención de las parteras en las comunidades rurales son primordiales para miles de mujeres embarazadas, utilizando conocimientos y saberes ancestrales aprendidos de sus madres y abuelas.",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/4ta parte/Partera El Chile COMP/1.jpg'> <img class='imageDescription' src='img/audiovisual/4ta parte/Partera El Chile COMP/2.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "66.365777080063",
             "coordY": "71.903927945959"
@@ -871,14 +847,6 @@
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
             "coordX": "83.084772370487",
             "coordY": "80.810607955967"
-        },
-        {
-            "nombre": "Partera",
-            "categoria": "Parteras",
-            "descripcion": "Mujeres y abuelas reconocidas por la práctica de este importante oficio ancestral. Los cuidados y atención de las parteras en las comunidades rurales son primordiales para miles de mujeres embarazadas, utilizando conocimientos y saberes ancestrales aprendidos de sus madres y abuelas.",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/partera.png",
-            "coordX": "",
-            "coordY": ""
         },
         {
             "nombre": "Piedra La Montosa",
@@ -1017,9 +985,10 @@
             "coordY": "40.230172629472"
         },
         {
-            "nombre": "Artesanías de barro",
+            "nombre": "Artesanías de barro Sitio Viejo",
             "categoria": "Artesaniasdebarro",
-            "descripcion": "Sitio Viejo",
+            "lugar": "Sitio Viejo",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Artesanias de barrio sitio viejo, artesana juana francisca montenegro/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Artesanias de barrio sitio viejo, artesana juana francisca montenegro/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Artesanias de barrio sitio viejo, artesana juana francisca montenegro/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "37.649597802629",
             "coordY": "22.1"
@@ -1081,9 +1050,9 @@
             "coordY": "82.525"
         },
         {
-            "nombre": "Ceramica Negra",
+            "nombre": "Ceramica Negra Guanuca",
             "categoria": "CeramicaNegra",
-            "descripcion": "Guanuca",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/4ta parte/Oficio de la ceramica negra Matagalpa Casco Urbano COMP/1.JPG'> <img class='imageDescription' src='img/audiovisual/4ta parte/Oficio de la ceramica negra Matagalpa Casco Urbano COMP/2.jpg'> <img class='imageDescription' src='img/audiovisual/4ta parte/Oficio de la ceramica negra Matagalpa Casco Urbano COMP/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/ceramica negra.png",
             "coordX": "45.918367346939",
             "coordY": "47.58568926695"
@@ -1177,9 +1146,9 @@
             "coordY": "62.95"
         },
         {
-            "nombre": "Telares",
+            "nombre": "Telares El Chile",
             "categoria": "Telares",
-            "descripcion": "El Chile",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Telares El Chile/1.JPG'> <img class='imageDescription' src='img/audiovisual/1era parte/Telares El Chile/2.JPG'> <img class='imageDescription' src='img/audiovisual/1era parte/Telares El Chile/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.png",
             "coordX": "65.195212870316",
             "coordY": "73.4"
@@ -1201,17 +1170,17 @@
             "coordY": "83.225"
         },
         {
-            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "nombre": "Escobas Palcila",
             "categoria": "EscobasMillon",
-            "descripcion": "Palcila",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Varias/escobas palcila-min.png'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "38.277418089072",
             "coordY": "32.7"
         },
         {
-            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "nombre": "Escobas Quebrada Honda",
             "categoria": "EscobasMillon",
-            "descripcion": "Quebrada Honda",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/2da parte/Oficio de Elaboracion de escoba Quebrada Honda COMP/1.jpg'> <img class='imageDescription' src='img/audiovisual/2da parte/Oficio de Elaboracion de escoba Quebrada Honda COMP/2.jpg'> <img class='imageDescription' src='img/audiovisual/2da parte/Oficio de Elaboracion de escoba Quebrada Honda COMP/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "17.343535412988",
             "coordY": "51.95"
@@ -1353,9 +1322,9 @@
             "coordY": "61.5"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Las Lajas",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Las Lajas",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Gastronomia Las Lajas/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Gastronomia Las Lajas/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Gastronomia Las Lajas/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "35.589562487738",
             "coordY": "29.375"
@@ -1569,9 +1538,9 @@
             "coordY": "24.35"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Las Lajas",
             "categoria": "Panaderia",
-            "descripcion": "Las Lajas",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Panaderia Las Lajas/1.JPG'> <img class='imageDescription' src='img/audiovisual/1era parte/Panaderia Las Lajas/2.png'> <img class='imageDescription' src='img/audiovisual/1era parte/Panaderia Las Lajas/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "33.706101628409",
             "coordY": "30.075"
@@ -1769,9 +1738,9 @@
             "coordY": "20.665499124343"
         },
         {
-            "nombre": "Arreglos Florales, Cultivo de Flores",
+            "nombre": "Arreglos Florales, Cultivo de Flores Palcila",
             "categoria": "Arreglosfloralescultivodeflores",
-            "descripcion": "San Simon de Palcila",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Cultivo de flores palcila/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Cultivo de flores palcila/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Cultivo de flores palcila/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/arreglos florales, cultivo de flores.png",
             "coordX": "38.952119309262",
             "coordY": "28.146109582187"
@@ -2081,9 +2050,9 @@
             "coordY": "33.324993745309"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Las Lajas",
             "categoria": "Costurera",
-            "descripcion": "Las Lajas",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Costureras Las Lajas/1fixed.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Costureras Las Lajas/2.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "34.89010989011",
             "coordY": "30.22266700025"
@@ -2225,17 +2194,17 @@
             "coordY": "21.325"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural El Arenal",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "El Arenal",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Centro de gestion ambiental el roble el arenal/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Centro de gestion ambiental el roble el arenal/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Centro de gestion ambiental el roble el arenal/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "44.771434176967",
             "coordY": "21.325"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Aranjuez",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Aranjuez",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/2da parte/Medicina Natural Aranjuez Agregar COMP/1.jpg'> <img class='imageDescription' src='img/audiovisual/2da parte/Medicina Natural Aranjuez Agregar COMP/2.jpg'> <img class='imageDescription' src='img/audiovisual/2da parte/Medicina Natural Aranjuez Agregar COMP/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "47.655483617814",
             "coordY": "20.975"
@@ -2473,9 +2442,9 @@
             "coordY": "45.000000000001"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Quebrada Honda",
             "categoria": "MusicoCompositor",
-            "descripcion": "Quebrada Honda",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/2da parte/Oficio de elaboracion de Instrumentos Musicales Quebrada Honda COMP/1.jpg'> <img class='imageDescription' src='img/audiovisual/2da parte/Oficio de elaboracion de Instrumentos Musicales Quebrada Honda COMP/2.jpg'> <img class='imageDescription' src='img/audiovisual/2da parte/Oficio de elaboracion de Instrumentos Musicales Quebrada Honda COMP/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "18.363743378458",
             "coordY": "53.525"
@@ -2808,7 +2777,7 @@
             "coordX": "81.16539140671",
             "coordY": "87.05"
         },
-        {   
+        {
             "nombre": "Carpintería",
             "categoria": "Carpintería",
             "descripcion": "La Esmeralda",
@@ -3041,9 +3010,9 @@
             "coordY": "73.85"
         },
         {
-            "nombre": "PetroGrabados",
+            "nombre": "PetroGrabados La Bruja",
             "categoria": "PetroGrabados",
-            "descripcion": "Piedra Cortada",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Petrograbados Poza La Bruja/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Petrograbados Poza La Bruja/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Petrograbados Poza La Bruja/3.jpg'>",
             "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
             "coordX": "30.861290955464",
             "coordY": "32.25"
@@ -3177,9 +3146,9 @@
             "coordY": "75.75"
         },
         {
-            "nombre": "Poza El Violín",
+            "nombre": "Poza La Bruja",
             "categoria": "PozasOjos",
-            "descripcion": "Las Trancas",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Poza La Bruja Las Lajas/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Poza La Bruja Las Lajas/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Poza La Bruja Las Lajas/3.jpg'>",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.png",
             "coordX": "31.567588777712",
             "coordY": "35.4"
@@ -3187,7 +3156,7 @@
         {
             "nombre": "Poza La Sirena",
             "categoria": "PozasOjos",
-            "descripcion": "Las Lajas",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Poza La sirena Las Lajas/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Poza La sirena Las Lajas/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Poza La sirena Las Lajas/3.jpg'>",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.png",
             "coordX": "33.882676083971",
             "coordY": "29.225"
@@ -3235,7 +3204,7 @@
         {
             "nombre": "Parque Ecológico Mirador Cerro El Calvario",
             "categoria": "ParqueEcologico",
-            "descripcion": "Santa Teresita",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Mirador Cerro El Calvario/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Mirador Cerro El Calvario/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Mirador Cerro El Calvario/3.jpg'>",
             "icono": "img/iconografias/Casco Urbano/Parque Ecológico Mirador Cerro El Calvario.png",
             "coordX": "39.533058661958",
             "coordY": "48.05"
