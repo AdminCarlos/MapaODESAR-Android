@@ -343,8 +343,7 @@ var oldScale = panzoom.getScale();
 
     function openDescripcion(iconID) {
 
-        $("#modalDescripcion .modalTitulo span").text(iconID);
-
+        
         if (device.platform === "Android") {
 
             $.ajax({
@@ -382,7 +381,7 @@ var oldScale = panzoom.getScale();
     }
 
     function setDescription(pIconID, pArrayLugares){
-        for (let i = 0; i < pArrayLugares.length; i++) {
+        /*for (let i = 0; i < pArrayLugares.length; i++) {
 
             if (pIconID === pArrayLugares[i].nombre) {
 
@@ -390,7 +389,10 @@ var oldScale = panzoom.getScale();
 
             }
 
-        }
+        }*/
+        let idArray=pIconID.split(" || ");
+        $("#modalDescripcion .modalCuerpo").html(pArrayLugares[idArray[1]].descripcion);
+        $("#modalDescripcion .modalTitulo span").text(idArray[0]);
     }
 
     function closeDescription() {
@@ -575,6 +577,7 @@ var oldScale = panzoom.getScale();
 })();
 
 function parserLugares(jsonLugares) {
+    let contador = 0;
     jsonLugares.forEach(lugar => {
 
         /* let iconoContainer = document.createElement("div");
@@ -619,7 +622,7 @@ function parserLugares(jsonLugares) {
         let icono = document.createElement('img');
         icono.classList.add('mapIcon');
         icono.classList.add(lugar.categoria);
-        icono.id = lugar.nombre;
+        icono.id = lugar.nombre +' || '+contador;
         icono.src = lugar.icono;
         icono.style.position = "absolute";
         icono.style.top = ((lugar.coordY / 100) * $("#divContainerMapa").height()) + 'px';
@@ -649,5 +652,6 @@ function parserLugares(jsonLugares) {
         spanIcono.style.zIndex = '99';
         spanIcono.style.display = "none";
         document.getElementById('divContainerMapa').append(spanIcono);
+        +contador++;
     });
 }
