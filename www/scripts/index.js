@@ -355,17 +355,7 @@ var oldScale = panzoom.getScale();
                 success: function (data) {
 
                     var array = JSON.parse(data);
-
-                    for (var i = 0; i < array.lugares.length; i++) {
-
-                        if (iconID === array.lugares[i].nombre) {
-
-                            $("#modalDescripcion .modalCuerpo").html(array.lugares[i].descripcion);
-
-                        }
-
-                    }
-
+                    setDescription(iconID,array.lugares);
                 },
                 error: function () {
 
@@ -381,6 +371,7 @@ var oldScale = panzoom.getScale();
             fetch('scripts/lugares.json')
                 .then((response) => response.json())
                 .then(function (array) {
+                    setDescription(iconID, array.lugares);
                     parserLugares(array.lugares);
                 })
 
@@ -388,6 +379,18 @@ var oldScale = panzoom.getScale();
 
         $("#divDescripcion").slideDown();
         //console.log("Nombre del lugar: " + iconID + " Descripcion: " + placeDescription);
+    }
+
+    function setDescription(pIconID, pArrayLugares){
+        for (let i = 0; i < pArrayLugares.length; i++) {
+
+            if (pIconID === pArrayLugares[i].nombre) {
+
+                $("#modalDescripcion .modalCuerpo").html(pArrayLugares[i].descripcion);
+
+            }
+
+        }
     }
 
     function closeDescription() {
