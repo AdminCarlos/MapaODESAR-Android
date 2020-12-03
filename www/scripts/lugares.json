@@ -923,7 +923,7 @@
         {
             "nombre": "Pintores y escultores",
             "categoria": "Pintoresyescultores",
-            "descripcion": "",
+            "descripcion": "Talento creativo que se realza en el municipio, desarrollando el arte de la pintura y escultura, mediante el cual exponen el paisaje biocultural y la cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/pintores.png",
             "coordX": "81.750392464678",
             "coordY": "80.335251438579"
@@ -931,7 +931,7 @@
         {
             "nombre": "Pintores y escultores",
             "categoria": "Pintoresyescultores",
-            "descripcion": "",
+            "descripcion": "Talento creativo que se realza en el municipio, desarrollando el arte de la pintura y escultura, mediante el cual exponen el paisaje biocultural y la cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/pintores.png",
             "coordX": "55.612244897959",
             "coordY": "58.568926695021"
@@ -939,7 +939,7 @@
         {
             "nombre": "Pintores y escultores",
             "categoria": "Pintoresyescultores",
-            "descripcion": "",
+            "descripcion": "Talento creativo que se realza en el municipio, desarrollando el arte de la pintura y escultura, mediante el cual exponen el paisaje biocultural y la cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/pintores.png",
             "coordX": "43.681318681319",
             "coordY": "63.572679509632"
@@ -947,7 +947,7 @@
         {
             "nombre": "Pintores y escultores",
             "categoria": "Pintoresyescultores",
-            "descripcion": "",
+            "descripcion": "Talento creativo que se realza en el municipio, desarrollando el arte de la pintura y escultura, mediante el cual exponen el paisaje biocultural y la cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/pintores.png",
             "coordX": "31.613029827316",
             "coordY": "75.481611208406"
@@ -955,7 +955,7 @@
         {
             "nombre": "Pintores y escultores",
             "categoria": "Pintoresyescultores",
-            "descripcion": "",
+            "descripcion": "Talento creativo que se realza en el municipio, desarrollando el arte de la pintura y escultura, mediante el cual exponen el paisaje biocultural y la cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/pintores.png",
             "coordX": "19.152276295133",
             "coordY": "54.46584938704"
@@ -963,7 +963,7 @@
         {
             "nombre": "Pintores y escultores",
             "categoria": "Pintoresyescultores",
-            "descripcion": "",
+            "descripcion": "Talento creativo que se realza en el municipio, desarrollando el arte de la pintura y escultura, mediante el cual exponen el paisaje biocultural y la cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/pintores.png",
             "coordX": "51.923076923077",
             "coordY": "52.864648486365"
@@ -971,7 +971,7 @@
         {
             "nombre": "Pintores y escultores",
             "categoria": "Pintoresyescultores",
-            "descripcion": "",
+            "descripcion": "Talento creativo que se realza en el municipio, desarrollando el arte de la pintura y escultura, mediante el cual exponen el paisaje biocultural y la cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/pintores.png",
             "coordX": "25.058869701727",
             "coordY": "48.81160870653"
@@ -979,7 +979,7 @@
         {
             "nombre": "Pintores y escultores",
             "categoria": "Pintoresyescultores",
-            "descripcion": "",
+            "descripcion": "Talento creativo que se realza en el municipio, desarrollando el arte de la pintura y escultura, mediante el cual exponen el paisaje biocultural y la cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/pintores.png",
             "coordX": "38.61852433281",
             "coordY": "40.230172629472"
@@ -987,64 +987,63 @@
         {
             "nombre": "Artesanías de barro Sitio Viejo",
             "categoria": "Artesaniasdebarro",
-            "lugar": "Sitio Viejo",
             "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Artesanias de barrio sitio viejo, artesana juana francisca montenegro/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Artesanias de barrio sitio viejo, artesana juana francisca montenegro/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Artesanias de barrio sitio viejo, artesana juana francisca montenegro/3.jpg'>",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "37.649597802629",
             "coordY": "22.1"
         },
         {
-            "nombre": "Artesanías de barro",
+            "nombre": "Artesanías de barro Piedra de Agua",
             "categoria": "Artesaniasdebarro",
-            "descripcion": "Piedra de agua",
+            "descripcion": "Artesanos (as) que trabajan el barro, para la elaboración de piezas utilitarias y decorativas, se inspiran en elementos prehispánicos, flora, fauna y vida cotidiana, reflejan mundos cosmogónicos que vienen de ciencias ancestrales y que están vivos en su código genético.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "37.296448891505",
             "coordY": "40.925"
         },
         {
-            "nombre": "Artesanías de barro",
+            "nombre": "Artesanías de barro Cerro Piedra de Agua",
             "categoria": "Artesaniasdebarro",
-            "descripcion": "Cerro Piedra de agua",
+            "descripcion": "Artesanos (as) que trabajan el barro, para la elaboración de piezas utilitarias y decorativas, se inspiran en elementos prehispánicos, flora, fauna y vida cotidiana, reflejan mundos cosmogónicos que vienen de ciencias ancestrales y que están vivos en su código genético.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "36.040808318619",
             "coordY": "45.275"
         },
         {
-            "nombre": "Artesanías de barro",
+            "nombre": "Artesanías de barro Tepeyac",
             "categoria": "Artesaniasdebarro",
-            "descripcion": "TepeYac",
+            "descripcion": "Artesanos (as) que trabajan el barro, para la elaboración de piezas utilitarias y decorativas, se inspiran en elementos prehispánicos, flora, fauna y vida cotidiana, reflejan mundos cosmogónicos que vienen de ciencias ancestrales y que están vivos en su código genético.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "57.484794977438",
             "coordY": "58.425"
         },
         {
-            "nombre": "Artesanías de barro",
+            "nombre": "Artesanías de barro La Estrella",
             "categoria": "Artesaniasdebarro",
-            "descripcion": "La estrella",
+            "descripcion": "Artesanos (as) que trabajan el barro, para la elaboración de piezas utilitarias y decorativas, se inspiran en elementos prehispánicos, flora, fauna y vida cotidiana, reflejan mundos cosmogónicos que vienen de ciencias ancestrales y que están vivos en su código genético.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "44.536001569551",
             "coordY": "78.175"
         },
         {
-            "nombre": "Artesanías de barro",
+            "nombre": "Artesanías de barro San Jerónimo",
             "categoria": "Artesaniasdebarro",
-            "descripcion": "San Jerónimo",
+            "descripcion": "Artesanos (as) que trabajan el barro, para la elaboración de piezas utilitarias y decorativas, se inspiran en elementos prehispánicos, flora, fauna y vida cotidiana, reflejan mundos cosmogónicos que vienen de ciencias ancestrales y que están vivos en su código genético.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "83.990582695703",
             "coordY": "82.9"
         },
         {
-            "nombre": "Artesanías de barro",
+            "nombre": "Artesanías de barro Cerro El Padre",
             "categoria": "Artesaniasdebarro",
-            "descripcion": "Cerro El Padre",
+            "descripcion": "Artesanos (as) que trabajan el barro, para la elaboración de piezas utilitarias y decorativas, se inspiran en elementos prehispánicos, flora, fauna y vida cotidiana, reflejan mundos cosmogónicos que vienen de ciencias ancestrales y que están vivos en su código genético.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "80.282519128899",
             "coordY": "86.65"
         },
         {
-            "nombre": "Artesanías de barro",
+            "nombre": "Artesanías de barro Pueblo Viejo",
             "categoria": "Artesaniasdebarro",
-            "descripcion": "Pueblo Viejo",
+            "descripcion": "Artesanos (as) que trabajan el barro, para la elaboración de piezas utilitarias y decorativas, se inspiran en elementos prehispánicos, flora, fauna y vida cotidiana, reflejan mundos cosmogónicos que vienen de ciencias ancestrales y que están vivos en su código genético.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.png",
             "coordX": "72.944869531097",
             "coordY": "82.525"
@@ -1058,89 +1057,89 @@
             "coordY": "47.58568926695"
         },
         {
-            "nombre": "Canasta de Carrizo o Bambú",
+            "nombre": "Canasta de Carrizo o Bambú Las Escaleras 2",
             "categoria": "CanastadeCarrizooBambú",
-            "descripcion": "Las Escaleras 2",
+            "descripcion": "Oficio practicado por familias rurales que elaboran canastos utilizados en su vida cotidiana, principalmente para el corte de café. Inspirados en el entrelazado de su historia que se va entretejiendo de una forma armónica, como su cosmovisión.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "54.434850863422",
             "coordY": "24.543407555667"
         },
         {
-            "nombre": "Canasta de Carrizo o Bambú",
+            "nombre": "Canasta de Carrizo o Bambú Las Escaleras 1",
             "categoria": "CanastadeCarrizooBambú",
-            "descripcion": "Las Escaleras 1",
+            "descripcion": "Oficio practicado por familias rurales que elaboran canastos utilizados en su vida cotidiana, principalmente para el corte de café. Inspirados en el entrelazado de su historia que se va entretejiendo de una forma armónica, como su cosmovisión.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "54.434850863422",
             "coordY": "28.846634976232"
         },
         {
-            "nombre": "Canasta de Carrizo o Bambú",
+            "nombre": "Canasta de Carrizo o Bambú Cerro El Portillo",
             "categoria": "CanastadeCarrizooBambú",
-            "descripcion": "Cerro El Portillo",
+            "descripcion": "Oficio practicado por familias rurales que elaboran canastos utilizados en su vida cotidiana, principalmente para el corte de café. Inspirados en el entrelazado de su historia que se va entretejiendo de una forma armónica, como su cosmovisión.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "56.102825745683",
             "coordY": "37.353014761071"
         },
         {
-            "nombre": "Canasta de Carrizo o Bambú",
+            "nombre": "Canasta de Carrizo o Bambú Pueblo Viejo",
             "categoria": "CanastadeCarrizooBambú",
-            "descripcion": "Pueblo Viejo",
+            "descripcion": "Oficio practicado por familias rurales que elaboran canastos utilizados en su vida cotidiana, principalmente para el corte de café. Inspirados en el entrelazado de su historia que se va entretejiendo de una forma armónica, como su cosmovisión.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "73.057299843014",
             "coordY": "81.16087065299"
         },
         {
-            "nombre": "Canasta de Carrizo o Bambú",
+            "nombre": "Canasta de Carrizo o Bambú El Matasano",
             "categoria": "CanastadeCarrizooBambú",
-            "descripcion": "El Matasano",
+            "descripcion": "Oficio practicado por familias rurales que elaboran canastos utilizados en su vida cotidiana, principalmente para el corte de café. Inspirados en el entrelazado de su historia que se va entretejiendo de una forma armónica, como su cosmovisión.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "46.860282574568",
             "coordY": "77.933450087566"
         },
         {
-            "nombre": "Canasta de Carrizo o Bambú",
+            "nombre": "Canasta de Carrizo o Bambú Las Mercedes",
             "categoria": "CanastadeCarrizooBambú",
-            "descripcion": "Las Mercedes",
+            "descripcion": "Oficio practicado por familias rurales que elaboran canastos utilizados en su vida cotidiana, principalmente para el corte de café. Inspirados en el entrelazado de su historia que se va entretejiendo de una forma armónica, como su cosmovisión.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "46.07535321821",
             "coordY": "65.449086815111"
         },
         {
-            "nombre": "Canasta de Carrizo o Bambú",
+            "nombre": "Canasta de Carrizo o Bambú Siarre SS",
             "categoria": "CanastadeCarrizooBambú",
-            "descripcion": "Siarre SS",
+            "descripcion": "Oficio practicado por familias rurales que elaboran canastos utilizados en su vida cotidiana, principalmente para el corte de café. Inspirados en el entrelazado de su historia que se va entretejiendo de una forma armónica, como su cosmovisión.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "54.905808477237",
             "coordY": "59.719789842382"
         },
         {
-            "nombre": "Canasta de Carrizo o Bambú",
+            "nombre": "Canasta de Carrizo o Bambú La Granja",
             "categoria": "CanastadeCarrizooBambú",
-            "descripcion": "La Granja",
+            "descripcion": "Oficio practicado por familias rurales que elaboran canastos utilizados en su vida cotidiana, principalmente para el corte de café. Inspirados en el entrelazado de su historia que se va entretejiendo de una forma armónica, como su cosmovisión.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "50.078492935636",
             "coordY": "51.51363522642"
         },
         {
-            "nombre": "Canasta de Carrizo o Bambú",
+            "nombre": "Canasta de Carrizo o Bambú El Portillo de Payacuca",
             "categoria": "CanastadeCarrizooBambú",
-            "descripcion": "El Portillo de Payacuca",
+            "descripcion": "Oficio practicado por familias rurales que elaboran canastos utilizados en su vida cotidiana, principalmente para el corte de café. Inspirados en el entrelazado de su historia que se va entretejiendo de una forma armónica, como su cosmovisión.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/canastos.png",
             "coordX": "36.518838304553",
             "coordY": "84.638478859144"
         },
         {
-            "nombre": "Telares",
+            "nombre": "Telares Los Lipes",
             "categoria": "Telares",
-            "descripcion": "Los Lipes",
+            "descripcion": "Practica artesanal de tejido con la antigua técnica indígena del telar de cintura y de palanca, para la elaboración de diversos productos con coloridas telas de algodón.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.png",
             "coordX": "41.220325681774",
             "coordY": "38.15"
         },
         {
-            "nombre": "Telares",
+            "nombre": "Telares El Ocotal",
             "categoria": "Telares",
-            "descripcion": "El ocotal",
+            "descripcion": "Practica artesanal de tejido con la antigua técnica indígena del telar de cintura y de palanca, para la elaboración de diversos productos con coloridas telas de algodón.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.png",
             "coordX": "41.357661369433",
             "coordY": "62.95"
@@ -1154,17 +1153,17 @@
             "coordY": "73.4"
         },
         {
-            "nombre": "Telares",
+            "nombre": "Telares El Chile 2",
             "categoria": "Telares",
-            "descripcion": "El Chile 2",
+            "descripcion": "Practica artesanal de tejido con la antigua técnica indígena del telar de cintura y de palanca, para la elaboración de diversos productos con coloridas telas de algodón.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.png",
             "coordX": "67.333725721012",
             "coordY": "73.6"
         },
         {
-            "nombre": "Telares",
+            "nombre": "Telares La Gloria",
             "categoria": "Telares",
-            "descripcion": "La Gloria",
+            "descripcion": "Practica artesanal de tejido con la antigua técnica indígena del telar de cintura y de palanca, para la elaboración de diversos productos con coloridas telas de algodón.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/telares.png",
             "coordX": "72.591720619973",
             "coordY": "83.225"
@@ -1186,65 +1185,57 @@
             "coordY": "51.95"
         },
         {
-            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón Limixto",
             "categoria": "EscobasMillon",
-            "descripcion": "Limixto",
+            "descripcion": "De la palma se elaboran sombreros, pieza identitaria de gran valor simbólico en el vestir tradicional de la población de las comunidades del municipio, que de forma armónica van entretejiendo diversos entramados creando diseños únicos. De fibras naturales como la palma, tusa y millón se elaboran diversos productos ornamentales y utilitarios como escobas y petates.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "34.785167745733",
             "coordY": "58.9"
         },
         {
-            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón Apante Grande",
             "categoria": "EscobasMillon",
-            "descripcion": "Apante Grande",
+            "descripcion": "De la palma se elaboran sombreros, pieza identitaria de gran valor simbólico en el vestir tradicional de la población de las comunidades del municipio, que de forma armónica van entretejiendo diversos entramados creando diseños únicos. De fibras naturales como la palma, tusa y millón se elaboran diversos productos ornamentales y utilitarios como escobas y petates.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "45.379635079459",
             "coordY": "60.675"
         },
         {
-            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón El Chilamate",
             "categoria": "EscobasMillon",
-            "descripcion": "El Chilamate",
+            "descripcion": "De la palma se elaboran sombreros, pieza identitaria de gran valor simbólico en el vestir tradicional de la población de las comunidades del municipio, que de forma armónica van entretejiendo diversos entramados creando diseños únicos. De fibras naturales como la palma, tusa y millón se elaboran diversos productos ornamentales y utilitarios como escobas y petates.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "29.723366686286",
             "coordY": "67.9"
         },
         {
-            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón El Matasano",
             "categoria": "EscobasMillon",
-            "descripcion": "El Matasano",
+            "descripcion": "De la palma se elaboran sombreros, pieza identitaria de gran valor simbólico en el vestir tradicional de la población de las comunidades del municipio, que de forma armónica van entretejiendo diversos entramados creando diseños únicos. De fibras naturales como la palma, tusa y millón se elaboran diversos productos ornamentales y utilitarios como escobas y petates.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "45.144202472042",
             "coordY": "76.6"
         },
         {
-            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
-            "categoria": "EscobasMillon",
-            "descripcion": "El Matasano",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
-            "coordX": "45.144202472042",
-            "coordY": "76.6"
-        },
-        {
-            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón Yaule Abajo",
             "categoria": "SombreroSinEscoba",
-            "descripcion": "YauleAbajo",
+            "descripcion": "De la palma se elaboran sombreros, pieza identitaria de gran valor simbólico en el vestir tradicional de la población de las comunidades del municipio, que de forma armónica van entretejiendo diversos entramados creando diseños únicos. De fibras naturales como la palma, tusa y millón se elaboran diversos productos ornamentales y utilitarios como escobas y petates.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "25.83872866392",
             "coordY": "56.45"
         },
         {
-            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón La Granja",
             "categoria": "SombreroSinEscoba",
-            "descripcion": "La Granja",
+            "descripcion": "De la palma se elaboran sombreros, pieza identitaria de gran valor simbólico en el vestir tradicional de la población de las comunidades del municipio, que de forma armónica van entretejiendo diversos entramados creando diseños únicos. De fibras naturales como la palma, tusa y millón se elaboran diversos productos ornamentales y utilitarios como escobas y petates.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "48.852266038846",
             "coordY": "51.25"
         },
         {
-            "nombre": "Sombreros, escobas y petates de palma, tusa y millón",
+            "nombre": "Sombreros, escobas y petates de palma, tusa y millón La Tijerina",
             "categoria": "SombreroSinEscoba",
-            "descripcion": "La Tijerina",
+            "descripcion": "De la palma se elaboran sombreros, pieza identitaria de gran valor simbólico en el vestir tradicional de la población de las comunidades del municipio, que de forma armónica van entretejiendo diversos entramados creando diseños únicos. De fibras naturales como la palma, tusa y millón se elaboran diversos productos ornamentales y utilitarios como escobas y petates.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.png",
             "coordX": "27.310182460271",
             "coordY": "47.475"
@@ -1258,65 +1249,65 @@
             "coordY": "21.1"
         },
         {
-            "nombre": "Artesanías con Bambú",
+            "nombre": "Artesanías con Bambú Santa Emilia",
             "categoria": "ArtesaniasBambu",
-            "descripcion": "Santa Emilia",
+            "descripcion": "Con el bambú los artesanos elaboran diversas piezas utilitarias y decorativas, se inspiran en su entorno natural y en las riquezas y manifestaciones bioculturales de sus comunidades, innovando para crear piezas únicas que plasman su identidad cultural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).png",
             "coordX": "57.582891897194",
             "coordY": "34.575"
         },
         {
-            "nombre": "Artesanías con Bambú",
+            "nombre": "Artesanías con Bambú Cerro El Padre",
             "categoria": "ArtesaniasBambu",
-            "descripcion": "Cerro El Padre",
+            "descripcion": "Con el bambú los artesanos elaboran diversas piezas utilitarias y decorativas, se inspiran en su entorno natural y en las riquezas y manifestaciones bioculturales de sus comunidades, innovando para crear piezas únicas que plasman su identidad cultural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).png",
             "coordX": "79.458505002943",
             "coordY": "82.1"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Yaule Arriba",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Yaule Arriba",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "23.641357661369",
             "coordY": "47.575"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Villa Kokomo",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Villa Kokomo",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "20.404159309398",
             "coordY": "53.625"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional El Palacio",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "El Palacio",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "19.050421816755",
             "coordY": "60.825"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Jumaiqui",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Jumaiqui",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "33.941534235825",
             "coordY": "79.25"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Jucuapa Oriental",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Jucuapa Oriental",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "34.922503433392",
             "coordY": "64.525"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Limixto",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Limixto",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "34.098489307436",
             "coordY": "61.5"
@@ -1330,209 +1321,209 @@
             "coordY": "29.375"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Rincón Largo",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Rincón Largo",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "32.99980380616",
             "coordY": "24.2"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Sitio Viejo",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Sitio Viejo",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "38.610947616245",
             "coordY": "21.875"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Palestina",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Palestina",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "47.969393761036",
             "coordY": "10.075"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional El Diamante",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "El Diamante",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "52.99195605258",
             "coordY": "25.775"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Las Escaleras 2",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Las Escaleras 2",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "53.266627427899",
             "coordY": "30.3"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional La Granja",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "La Granja",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "49.77437708456",
             "coordY": "53.225"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Samulalí",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Samulalí",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "54.30645477732",
             "coordY": "63.45"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Guadalupe",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Guadalupe",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "60.29036688248",
             "coordY": "63.725"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Siare SS",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Siare SS",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "54.875416911909",
             "coordY": "61.35"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Santa Emilia",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Santa Emilia",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "58.583480478713",
             "coordY": "34.4"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Las Nubes",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Las Nubes",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "60.349225034334",
             "coordY": "5.2"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional El Chile",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "El Chile",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "66.666666666667",
             "coordY": "74.5"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Pueblo Viejo",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Pueblo Viejo",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "73.690406121248",
             "coordY": "81.825"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Cerro El Padre",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Cerro El Padre",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "79.281930547381",
             "coordY": "85.25"
         },
         {
-            "nombre": "Gastronomía Tradicional",
+            "nombre": "Gastronomía Tradicional Palcila",
             "categoria": "GastronomiaTradicional",
-            "descripcion": "Palcila",
+            "descripcion": "La gastronomía de Matagalpa es diversa, relacionada a tradiciones y celebraciones locales y ancestrales. Las recetas son compartidas de generación en generación, por hombres y mujeres que guardan en su memoria, ingredientes y recetas ancestrales.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.png",
             "coordX": "40.72984108299",
             "coordY": "32.375"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Villa Kokomo",
             "categoria": "Panaderia",
-            "descripcion": "Villa Kokomo",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "21.326270355111",
             "coordY": "54.85"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería El Palacio",
             "categoria": "Panaderia",
-            "descripcion": "El Palacio",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "18.716892289582",
             "coordY": "62.65"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Bijagüe Sur",
             "categoria": "Panaderia",
-            "descripcion": "Bijagüe Sur",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "33.156758877771",
             "coordY": "74.25"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería El Guineo",
             "categoria": "Panaderia",
-            "descripcion": "El Guineo",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "40.121640180498",
             "coordY": "79.15"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Piedra Colorada",
             "categoria": "Panaderia",
-            "descripcion": "Piedra Colorada",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "49.754757700608",
             "coordY": "75.2"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Santa Josefina",
             "categoria": "Panaderia",
-            "descripcion": "Santa Josefina",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "43.456935452227",
             "coordY": "68.425"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Jucuapa Oriental",
             "categoria": "Panaderia",
-            "descripcion": "Jucuapa Oriental",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "34.333921914852",
             "coordY": "63.4"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Limixto",
             "categoria": "Panaderia",
-            "descripcion": "Limixto",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "35.118697272906",
             "coordY": "60.85"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería El Bálsamo",
             "categoria": "Panaderia",
-            "descripcion": "El Bálsamo",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "38.709044536002",
             "coordY": "64.825"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Palcila",
             "categoria": "Panaderia",
-            "descripcion": "Palcila",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "39.650774965666",
             "coordY": "29.825"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Rincon Largo",
             "categoria": "Panaderia",
-            "descripcion": "Rincon Largo",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "33.86305670002",
             "coordY": "24.35"
@@ -1546,153 +1537,153 @@
             "coordY": "30.075"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Piedra de Agua",
             "categoria": "Panaderia",
-            "descripcion": "Piedra de Agua",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "36.099666470473",
             "coordY": "38.2"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Palestina",
             "categoria": "Panaderia",
-            "descripcion": "Palestina",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "46.615656268393",
             "coordY": "11.15"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería La Granja",
             "categoria": "Panaderia",
-            "descripcion": "La Granja",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "52.285658230332",
             "coordY": "50.575"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería El Chile",
             "categoria": "Panaderia",
-            "descripcion": "El Chile",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "62.782028644301",
             "coordY": "72.05"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Guadalupe",
             "categoria": "Panaderia",
-            "descripcion": "Guadalupe",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "59.172061997253",
             "coordY": "65.05"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Samulalí",
             "categoria": "Panaderia",
-            "descripcion": "Samulalí",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "52.540710221699",
             "coordY": "63.85"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Siare SS",
             "categoria": "Panaderia",
-            "descripcion": "Siare SS",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "53.600156955072",
             "coordY": "60.7"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Santa Emilia",
             "categoria": "Panaderia",
-            "descripcion": "Santa Emilia",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "59.230920149107",
             "coordY": "36.15"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Las Escaleras 1",
             "categoria": "Panaderia",
-            "descripcion": "Las Escaleras 1",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "54.129880321758",
             "coordY": "30.625"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Las Nubes",
             "categoria": "Panaderia",
-            "descripcion": "Las Nubes",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "58.230331567589",
             "coordY": "4.7"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Pueblo Viejo",
             "categoria": "Panaderia",
-            "descripcion": "Pueblo Viejo",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "72.238571708848",
             "coordY": "79.75"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Cerro El Padre",
             "categoria": "Panaderia",
-            "descripcion": "Cerro El Padre",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "77.123798312733",
             "coordY": "84.45"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Apatite",
             "categoria": "Panaderia",
-            "descripcion": "Apatite",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "79.536982538748",
             "coordY": "80.075"
         },
         {
-            "nombre": "Panadería",
+            "nombre": "Panadería Yaule Arriba",
             "categoria": "Panaderia",
-            "descripcion": "Yaule Arriba",
+            "descripcion": "En las comunidades y casco urbano del municipio existen personas con gran talento en la elaboración de pan, rosquillas, semitas, cosa de horno o perrerreque, entre otros, elaborados en hornos tradicionales construidos en su mayoría por las mismas familias.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/panaderia.png",
             "coordX": "24.720423778693",
             "coordY": "47.25"
         },
         {
-            "nombre": "Dulces y Cajetas",
+            "nombre": "Dulces y Cajetas San Jerónimo",
             "categoria": "DulcesyCajetas",
-            "descripcion": "San Jerónimo",
+            "descripcion": "Existe talento humano en la elaboración de cajetas, dulces y almíbares, elaborados a partir de frutas e ingredientes autóctonos del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
             "coordX": "83.379120879121",
             "coordY": "84.938704028021"
         },
         {
-            "nombre": "Dulces y Cajetas",
+            "nombre": "Dulces y Cajetas El Balsamo",
             "categoria": "DulcesyCajetas",
-            "descripcion": "El Balsamo",
+            "descripcion": "Existe talento humano en la elaboración de cajetas, dulces y almíbares, elaborados a partir de frutas e ingredientes autóctonos del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
             "coordX": "38.108320251177",
             "coordY": "73.95546659995"
         },
         {
-            "nombre": "Jaleas y Vinos",
+            "nombre": "Jaleas y Vinos El Balsamo",
             "categoria": "Jaleasyvinos",
-            "descripcion": "El Balsamo",
+            "descripcion": "",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
             "coordX": "39.835164835165",
             "coordY": "75.831873905429"
         },
         {
-            "nombre": "Jaleas y Vinos",
+            "nombre": "Jaleas y Vinos El Ocote",
             "categoria": "Jaleasyvinos",
-            "descripcion": "El Ocote",
+            "descripcion": "",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
             "coordX": "37.951334379906",
             "coordY": "70.828121090818"
         },
         {
-            "nombre": "Jaleas y Vinos",
+            "nombre": "Jaleas y Vinos Siarre SS",
             "categoria": "Jaleasyvinos",
-            "descripcion": "Siarre SS",
+            "descripcion": "",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
             "coordX": "56.456043956044",
             "coordY": "59.519639729797"
