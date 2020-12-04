@@ -1667,7 +1667,7 @@
         {
             "nombre": "Jaleas y Vinos El Balsamo",
             "categoria": "Jaleasyvinos",
-            "descripcion": "",
+            "descripcion": "Talento humano que elabora vinos y jaleas a partir de frutas e ingredientes autóctonos del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
             "coordX": "39.835164835165",
             "coordY": "75.831873905429"
@@ -1675,7 +1675,7 @@
         {
             "nombre": "Jaleas y Vinos El Ocote",
             "categoria": "Jaleasyvinos",
-            "descripcion": "",
+            "descripcion": "Talento humano que elabora vinos y jaleas a partir de frutas e ingredientes autóctonos del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
             "coordX": "37.951334379906",
             "coordY": "70.828121090818"
@@ -1683,47 +1683,47 @@
         {
             "nombre": "Jaleas y Vinos Siarre SS",
             "categoria": "Jaleasyvinos",
-            "descripcion": "",
+            "descripcion": "Talento humano que elabora vinos y jaleas a partir de frutas e ingredientes autóctonos del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
             "coordX": "56.456043956044",
             "coordY": "59.519639729797"
         },
         {
-            "nombre": "Dulces y Cajetas",
+            "nombre": "Dulces y Cajetas Santa Emilia",
             "categoria": "DulcesyCajetas",
-            "descripcion": "Santa Emilia",
+            "descripcion": "Existe talento humano en la elaboración de cajetas, dulces y almíbares, elaborados a partir de frutas e ingredientes autóctonos del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
             "coordX": "58.02590266876",
             "coordY": "34.976232174131"
         },
         {
-            "nombre": "Dulces y Cajetas",
+            "nombre": "Dulces y Cajetas El Carrizo",
             "categoria": "DulcesyCajetas",
-            "descripcion": "El Carrizo",
+            "descripcion": "Existe talento humano en la elaboración de cajetas, dulces y almíbares, elaborados a partir de frutas e ingredientes autóctonos del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
             "coordX": "40.914442700157",
             "coordY": "33.675256442332"
         },
         {
-            "nombre": "Dulces y Cajetas",
+            "nombre": "Dulces y Cajetas Piedra de Agua",
             "categoria": "DulcesyCajetas",
-            "descripcion": "Piedra de Agua",
+            "descripcion": "Existe talento humano en la elaboración de cajetas, dulces y almíbares, elaborados a partir de frutas e ingredientes autóctonos del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
             "coordX": "35.851648351648",
             "coordY": "37.853390042532"
         },
         {
-            "nombre": "Dulces y Cajetas",
+            "nombre": "Dulces y Cajetas Las Lajas",
             "categoria": "DulcesyCajetas",
-            "descripcion": "Las Lajas",
+            "descripcion": "Existe talento humano en la elaboración de cajetas, dulces y almíbares, elaborados a partir de frutas e ingredientes autóctonos del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/dulces y cajetas.png",
             "coordX": "36.342229199372",
             "coordY": "27.770828121091"
         },
         {
-            "nombre": "Jaleas y Vinos",
+            "nombre": "Jaleas y Vinos El Descanso",
             "categoria": "Jaleasyvinos",
-            "descripcion": "El Descanso",
+            "descripcion": "Talento humano que elabora vinos y jaleas a partir de frutas e ingredientes autóctonos del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/jaleas y vinos.png",
             "coordX": "44.113029827316",
             "coordY": "20.665499124343"
@@ -1737,305 +1737,305 @@
             "coordY": "28.146109582187"
         },
         {
-            "nombre": "Arreglos Florales, Cultivo de Flores",
+            "nombre": "Arreglos Florales, Cultivo de Flores Disparate de Potter",
             "categoria": "Arreglosfloralescultivodeflores",
-            "descripcion": "Disparate de Potter",
+            "descripcion": "En Matagalpa diversas familias y emprendimientos elaboran de arreglos florales utilizados para adornar celebraciones y conmemoración de fechas importantes, tanto religiosas como tradicionales. En diversas comunidades también se realiza el cultivo de flores nativas y plantas que se comercializan dentro y fuera del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/arreglos florales, cultivo de flores.png",
             "coordX": "42.248822605965",
             "coordY": "42.248822605965"
         },
         {
-            "nombre": "Arreglos Florales, Cultivo de Flores",
+            "nombre": "Arreglos Florales, Cultivo de Flores El Descanso",
             "categoria": "Arreglosfloralescultivodeflores",
-            "descripcion": "El Descanso",
+            "descripcion": "En Matagalpa diversas familias y emprendimientos elaboran de arreglos florales utilizados para adornar celebraciones y conmemoración de fechas importantes, tanto religiosas como tradicionales. En diversas comunidades también se realiza el cultivo de flores nativas y plantas que se comercializan dentro y fuera del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/arreglos florales, cultivo de flores.png",
             "coordX": "45.879120879121",
             "coordY": "21.641230923192"
         },
         {
-            "nombre": "Arreglos Florales, Cultivo de Flores",
+            "nombre": "Arreglos Florales, Cultivo de Flores Empalme La Blanquita",
             "categoria": "Arreglosfloralescultivodeflores",
-            "descripcion": "Empalme La Blanquita",
+            "descripcion": "En Matagalpa diversas familias y emprendimientos elaboran de arreglos florales utilizados para adornar celebraciones y conmemoración de fechas importantes, tanto religiosas como tradicionales. En diversas comunidades también se realiza el cultivo de flores nativas y plantas que se comercializan dentro y fuera del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/arreglos florales, cultivo de flores.png",
             "coordX": "49.273940345369",
             "coordY": "19.089316987741"
         },
         {
-            "nombre": "Bisutería",
+            "nombre": "Bisutería Apante Grande",
             "categoria": "Bisutería",
-            "descripcion": "Apante Grande",
+            "descripcion": "Bisutería artesanal elaborada con semillas que guardan un potencial de su magia ancestral.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/bisuteria.png",
             "coordX": "45.39925446341",
             "coordY": "62.95"
         },
         {
-            "nombre": "Bisutería",
+            "nombre": "Bisutería Santa Josefina",
             "categoria": "Bisutería",
-            "descripcion": "Santa Josefina",
+            "descripcion": "Bisutería artesanal elaborada con semillas que guardan un potencial de su magia ancestral.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/bisuteria.png",
             "coordX": "46.792230723955",
             "coordY": "66.2"
         },
         {
-            "nombre": "Bisutería",
+            "nombre": "Bisutería El Paraíso",
             "categoria": "Bisutería",
-            "descripcion": "El Paraíso",
+            "descripcion": "Bisutería artesanal elaborada con semillas que guardan un potencial de su magia ancestral.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/bisuteria.png",
             "coordX": "57.22974298607",
             "coordY": "37.375"
         },
         {
-            "nombre": "Bisutería",
+            "nombre": "Bisutería Santa Emilia",
             "categoria": "Bisutería",
-            "descripcion": "Santa Emilia",
+            "descripcion": "Bisutería artesanal elaborada con semillas que guardan un potencial de su magia ancestral.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/bisuteria.png",
             "coordX": "58.171473415735",
             "coordY": "33.6"
         },
         {
-            "nombre": "Manualidades y Piñatas",
+            "nombre": "Manualidades y Piñatas Yaule Arriba",
             "categoria": "Manualidades_Piñatas",
-            "descripcion": "Yaule Arriba",
+            "descripcion": "Personas elaboran diversos elementos decorativos utilizando un sinfín de materiales como: papel, cartón, cartulina, tela, plástico, vidrio, envases reciclados, ceras de colores, pintura, hilo, madera, alambre, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
             "coordX": "26.172258191093",
             "coordY": "44.475"
         },
         {
-            "nombre": "Manualidades y Piñatas",
+            "nombre": "Manualidades y Piñatas La Florida",
             "categoria": "Manualidades_Piñatas",
-            "descripcion": "La Florida",
+            "descripcion": "Personas elaboran diversos elementos decorativos utilizando un sinfín de materiales como: papel, cartón, cartulina, tela, plástico, vidrio, envases reciclados, ceras de colores, pintura, hilo, madera, alambre, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
             "coordX": "41.004512458309",
             "coordY": "80.625"
         },
         {
-            "nombre": "Manualidades y Piñatas",
+            "nombre": "Manualidades y Piñatas La Rinconada",
             "categoria": "Manualidades_Piñatas",
-            "descripcion": "La Rinconada",
+            "descripcion": "Personas elaboran diversos elementos decorativos utilizando un sinfín de materiales como: papel, cartón, cartulina, tela, plástico, vidrio, envases reciclados, ceras de colores, pintura, hilo, madera, alambre, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
             "coordX": "43.986658818913",
             "coordY": "84.2"
         },
         {
-            "nombre": "Manualidades y Piñatas",
+            "nombre": "Manualidades y Piñatas Limixto",
             "categoria": "Manualidades_Piñatas",
-            "descripcion": "Limixto",
+            "descripcion": "Personas elaboran diversos elementos decorativos utilizando un sinfín de materiales como: papel, cartón, cartulina, tela, plástico, vidrio, envases reciclados, ceras de colores, pintura, hilo, madera, alambre, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
             "coordX": "30.684716499902",
             "coordY": "58.475"
         },
         {
-            "nombre": "Manualidades y Piñatas",
+            "nombre": "Manualidades y Piñatas El Descanso",
             "categoria": "Manualidades_Piñatas",
-            "descripcion": "El Descanso",
+            "descripcion": "Personas elaboran diversos elementos decorativos utilizando un sinfín de materiales como: papel, cartón, cartulina, tela, plástico, vidrio, envases reciclados, ceras de colores, pintura, hilo, madera, alambre, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
             "coordX": "45.516970767118",
             "coordY": "18.0000000000001"
         },
         {
-            "nombre": "Manualidades y Piñatas",
+            "nombre": "Manualidades y Piñatas Las Escaleras 2",
             "categoria": "Manualidades_Piñatas",
-            "descripcion": "Las Escaleras 2",
+            "descripcion": "Personas elaboran diversos elementos decorativos utilizando un sinfín de materiales como: papel, cartón, cartulina, tela, plástico, vidrio, envases reciclados, ceras de colores, pintura, hilo, madera, alambre, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
             "coordX": "51.147733961154",
             "coordY": "21.175"
         },
         {
-            "nombre": "Manualidades y Piñatas",
+            "nombre": "Manualidades y Piñatas La Granja",
             "categoria": "Manualidades_Piñatas",
-            "descripcion": "La Granja",
+            "descripcion": "Personas elaboran diversos elementos decorativos utilizando un sinfín de materiales como: papel, cartón, cartulina, tela, plástico, vidrio, envases reciclados, ceras de colores, pintura, hilo, madera, alambre, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
             "coordX": "48.302923288209",
             "coordY": "49.825"
         },
         {
-            "nombre": "Manualidades y Piñatas",
+            "nombre": "Manualidades y Piñatas El Ocotal",
             "categoria": "Manualidades_Piñatas",
-            "descripcion": "El Ocotal",
+            "descripcion": "Personas elaboran diversos elementos decorativos utilizando un sinfín de materiales como: papel, cartón, cartulina, tela, plástico, vidrio, envases reciclados, ceras de colores, pintura, hilo, madera, alambre, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
             "coordX": "42.789876397881",
             "coordY": "63.025"
         },
         {
-            "nombre": "Manualidades y Piñatas",
+            "nombre": "Manualidades y Piñatas El Coyol",
             "categoria": "Manualidades_Piñatas",
-            "descripcion": "El Coyol",
+            "descripcion": "Personas elaboran diversos elementos decorativos utilizando un sinfín de materiales como: papel, cartón, cartulina, tela, plástico, vidrio, envases reciclados, ceras de colores, pintura, hilo, madera, alambre, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
             "coordX": "77.731999215225",
             "coordY": "82.325"
         },
         {
-            "nombre": "Manualidades y Piñatas",
+            "nombre": "Manualidades y Piñatas Palcila",
             "categoria": "Manualidades_Piñatas",
-            "descripcion": "Palcila",
+            "descripcion": "Personas elaboran diversos elementos decorativos utilizando un sinfín de materiales como: papel, cartón, cartulina, tela, plástico, vidrio, envases reciclados, ceras de colores, pintura, hilo, madera, alambre, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/manualidades.png",
             "coordX": "38.238179321169",
             "coordY": "31.95"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera San Jerónimo",
             "categoria": "Costurera",
-            "descripcion": "San Jerónimo",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "80.906593406593",
             "coordY": "85.138854140605"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Apatite",
             "categoria": "Costurera",
-            "descripcion": "Apatite",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "83.163265306122",
             "coordY": "78.884163122342"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera San Marcos de Apatite",
             "categoria": "Costurera",
-            "descripcion": "San Marcos de Apatite",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "80.41601255887",
             "coordY": "73.104828621466"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera El Chile",
             "categoria": "Costurera",
-            "descripcion": "El Chile",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "64.226844583987",
             "coordY": "70.703027270453"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Seca El Tesoro",
             "categoria": "Costurera",
-            "descripcion": "Seca El Tesoro",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "52.98273155416",
             "coordY": "76.33224918689"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Quebrachal",
             "categoria": "Costurera",
-            "descripcion": "Quebrachal",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "47.547095761381",
             "coordY": "82.96222166625"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Maria Auxiliadora",
             "categoria": "Costurera",
-            "descripcion": "Maria Auxiliadora",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "42.503924646782",
             "coordY": "80.885664248186"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Jumaiqui",
             "categoria": "Costurera",
-            "descripcion": "Jumaiqui",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "33.830455259027",
             "coordY": "77.533149862397"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera El Balsamo",
             "categoria": "Costurera",
-            "descripcion": "El Balsamo",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "36.302982731554",
             "coordY": "75.631723792845"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Las Mesas",
             "categoria": "Costurera",
-            "descripcion": "Las Mesas",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "29.375981161695",
             "coordY": "74.580935701776"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera El Palacio",
             "categoria": "Costurera",
-            "descripcion": "El Palacio",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "20.408163265306",
             "coordY": "63.597698273705"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Santa Josefina",
             "categoria": "Costurera",
-            "descripcion": "Santa Josefina",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "44.623233908948",
             "coordY": "69.276957718289"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Apante Grande",
             "categoria": "Costurera",
-            "descripcion": "Apante Grande",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "47.605965463108",
             "coordY": "62.346760070053"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Siarre SS",
             "categoria": "Costurera",
-            "descripcion": "Siarre SS",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "53.002354788069",
             "coordY": "60.320240180135"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera El Ocotal",
             "categoria": "Costurera",
-            "descripcion": "El Ocotal",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "42.111459968603",
             "coordY": "62.421816362272"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Jucuapa Arriba",
             "categoria": "Costurera",
-            "descripcion": "Jucuapa Arriba",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "35.890894819466",
             "coordY": "63.79784838629"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Limixto",
             "categoria": "Costurera",
-            "descripcion": "Limixto",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "35.890894819466",
             "coordY": "59.019264448336"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Yaule Arriba",
             "categoria": "Costurera",
-            "descripcion": "Yaule Arriba",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "27.531397174254",
             "coordY": "52.714535901926"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera La Tijerina",
             "categoria": "Costurera",
-            "descripcion": "La Tijerina",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "27.551020408163",
             "coordY": "45.158869151864"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera La Granja",
             "categoria": "Costurera",
-            "descripcion": "La Granja",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "51.373626373626",
             "coordY": "50.713034776082"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera El Carrizo",
             "categoria": "Costurera",
-            "descripcion": "El Carrizo",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "40.10989010989",
             "coordY": "33.324993745309"
@@ -2049,137 +2049,137 @@
             "coordY": "30.22266700025"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Las Escaleras 1",
             "categoria": "Costurera",
-            "descripcion": "Las Escaleras 1",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "56.318681318681",
             "coordY": "30.347760820615"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Aranjuez",
             "categoria": "Costurera",
-            "descripcion": "Aranjuez",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "46.036106750392",
             "coordY": "18.413810357768"
         },
         {
-            "nombre": "Costurera",
+            "nombre": "Costurera Las Nubes",
             "categoria": "Costurera",
-            "descripcion": "Las Nubes",
+            "descripcion": "Talento humano que corta y confecciona a medida prendas de vestir para hombres, mujeres, niños y niñas, así como diversas piezas ornamentales como manteles, cortinas, ropa de cama, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/costurera.png",
             "coordX": "59.713500784929",
             "coordY": "5.003752814611"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Cerro El Padre",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Cerro El Padre",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "80.87110064744",
             "coordY": "85.025"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Apatite",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Apatite",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "80.87110064744",
             "coordY": "79"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural El Chile",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "El Chile",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "64.66548950363",
             "coordY": "71.925"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Seca El Toro",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Seca El Toro",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "64.66548950363",
             "coordY": "75.775"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Maria Auxiliadora",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Maria Auxiliadora",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "44.339807730037",
             "coordY": "80.025"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Quebrachal",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Quebrachal",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "44.339807730037",
             "coordY": "83.875"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural El Portillo De Payacuca",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "El Portillo De Payacuca",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "36.001569550716",
             "coordY": "84"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Bijagüe Sur",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Bijagüe Sur",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "32.882087502452",
             "coordY": "73.425"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Alemanita",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Alemanita",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "44.339807730037",
             "coordY": "55.725"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Las Mercedes",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Las Mercedes",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "43.103786541103",
             "coordY": "65.55"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Limixto",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Limixto",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "33.156758877771",
             "coordY": "60.875"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural La Cumplida",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "La Cumplida",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "57.308220521876",
             "coordY": "29.375"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Las Escaleras 2",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Las Escaleras 2",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "53.050814204434",
             "coordY": "23.55"
         },
         {
-            "nombre": "Conocimiento en Medicina Natural",
+            "nombre": "Conocimiento en Medicina Natural Empalme La Blanquita",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "Empalme La Blanquita",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "50.107906611732",
             "coordY": "21.325"
@@ -2201,233 +2201,233 @@
             "coordY": "20.975"
         },
         {
-            "nombre": "Elaboración de Instrumentos Musicales",
+            "nombre": "Elaboración de Instrumentos Musicales Aranjuez",
             "categoria": "ElaboracióndeInstrumentosMusicales",
-            "descripcion": "Aranjuez",
+            "descripcion": "En Matagalpa existen personas talentosas que elaboran un sinnúmero de instrumentos musicales como guitarras, guitarrones, violín, mandolina, quijongo, maracas, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "83.281004709576",
             "coordY": "77.207905929447"
         },
         {
-            "nombre": "Elaboración de Instrumentos Musicales",
+            "nombre": "Elaboración de Instrumentos Musicales Pueblo Viejo",
             "categoria": "ElaboracióndeInstrumentosMusicales",
-            "descripcion": "Pueblo Viejo",
+            "descripcion": "En Matagalpa existen personas talentosas que elaboran un sinnúmero de instrumentos musicales como guitarras, guitarrones, violín, mandolina, quijongo, maracas, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "71.350078492936",
             "coordY": "82.937202902177"
         },
         {
-            "nombre": "Elaboración de Instrumentos Musicales",
+            "nombre": "Elaboración de Instrumentos Musicales La Estrella",
             "categoria": "ElaboracióndeInstrumentosMusicales",
-            "descripcion": "La Estrella",
+            "descripcion": "En Matagalpa existen personas talentosas que elaboran un sinnúmero de instrumentos musicales como guitarras, guitarrones, violín, mandolina, quijongo, maracas, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "71.350078492936",
             "coordY": "76.057042782087"
         },
         {
-            "nombre": "Elaboración de Instrumentos Musicales",
+            "nombre": "Elaboración de Instrumentos Musicales El Ocote",
             "categoria": "ElaboracióndeInstrumentosMusicales",
-            "descripcion": "El Ocote",
+            "descripcion": "En Matagalpa existen personas talentosas que elaboran un sinnúmero de instrumentos musicales como guitarras, guitarrones, violín, mandolina, quijongo, maracas, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "40.718210361068",
             "coordY": "70.753064798599"
         },
         {
-            "nombre": "Elaboración de Instrumentos Musicales",
+            "nombre": "Elaboración de Instrumentos Musicales Jucuapa Occidental",
             "categoria": "ElaboracióndeInstrumentosMusicales",
-            "descripcion": "Jucuapa Occidental",
+            "descripcion": "En Matagalpa existen personas talentosas que elaboran un sinnúmero de instrumentos musicales como guitarras, guitarrones, violín, mandolina, quijongo, maracas, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "37.578492935636",
             "coordY": "68.201150863147"
         },
         {
-            "nombre": "Elaboración de Instrumentos Musicales",
+            "nombre": "Elaboración de Instrumentos Musicales Las Mercedes",
             "categoria": "ElaboracióndeInstrumentosMusicales",
-            "descripcion": "Las Mercedes",
+            "descripcion": "En Matagalpa existen personas talentosas que elaboran un sinnúmero de instrumentos musicales como guitarras, guitarrones, violín, mandolina, quijongo, maracas, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "43.720565149137",
             "coordY": "66.775081310983"
         },
         {
-            "nombre": "Elaboración de Instrumentos Musicales",
+            "nombre": "Elaboración de Instrumentos Musicales Piedra Colorada",
             "categoria": "ElaboracióndeInstrumentosMusicales",
-            "descripcion": "Piedra Colorada",
+            "descripcion": "En Matagalpa existen personas talentosas que elaboran un sinnúmero de instrumentos musicales como guitarras, guitarrones, violín, mandolina, quijongo, maracas, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "47.880690737834",
             "coordY": "72.054040530398"
         },
         {
-            "nombre": "Elaboración de Instrumentos Musicales",
+            "nombre": "Elaboración de Instrumentos Musicales Limixto",
             "categoria": "ElaboracióndeInstrumentosMusicales",
-            "descripcion": "Limixto",
+            "descripcion": "En Matagalpa existen personas talentosas que elaboran un sinnúmero de instrumentos musicales como guitarras, guitarrones, violín, mandolina, quijongo, maracas, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "31.16169544741",
             "coordY": "61.070803102327"
         },
         {
-            "nombre": "Elaboración de Instrumentos Musicales",
+            "nombre": "Elaboración de Instrumentos Musicales La Pita",
             "categoria": "ElaboracióndeInstrumentosMusicales",
-            "descripcion": "La Pita",
+            "descripcion": "En Matagalpa existen personas talentosas que elaboran un sinnúmero de instrumentos musicales como guitarras, guitarrones, violín, mandolina, quijongo, maracas, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "19.466248037677",
             "coordY": "50.237678258694"
         },
         {
-            "nombre": "Elaboración de Instrumentos Musicales",
+            "nombre": "Elaboración de Instrumentos Musicales Las Escaleras 2",
             "categoria": "ElaboracióndeInstrumentosMusicales",
-            "descripcion": "Las Escaleras 2",
+            "descripcion": "En Matagalpa existen personas talentosas que elaboran un sinnúmero de instrumentos musicales como guitarras, guitarrones, violín, mandolina, quijongo, maracas, entre otros.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de instrumentos musicales.png",
             "coordX": "51.707221350078",
             "coordY": "26.04453340005"
         },
         {
-            "nombre": "Elaboración de Jícaros, Iguillas",
+            "nombre": "Elaboración de Jícaros, Iguillas El Guineo",
             "categoria": "ElaboracióndeJícarosIguillas",
-            "descripcion": "El Guineo",
+            "descripcion": "Se conserva el saber ancestral en la producción y elaboración de jícaros, calabazos, cucharas, guacales, vasos, nambiras, iguilla, de las cuales se elaboran productos utilitarios muy utilizados en la cocina y cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de jicaros.png",
             "coordX": "39.756671899529",
             "coordY": "78.183637728296"
         },
         {
-            "nombre": "Elaboración de Jícaros, Iguillas",
+            "nombre": "Elaboración de Jícaros, Iguillas La Amistad",
             "categoria": "ElaboracióndeJícarosIguillas",
-            "descripcion": "La Amistad",
+            "descripcion": "Se conserva el saber ancestral en la producción y elaboración de jícaros, calabazos, cucharas, guacales, vasos, nambiras, iguilla, de las cuales se elaboran productos utilitarios muy utilizados en la cocina y cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de jicaros.png",
             "coordX": "37.892464678179",
             "coordY": "59.819864898674"
         },
         {
-            "nombre": "Elaboración de Jícaros, Iguillas",
+            "nombre": "Elaboración de Jícaros, Iguillas Ojo de Agua",
             "categoria": "ElaboracióndeJícarosIguillas",
-            "descripcion": "Ojo de Agua",
+            "descripcion": "Se conserva el saber ancestral en la producción y elaboración de jícaros, calabazos, cucharas, guacales, vasos, nambiras, iguilla, de las cuales se elaboran productos utilitarios muy utilizados en la cocina y cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de jicaros.png",
             "coordX": "36.872056514914",
             "coordY": "69.301976482362"
         },
         {
-            "nombre": "Elaboración de Jícaros, Iguillas",
+            "nombre": "Elaboración de Jícaros, Iguillas El Chilamate",
             "categoria": "ElaboracióndeJícarosIguillas",
-            "descripcion": "El Chilamate",
+            "descripcion": "Se conserva el saber ancestral en la producción y elaboración de jícaros, calabazos, cucharas, guacales, vasos, nambiras, iguilla, de las cuales se elaboran productos utilitarios muy utilizados en la cocina y cultura tradicional del municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion de jicaros.png",
             "coordX": "28.944270015699",
             "coordY": "68.22616962722"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador La Pita",
             "categoria": "Sobador",
-            "descripcion": "La Pita",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "20.090249166176",
             "coordY": "51.2"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador El Palacio",
             "categoria": "Sobador",
-            "descripcion": "El Palacio",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "21.365509123014",
             "coordY": "60.225"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador Jumaiquí Abajo",
             "categoria": "Sobador",
-            "descripcion": "Jumaiquí Abajo",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "36.727486756916",
             "coordY": "79.55"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador Las Mesas",
             "categoria": "Sobador",
-            "descripcion": "Las Mesas",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "29.998038061605",
             "coordY": "71.425"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador Limixto",
             "categoria": "Sobador",
-            "descripcion": "Limixto",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "31.744163233274",
             "coordY": "58.95"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador Santa Josefina",
             "categoria": "Sobador",
-            "descripcion": "Santa Josefina",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "48.577594663528",
             "coordY": "68.75"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador Siare SS",
             "categoria": "Sobador",
-            "descripcion": "Siare SS",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "52.305277614283",
             "coordY": "58.925"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador El Ocote",
             "categoria": "Sobador",
-            "descripcion": "El Ocote",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "38.767902687856",
             "coordY": "69.7"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador La Florida",
             "categoria": "Sobador",
-            "descripcion": "La Florida",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "43.456935452227",
             "coordY": "80.025"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador El Matasano",
             "categoria": "Sobador",
-            "descripcion": "El Matasano",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "46.890327643712",
             "coordY": "75.6"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador El Quebrachal",
             "categoria": "Sobador",
-            "descripcion": "El Quebrachal",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "46.497939964685",
             "coordY": "83.275"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador San Jeronimo",
             "categoria": "Sobador",
-            "descripcion": "San Jeronimo",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "82.695703354915",
             "coordY": "77.75"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador Cerro El padre",
             "categoria": "Sobador",
-            "descripcion": "Cerro El padre",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "84.226015303119",
             "coordY": "84.65"
         },
         {
-            "nombre": "Sobador",
+            "nombre": "Sobador Apatite",
             "categoria": "Sobador",
-            "descripcion": "Apatite",
+            "descripcion": "Existe un gran respeto por los abuelos y abuelas que practican el oficio ancestral de sobadores quienes realizan masajes orientados a corregir torceduras y esguinces, también alivian contracturas y dolores musculares.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/sobadores (2).png",
             "coordX": "80.164802825191",
             "coordY": "82.725"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Las Mesas",
             "categoria": "MusicoCompositor",
-            "descripcion": "Las Mesas",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "21.287031587208",
             "coordY": "45.000000000001"
@@ -2441,561 +2441,545 @@
             "coordY": "53.525"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor El Palacio",
             "categoria": "MusicoCompositor",
-            "descripcion": "El Palacio",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "20.168726701982",
             "coordY": "60.15"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Las Mesas",
             "categoria": "MusicoCompositor",
-            "descripcion": "Las Mesas",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "29.409456543065",
             "coordY": "72.825"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Jumaiquí",
             "categoria": "MusicoCompositor",
-            "descripcion": "Jumaiquí",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "34.667451442025",
             "coordY": "78.075"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor El Balsamo",
             "categoria": "MusicoCompositor",
-            "descripcion": "El Balsamo",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "35.805375711203",
             "coordY": "76.35"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor El Castillo",
             "categoria": "MusicoCompositor",
-            "descripcion": "El Castillo",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "37.041396900137",
             "coordY": "83.025"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Jucuapa Oriental",
             "categoria": "MusicoCompositor",
-            "descripcion": "Jucuapa Oriental",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "33.823817932117",
             "coordY": "65.575"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Limixto",
             "categoria": "MusicoCompositor",
-            "descripcion": "Limixto",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "32.273886599961",
             "coordY": "61.325"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Yaule Abajo",
             "categoria": "MusicoCompositor",
-            "descripcion": "Yaule Abajo",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "26.780459093584",
             "coordY": "54.70"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Waswalí Arriba",
             "categoria": "MusicoCompositor",
-            "descripcion": "Waswalí Arriba",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "32.528938591328",
             "coordY": "43.525"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Yaule Arriba",
             "categoria": "MusicoCompositor",
-            "descripcion": "Yaule Arriba",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "25.132430841672",
             "coordY": "44.55"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor San José de Umure",
             "categoria": "MusicoCompositor",
-            "descripcion": "San José de Umure",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "25.171669609574",
             "coordY": "32.25"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Las Lajas",
             "categoria": "MusicoCompositor",
-            "descripcion": "Las Lajas",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "33.627624092603",
             "coordY": "27.325"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Las Trancas",
             "categoria": "MusicoCompositor",
-            "descripcion": "Las Trancas",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "30.311948204826",
             "coordY": "33.15"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Rincón Largo",
             "categoria": "MusicoCompositor",
-            "descripcion": "Rincón Largo",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "32.332744751815",
             "coordY": "24.325"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Sitio Viejo",
             "categoria": "MusicoCompositor",
-            "descripcion": "Sitio Viejo",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "37.198351971748",
             "coordY": "23.925"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Palestina",
             "categoria": "MusicoCompositor",
-            "descripcion": "Palestina",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "46.831469491858",
             "coordY": "9.525"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Palcila",
             "categoria": "MusicoCompositor",
-            "descripcion": "Palcila",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "41.16146752992",
             "coordY": "30.075"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Empalme la Banquita",
             "categoria": "MusicoCompositor",
-            "descripcion": "Empalme la Banquita",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "48.636452815382",
             "coordY": "20.825"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Piedra de Agua",
             "categoria": "MusicoCompositor",
-            "descripcion": "Piedra de Agua",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "38.081224249559",
             "coordY": "40.625"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Apante Grande",
             "categoria": "MusicoCompositor",
-            "descripcion": "Apante Grande",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "46.752991956053",
             "coordY": "63.1"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Apante Grande",
             "categoria": "MusicoCompositor",
-            "descripcion": "Apante Grande",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "45.615067686875",
             "coordY": "64.75"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Las Mercedes",
             "categoria": "MusicoCompositor",
-            "descripcion": "Las Mercedes",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "45.615067686875",
             "coordY": "64.75"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Santa Josefina",
             "categoria": "MusicoCompositor",
-            "descripcion": "Santa Josefina",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "45.026486168334",
             "coordY": "68.025"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor El Matasano",
             "categoria": "MusicoCompositor",
-            "descripcion": "El Matasano",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "45.026486168334",
             "coordY": "75.6"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor La Florida",
             "categoria": "MusicoCompositor",
-            "descripcion": "La Florida",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "41.828526584265",
             "coordY": "80.75"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Piedra Colorada",
             "categoria": "MusicoCompositor",
-            "descripcion": "Piedra Colorada",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "51.226211496959",
             "coordY": "75.175"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Samulalí",
             "categoria": "MusicoCompositor",
-            "descripcion": "Samulalí",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "52.40337453404",
             "coordY": "65.525"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor La Granja",
             "categoria": "MusicoCompositor",
-            "descripcion": "La Granja",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "53.070433588385",
             "coordY": "52.375"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Santa Emilia",
             "categoria": "MusicoCompositor",
-            "descripcion": "Santa Emilia",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "58.406906023151",
             "coordY": "36.000000000001"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Santa Emilia",
             "categoria": "MusicoCompositor",
-            "descripcion": "Santa Emilia",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "58.818913086129",
             "coordY": "32.825"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Santa Emilia",
             "categoria": "MusicoCompositor",
-            "descripcion": "Santa Emilia",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "61.075142240534",
             "coordY": "30.675"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Las Escaleras 1",
             "categoria": "MusicoCompositor",
-            "descripcion": "Las Escaleras 1",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "54.01216401805",
             "coordY": "28.45"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Las Escaleras 2",
             "categoria": "MusicoCompositor",
-            "descripcion": "Las Escaleras 2",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "51.108495193251",
             "coordY": "24.65"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Cerro El Padre",
             "categoria": "MusicoCompositor",
-            "descripcion": "Cerro El Padre",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "78.516774573278",
             "coordY": "85.125"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor La Ceiba",
             "categoria": "MusicoCompositor",
-            "descripcion": "La Ceiba",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "70.767117912498",
             "coordY": "82.825"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor Apatite",
             "categoria": "MusicoCompositor",
-            "descripcion": "Apatite",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "80.674906807926",
             "coordY": "81.000000000001"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor San Marcos de Apatite",
             "categoria": "MusicoCompositor",
-            "descripcion": "San Marcos de Apatite",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "82.087502452423",
             "coordY": "75.25"
         },
         {
-            "nombre": "Músico y/o Compositor",
+            "nombre": "Músico y/o Compositor El Chile",
             "categoria": "MusicoCompositor",
-            "descripcion": "El Chile",
+            "descripcion": "La música forma parte importante en la dinámica cultural de los pobladores, en las comunidades existen músicos reconocidos que amenizan fiestas y celebraciones populares, a nivel urbano igualmente existen grupos musicales tradicionales y modernos que proyectan el arte musical en el municipio.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/musicos.png",
             "coordX": "63.21365509123",
             "coordY": "74.075"
         },
         {
-            "nombre": "Tejas y Ladrillos",
+            "nombre": "Tejas y Ladrillos El Guayacán",
             "categoria": "TejasLadrillos",
-            "descripcion": "El Guayacán",
+            "descripcion": "Talento humano que elabora tejas y ladrillos artesanales de barro utilizados para la construcción de viviendas. En algunas comunidades las familias elaboran bloques de tierra y adobe para el autoconstrucción de viviendas.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion ladrillos.png",
             "coordX": "26.368452030606",
             "coordY": "48.05"
         },
         {
-            "nombre": "Tejas y Ladrillos",
+            "nombre": "Tejas y Ladrillos Las Mesas",
             "categoria": "TejasLadrillos",
-            "descripcion": "Las Mesas",
+            "descripcion": "Talento humano que elabora tejas y ladrillos artesanales de barro utilizados para la construcción de viviendas. En algunas comunidades las familias elaboran bloques de tierra y adobe para el autoconstrucción de viviendas.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion ladrillos.png",
             "coordX": "28.03609966647",
             "coordY": "74.05"
         },
         {
-            "nombre": "Tejas y Ladrillos",
+            "nombre": "Tejas y Ladrillos Cerro El Padre",
             "categoria": "TejasLadrillos",
-            "descripcion": "Cerro El Padre",
+            "descripcion": "Talento humano que elabora tejas y ladrillos artesanales de barro utilizados para la construcción de viviendas. En algunas comunidades las familias elaboran bloques de tierra y adobe para el autoconstrucción de viviendas.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion ladrillos.png",
             "coordX": "81.16539140671",
             "coordY": "87.05"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería La Esmeralda",
             "categoria": "Carpintería",
-            "descripcion": "La Esmeralda",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "59.811616954474",
             "coordY": "1.9764823617713"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Las Escaleras 2",
             "categoria": "Carpintería",
-            "descripcion": "Las Escaleras 2",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "50.74568288854",
             "coordY": "23.542656992745"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería El Diamante",
             "categoria": "Carpintería",
-            "descripcion": "El Diamante",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "53.002354788069",
             "coordY": "28.071053289967"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería El Paraíso",
             "categoria": "Carpintería",
-            "descripcion": "El Paraíso",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "57.28021978022",
             "coordY": "35.776832624468"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería La Granja",
             "categoria": "Carpintería",
-            "descripcion": "La Granja",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "49.450549450549",
             "coordY": "49.862396797598"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Siarre SS",
             "categoria": "Carpintería",
-            "descripcion": "Siarre SS",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "54.886185243328",
             "coordY": "60.19514635977"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Las Mercedes",
             "categoria": "Carpintería",
-            "descripcion": "Las Mercedes",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "47.488226059655",
             "coordY": "66.199649737303"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Santa Josefina",
             "categoria": "Carpintería",
-            "descripcion": "Santa Josefina",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "46.094976452119",
             "coordY": "68.926695021266"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Pierda Colorada",
             "categoria": "Carpintería",
-            "descripcion": "Pierda Colorada",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "50.961538461538",
             "coordY": "71.328496372279"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Apatite",
             "categoria": "Carpintería",
-            "descripcion": "Apatite",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "81.946624803768",
             "coordY": "78.633975481611"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Cerro El Padre",
             "categoria": "Carpintería",
-            "descripcion": "Cerro El Padre",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "80.239403453689",
             "coordY": "85.939454590943"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería El Matasano",
             "categoria": "Carpintería",
-            "descripcion": "El Matasano",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "46.507064364207",
             "coordY": "77.833375031273"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Managuita",
             "categoria": "Carpintería",
-            "descripcion": "Managuita",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "47.291993720565",
             "coordY": "81.260945709282"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Quebrachal",
             "categoria": "Carpintería",
-            "descripcion": "Quebrachal",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "44.701726844584",
             "coordY": "82.561921441081"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería La Florida",
             "categoria": "Carpintería",
-            "descripcion": "La Florida",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "41.660125588697",
             "coordY": "78.809106830123"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Jumaiquí Abajo",
             "categoria": "Carpintería",
-            "descripcion": "Jumaiquí Abajo",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "37.087912087912",
             "coordY": "77.182887165374"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería El Ocotal",
             "categoria": "Carpintería",
-            "descripcion": "El Ocotal",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "40.227629513344",
             "coordY": "65.449086815111"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Jucuapa Arriba",
             "categoria": "Carpintería",
-            "descripcion": "El Ocotal",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
-            "coordX": "40.227629513344",
-            "coordY": "65.449086815111"
-        },
-        {
-            "nombre": "Carpintería",
-            "categoria": "Carpintería",
-            "descripcion": "Jucuapa Arriba",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "36.636577708006",
             "coordY": "64.523392544408"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Las Mesas",
             "categoria": "Carpintería",
-            "descripcion": "Las Mesas",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "31.357927786499",
             "coordY": "73.079809857393"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Quebrada Honda",
             "categoria": "Carpintería",
-            "descripcion": "Quebrada Honda",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "18.759811616954",
             "coordY": "51.263447585689"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Yaule Arriba",
             "categoria": "Carpintería",
-            "descripcion": "Yaule Arriba",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "24.077708006279",
             "coordY": "44.758568926695"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería El Carrizo",
             "categoria": "Carpintería",
-            "descripcion": "El Carrizo",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "38.657770800628",
             "coordY": "35.351513635226"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería San Simon de Palcila",
             "categoria": "Carpintería",
-            "descripcion": "San Simon de Palcila",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "38.932496075353",
             "coordY": "30.647985989492"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Las Lajas",
             "categoria": "Carpintería",
-            "descripcion": "San Simon de Palcila",
-            "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
-            "coordX": "38.932496075353",
-            "coordY": "30.647985989492"
-        },
-        {
-            "nombre": "Carpintería",
-            "categoria": "Carpintería",
-            "descripcion": "Las Lajas",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "36.675824175824",
             "coordY": "29.522141606205"
         },
         {
-            "nombre": "Carpintería",
+            "nombre": "Carpintería Sitio Viejo",
             "categoria": "Carpintería",
-            "descripcion": "Sitio Viejo",
+            "descripcion": "La carpintería y ebanistería son oficios tradicionales, que se dedican al trabajo de la madera y construcción de muebles, así como para transformar esta materia prima en hermosos objetos utilitarios y decorativos.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/carpintero.png",
             "coordX": "36.75431711146",
             "coordY": "22.316737553165"
         },
         {
-            "nombre": "PetroGrabados",
+            "nombre": "PetroGrabados Casco Urbano",
             "categoria": "PetroGrabados",
-            "descripcion": "Afueras casco Urbano Matagalpa",
+            "descripcion": "Piedras o afloramientos basálticos con grabados en su superficie, los grabados pueden representar motivos antropomorfos (humanos) o zoomorfos (animales).",
             "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
             "coordX": "41.985481655876",
             "coordY": "50.4"
         },
         {
-            "nombre": "PetroGrabados",
+            "nombre": "PetroGrabados Piedra Cortada",
             "categoria": "PetroGrabados",
-            "descripcion": "Piedra Cortada",
+            "descripcion": "Piedras o afloramientos basálticos con grabados en su superficie, los grabados pueden representar motivos antropomorfos (humanos) o zoomorfos (animales).",
             "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
             "coordX": "50.618010594467",
             "coordY": "73.85"
@@ -3009,89 +2993,89 @@
             "coordY": "32.25"
         },
         {
-            "nombre": "Material en Superficie",
+            "nombre": "Material en Superficie Sitio Finca El Orégano",
             "categoria": "MaterialSuperficie",
-            "descripcion": "Sitio Finca el Orégano",
+            "descripcion": "Sitios con presencia de evidencias arqueológicas: material cerámico en, material lítico, fragmentos de mano de moler, en basalto, jaspe, obsidiana y sílex, entre otros.",
             "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
             "coordX": "26.898175397293",
             "coordY": "36.5"
         },
         {
-            "nombre": "Material en Superficie",
+            "nombre": "Material en Superficie Sitio Viejo",
             "categoria": "MaterialSuperficie",
-            "descripcion": "Sitio Viejo",
+            "descripcion": "Sitios con presencia de evidencias arqueológicas: material cerámico en, material lítico, fragmentos de mano de moler, en basalto, jaspe, obsidiana y sílex, entre otros.",
             "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
             "coordX": "39.160290366882",
             "coordY": "25.35"
         },
         {
-            "nombre": "Material en Superficie",
+            "nombre": "Material en Superficie El Descanso",
             "categoria": "MaterialSuperficie",
-            "descripcion": "El Descanso",
+            "descripcion": "Sitios con presencia de evidencias arqueológicas: material cerámico en, material lítico, fragmentos de mano de moler, en basalto, jaspe, obsidiana y sílex, entre otros.",
             "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
             "coordX": "44.948008632529",
             "coordY": "18.8"
         },
         {
-            "nombre": "Material en Superficie",
+            "nombre": "Material en Superficie Aranjuez",
             "categoria": "MaterialSuperficie",
-            "descripcion": "Aranjuez",
+            "descripcion": "Sitios con presencia de evidencias arqueológicas: material cerámico en, material lítico, fragmentos de mano de moler, en basalto, jaspe, obsidiana y sílex, entre otros.",
             "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
             "coordX": "48.008632528939",
             "coordY": "20.25"
         },
         {
-            "nombre": "Material en Superficie",
+            "nombre": "Material en Superficie Loma La Gracia",
             "categoria": "MaterialSuperficie",
-            "descripcion": "Loma La Gracia",
+            "descripcion": "Sitios con presencia de evidencias arqueológicas: material cerámico en, material lítico, fragmentos de mano de moler, en basalto, jaspe, obsidiana y sílex, entre otros.",
             "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
             "coordX": "46.321365509123",
             "coordY": "13.35"
         },
         {
-            "nombre": "Montículos",
+            "nombre": "Montículos Fuente Pura",
             "categoria": "Monticulos",
-            "descripcion": "Fuente Pura",
+            "descripcion": "Sistemas constructivos de rocas con sedimento, elaborados por nuestros ancestros, utilizados con distintos fines y en distintas formas: funerarios, militares, religiosos, vigilancia, señalización.",
             "icono": "img/iconografias/Sitios Arqueologicos/monticulos.png",
             "coordX": "42.574063174416",
             "coordY": "26.7"
         },
         {
-            "nombre": "Montículos",
+            "nombre": "Montículos Solingalpa",
             "categoria": "Monticulos",
-            "descripcion": "Solingalpa",
+            "descripcion": "Sistemas constructivos de rocas con sedimento, elaborados por nuestros ancestros, utilizados con distintos fines y en distintas formas: funerarios, militares, religiosos, vigilancia, señalización.",
             "icono": "img/iconografias/Sitios Arqueologicos/monticulos.png",
             "coordX": "38.336276240926",
             "coordY": "57.775"
         },
         {
-            "nombre": "Montículos",
+            "nombre": "Montículos Sitio Hacienda La China, Alemania",
             "categoria": "Monticulos",
-            "descripcion": "Sitio Hacienda La China, Alemania",
+            "descripcion": "Sistemas constructivos de rocas con sedimento, elaborados por nuestros ancestros, utilizados con distintos fines y en distintas formas: funerarios, militares, religiosos, vigilancia, señalización.",
             "icono": "img/iconografias/Sitios Arqueologicos/monticulos.png",
             "coordX": "54.679223072396",
             "coordY": "57.425"
         },
         {
-            "nombre": "Montículos",
+            "nombre": "Montículos Sitio La Sombra, Pueblo Viejo",
             "categoria": "Monticulos",
-            "descripcion": "Sitio La Sombra, Pueblo Viejo",
+            "descripcion": "Sistemas constructivos de rocas con sedimento, elaborados por nuestros ancestros, utilizados con distintos fines y en distintas formas: funerarios, militares, religiosos, vigilancia, señalización.",
             "icono": "img/iconografias/Sitios Arqueologicos/monticulos.png",
             "coordX": "74.74985285462",
             "coordY": "81.2"
         },
         {
-            "nombre": "Vetas de Obsidiana",
+            "nombre": "Vetas de Obsidiana El Chagüite",
             "categoria": "VetasObsidiana",
-            "descripcion": "El Chagüite",
+            "descripcion": "Afloramientos basálticos donde se localiza una gran cantidad de nódulos de obsidiana con medidas la superficie de estos bastante lisa y en su mayoría presentan formas redondeadas.",
             "icono": "img/iconografias/Sitios Arqueologicos/veta.svg",
             "coordX": "26.584265254071",
             "coordY": "36.825"
         },
         {
-            "nombre": "Material Cerámico",
+            "nombre": "Material Cerámico Sitio San José, Molino Norte",
             "categoria": "MaterialCeramico",
-            "descripcion": "Sitio San José, Molino Norte",
+            "descripcion": "Sitios donde se han evidenciado vestigios arqueológicos enterrados, descubiertos por la realización de excavaciones para construcciones, las evidencias corresponden a piezas cerámicas.",
             "icono": "img/iconografias/Sitios Arqueologicos/material ceramico.svg",
             "coordX": "44.222091426329",
             "coordY": "41.575"
@@ -3099,7 +3083,7 @@
         {
             "nombre": "Laguna Selva Negra",
             "categoria": "Laguna",
-            "descripcion": "Selva Negra",
+            "descripcion": "Depósito natural de agua generalmente dulce de menores dimensiones; sobre todo en profundidad que un lago.",
             "icono": "img/iconografias/Sitios Naturales/lagunas.png",
             "coordX": "45.948597214047",
             "coordY": "28.075"
@@ -3107,7 +3091,7 @@
         {
             "nombre": "Laguna La Providencia",
             "categoria": "Laguna",
-            "descripcion": "La Providencia",
+            "descripcion": "Depósito natural de agua generalmente dulce de menores dimensiones; sobre todo en profundidad que un lago.",
             "icono": "img/iconografias/Sitios Naturales/lagunas.png",
             "coordX": "47.361192858544",
             "coordY": "56.9"
@@ -3115,7 +3099,7 @@
         {
             "nombre": "Poza El Salto",
             "categoria": "PozasOjos",
-            "descripcion": "Jucuapa Oriental",
+            "descripcion": "Zona bastante profunda de un río donde el agua se remansa. Ojo de Agua: Se origina en la filtración de agua de lluvia que penetra en un área y emerge en otra de menor altitud. Generalmente ligados a la presencia de niveles impermeables en el subsuelo, que impiden que el agua se siga infiltrando y la obligan a salir a la superficie.",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.png",
             "coordX": "33.176378261723",
             "coordY": "66.5"
@@ -3123,7 +3107,7 @@
         {
             "nombre": "Poza El Guacal",
             "categoria": "PozasOjos",
-            "descripcion": "Siarre SS",
+            "descripcion": "Zona bastante profunda de un río donde el agua se remansa. Ojo de Agua: Se origina en la filtración de agua de lluvia que penetra en un área y emerge en otra de menor altitud. Generalmente ligados a la presencia de niveles impermeables en el subsuelo, que impiden que el agua se siga infiltrando y la obligan a salir a la superficie.",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.png",
             "coordX": "55.777908573671",
             "coordY": "60.625"
@@ -3131,7 +3115,7 @@
         {
             "nombre": "Poza Azul",
             "categoria": "PozasOjos",
-            "descripcion": "San José",
+            "descripcion": "Zona bastante profunda de un río donde el agua se remansa. Ojo de Agua: Se origina en la filtración de agua de lluvia que penetra en un área y emerge en otra de menor altitud. Generalmente ligados a la presencia de niveles impermeables en el subsuelo, que impiden que el agua se siga infiltrando y la obligan a salir a la superficie.",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.png",
             "coordX": "53.560918187169",
             "coordY": "75.75"
@@ -3155,7 +3139,7 @@
         {
             "nombre": "Pozas El Encanto",
             "categoria": "PozasOjos",
-            "descripcion": "La Cumplida",
+            "descripcion": "Zona bastante profunda de un río donde el agua se remansa. Ojo de Agua: Se origina en la filtración de agua de lluvia que penetra en un área y emerge en otra de menor altitud. Generalmente ligados a la presencia de niveles impermeables en el subsuelo, que impiden que el agua se siga infiltrando y la obligan a salir a la superficie.",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.png",
             "coordX": "54.30645477732",
             "coordY": "25.725"
@@ -3163,7 +3147,7 @@
         {
             "nombre": "Poza Santa Emilia",
             "categoria": "PozasOjos",
-            "descripcion": "Santa Emilia",
+            "descripcion": "Zona bastante profunda de un río donde el agua se remansa. Ojo de Agua: Se origina en la filtración de agua de lluvia que penetra en un área y emerge en otra de menor altitud. Generalmente ligados a la presencia de niveles impermeables en el subsuelo, que impiden que el agua se siga infiltrando y la obligan a salir a la superficie.",
             "icono": "img/iconografias/Sitios Naturales/rios y quebradas.png",
             "coordX": "60.015695507161",
             "coordY": "32.75"
