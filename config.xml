@@ -20,7 +20,8 @@
         <preference name="android-minSdkVersion" value="22" />
         <preference name="android-targetSdkVersion" value="28" /> 
         <allow-intent href="market:*" />
-        <preference name="SplashScreenDelay" value="5000" />
+        <preference name="orientation" value="portrait" />
+        <preference name="SplashScreenDelay" value="3000" />
         <preference name="ShowSplashScreenSpinner" value="false"/>
         <splash src="www/img/splashscreen.png" density="hdpi"/>
         <splash src="www/img/splashscreen.png" density="ldpi"/>
