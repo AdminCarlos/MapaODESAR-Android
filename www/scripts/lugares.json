@@ -2972,7 +2972,7 @@
             "nombre": "PetroGrabados Casco Urbano",
             "categoria": "PetroGrabados",
             "descripcion": "Piedras o afloramientos basálticos con grabados en su superficie, los grabados pueden representar motivos antropomorfos (humanos) o zoomorfos (animales).",
-            "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
+            "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.png",
             "coordX": "41.985481655876",
             "coordY": "50.4"
         },
@@ -2980,7 +2980,7 @@
             "nombre": "PetroGrabados Piedra Cortada",
             "categoria": "PetroGrabados",
             "descripcion": "Piedras o afloramientos basálticos con grabados en su superficie, los grabados pueden representar motivos antropomorfos (humanos) o zoomorfos (animales).",
-            "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
+            "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.png",
             "coordX": "50.618010594467",
             "coordY": "73.85"
         },
@@ -2988,7 +2988,7 @@
             "nombre": "PetroGrabados La Bruja",
             "categoria": "PetroGrabados",
             "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Petrograbados Poza La Bruja/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Petrograbados Poza La Bruja/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Petrograbados Poza La Bruja/3.jpg'>",
-            "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.svg",
+            "icono": "img/iconografias/Sitios Arqueologicos/petrograbados.png",
             "coordX": "30.861290955464",
             "coordY": "32.25"
         },
@@ -2996,7 +2996,7 @@
             "nombre": "Material en Superficie Sitio Finca El Orégano",
             "categoria": "MaterialSuperficie",
             "descripcion": "Sitios con presencia de evidencias arqueológicas: material cerámico en, material lítico, fragmentos de mano de moler, en basalto, jaspe, obsidiana y sílex, entre otros.",
-            "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
+            "icono": "img/iconografias/Sitios Arqueologicos/MS.png",
             "coordX": "26.898175397293",
             "coordY": "36.5"
         },
@@ -3004,7 +3004,7 @@
             "nombre": "Material en Superficie Sitio Viejo",
             "categoria": "MaterialSuperficie",
             "descripcion": "Sitios con presencia de evidencias arqueológicas: material cerámico en, material lítico, fragmentos de mano de moler, en basalto, jaspe, obsidiana y sílex, entre otros.",
-            "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
+            "icono": "img/iconografias/Sitios Arqueologicos/MS.png",
             "coordX": "39.160290366882",
             "coordY": "25.35"
         },
@@ -3012,7 +3012,7 @@
             "nombre": "Material en Superficie El Descanso",
             "categoria": "MaterialSuperficie",
             "descripcion": "Sitios con presencia de evidencias arqueológicas: material cerámico en, material lítico, fragmentos de mano de moler, en basalto, jaspe, obsidiana y sílex, entre otros.",
-            "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
+            "icono": "img/iconografias/Sitios Arqueologicos/MS.png",
             "coordX": "44.948008632529",
             "coordY": "18.8"
         },
@@ -3020,7 +3020,7 @@
             "nombre": "Material en Superficie Aranjuez",
             "categoria": "MaterialSuperficie",
             "descripcion": "Sitios con presencia de evidencias arqueológicas: material cerámico en, material lítico, fragmentos de mano de moler, en basalto, jaspe, obsidiana y sílex, entre otros.",
-            "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
+            "icono": "img/iconografias/Sitios Arqueologicos/MS.png",
             "coordX": "48.008632528939",
             "coordY": "20.25"
         },
@@ -3028,7 +3028,7 @@
             "nombre": "Material en Superficie Loma La Gracia",
             "categoria": "MaterialSuperficie",
             "descripcion": "Sitios con presencia de evidencias arqueológicas: material cerámico en, material lítico, fragmentos de mano de moler, en basalto, jaspe, obsidiana y sílex, entre otros.",
-            "icono": "img/iconografias/Sitios Arqueologicos/MS.svg",
+            "icono": "img/iconografias/Sitios Arqueologicos/MS.png",
             "coordX": "46.321365509123",
             "coordY": "13.35"
         },
@@ -3068,7 +3068,7 @@
             "nombre": "Vetas de Obsidiana El Chagüite",
             "categoria": "VetasObsidiana",
             "descripcion": "Afloramientos basálticos donde se localiza una gran cantidad de nódulos de obsidiana con medidas la superficie de estos bastante lisa y en su mayoría presentan formas redondeadas.",
-            "icono": "img/iconografias/Sitios Arqueologicos/veta.svg",
+            "icono": "img/iconografias/Sitios Arqueologicos/veta.png",
             "coordX": "26.584265254071",
             "coordY": "36.825"
         },
@@ -3076,7 +3076,7 @@
             "nombre": "Material Cerámico Sitio San José, Molino Norte",
             "categoria": "MaterialCeramico",
             "descripcion": "Sitios donde se han evidenciado vestigios arqueológicos enterrados, descubiertos por la realización de excavaciones para construcciones, las evidencias corresponden a piezas cerámicas.",
-            "icono": "img/iconografias/Sitios Arqueologicos/material ceramico.svg",
+            "icono": "img/iconografias/Sitios Arqueologicos/material ceramico.png",
             "coordX": "44.222091426329",
             "coordY": "41.575"
         },
