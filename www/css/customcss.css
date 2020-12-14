@@ -251,10 +251,10 @@
 .mapIcon {
 
     min-width: 2px;
-    animation-name: iconBounce;
+    /* animation-name: iconBounce;
     animation-timing-function: ease;
     animation-duration: 2s;
-    animation-iteration-count: infinite;
+    animation-iteration-count: infinite; */
     padding: 0 0 0 0;
     margin: 0 0 0 0;
     transition: width 0.5s, opacity 1s, visibility 1s;
