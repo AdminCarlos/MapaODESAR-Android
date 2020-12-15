@@ -365,7 +365,23 @@
     margin-bottom: 10%;
 
 }
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
 
+.box {
+  background: #fff;
+  background: rgba(255,255,255,0.9);
+  margin-bottom: 20px;
+  padding: 30px 15px;
+}
 /* peticiones de anchura de viewport */
 
 /*pantallas muy pequeñas(xs)*/
