@@ -283,6 +283,7 @@
     border-width: 0.5px;
     font-family: fontConfortaa;
     font-weight: bold;
+    transition: width 0.5s, opacity 1s, visibility 1s;
 
 }
 

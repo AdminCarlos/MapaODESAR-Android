@@ -543,7 +543,7 @@ var zoomLevel = 0.2;
 
     function buscar(stringToSearch) {
 
-        $(".mapIcon").each(function () {
+        $(".divMapIcon").each(function () {
 
             if ($(this).attr("id").toLowerCase().includes(stringToSearch.toLowerCase())) {
 
@@ -561,7 +561,7 @@ var zoomLevel = 0.2;
 
         });
 
-        $(".spanIcon").each(function () {
+        /* $(".spanIcon").each(function () {
 
             if ($(this).attr("id").toLowerCase().includes(stringToSearch.toLowerCase())) {
 
@@ -577,7 +577,7 @@ var zoomLevel = 0.2;
 
             }
 
-        });
+        }); */
 
     }
 
