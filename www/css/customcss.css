@@ -270,7 +270,7 @@
     border-bottom-right-radius: 5px;
     color: white;
     box-sizing: border-box;
-    transition: width 0.5s, opacity 1s, visibility 1s;
+    transition: opacity 1s, visibility 1s;
     font-size: 0.001px !important;
     text-shadow: none;
     text-decoration: none;
@@ -283,7 +283,7 @@
     border-width: 0.5px;
     font-family: fontConfortaa;
     font-weight: bold;
-    transition: width 0.5s, opacity 1s, visibility 1s;
+    transition: opacity 1s, visibility 1s;
 
 }
 

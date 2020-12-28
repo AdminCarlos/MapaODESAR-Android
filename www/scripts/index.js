@@ -113,6 +113,7 @@ var zoomLevel = 0.2;
 
             if (instance.getTransform().scale === 0.2) {
 
+                console.log("Primera condicion");
                 $(".divMapIcon").css("width", "2%");
                 $(".divMapIcon").css("height", "4%");
                 $(".spanIcon").hide();
@@ -120,6 +121,8 @@ var zoomLevel = 0.2;
 
             else if (instance.getTransform().scale > 0.2 && instance.getTransform().scale <= 0.4) {
 
+                console.log("Segunda condicion");
+                $("#imgMapa").attr("src", "img/mapamdpi.png");
                 $(".divMapIcon").css("width", "1.8%");
                 $(".divMapIcon").css("height", "3.6%");
                 $(".spanIcon").hide();
@@ -128,6 +131,8 @@ var zoomLevel = 0.2;
 
             else if (instance.getTransform().scale > 0.4 && instance.getTransform().scale <= 0.6) {
 
+                console.log("Tercera condicion");
+                $("#imgMapa").attr("src", "img/mapahdpi.png");
                 $(".divMapIcon").css("width", "1.62%");
                 $(".divMapIcon").css("height", "3.24%");
                 $(".spanIcon").hide();
@@ -136,6 +141,7 @@ var zoomLevel = 0.2;
 
             else if (instance.getTransform().scale > 0.6 && instance.getTransform().scale <= 0.8) {
 
+                console.log("Cuarta condicion");
                 $(".divMapIcon").css("width", "1.458%");
                 $(".divMapIcon").css("height", "2.916%");
                 $(".spanIcon").hide();
@@ -144,46 +150,52 @@ var zoomLevel = 0.2;
 
             else if (instance.getTransform().scale > 0.8 && instance.getTransform().scale <= 1) {
 
+                console.log("Quinta condicion");
                 $(".divMapIcon").css("width", "1.3122%");
                 $(".divMapIcon").css("height", "2.6244%");
-                $(".spanIcon").hide();
+                $(".spanIcon").show();
 
             }
 
             else if (instance.getTransform().scale > 1 && instance.getTransform().scale <= 1.2) {
 
+                console.log("Sexta condicion");
                 $(".divMapIcon").css("width", "1.18098%");
                 $(".divMapIcon").css("height", "2.36196%");
-                $(".spanIcon").hide();
+                $(".spanIcon").show();
 
             }
 
             else if (instance.getTransform().scale > 1.2 && instance.getTransform().scale <= 1.4) {
 
+                console.log("Septima condicion");
                 $(".divMapIcon").css("width", "1.062882%");
                 $(".divMapIcon").css("height", "2.125764%");
-                $(".spanIcon").hide();
+                $(".spanIcon").show();
 
             }
 
             else if (instance.getTransform().scale > 1.4 && instance.getTransform().scale <= 1.6) {
 
+                console.log("Octava condicion");
                 $(".divMapIcon").css("width", "0.9565938%");
                 $(".divMapIcon").css("height", "1.9131876%");
-                $(".spanIcon").hide();
+                $(".spanIcon").show();
 
             }
 
             else if (instance.getTransform().scale > 1.6 && instance.getTransform().scale <= 1.8) {
 
+                console.log("Novena condicion");
                 $(".divMapIcon").css("width", "0.86093442%");
                 $(".divMapIcon").css("height", "1.72186884%");
-                $(".spanIcon").hide();
+                $(".spanIcon").show();
 
             }
 
             else if (instance.getTransform().scale > 1.8 && instance.getTransform().scale <= 4) {
 
+                console.log("Decima condicion");
                 $(".divMapIcon").css("width", "0.774840978%");
                 $(".divMapIcon").css("height", "1.549681956%");
                 $(".spanIcon").show();
