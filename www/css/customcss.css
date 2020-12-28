@@ -1,5 +1,3 @@
-@import url("../fonts/Comfortaa-Bold.ttf");
-
 @font-face {
 
     font-family: fontConfortaa;
@@ -39,6 +37,7 @@
     background-image: url("../img/background.png");
     background-size: auto 130%;
     background-position: 100% 100%;
+    overflow: hidden;
 
 }
 
@@ -154,14 +153,19 @@
 
 #imgMapa {
 
-    width: 100vw;
+    width: 5096px;
+    height: 3997px;
+    /* border-style: solid;
+    border-color: red; */
 
 }
 
 #divContainerMapa {
 
-    width: 100vw;
-    font-family: fontConfortaa;
+    width: 5096px;
+    height: 3997px;
+    /* border-style: solid;
+    border-color: green; */
 
 }
 
@@ -175,12 +179,6 @@
     padding-right: 4% !important;
     padding-left: 4% !important;
     padding-top: 6% !important;
-
-}
-
-#divContainerMapa {
-
-    font-size: 1px;
 
 }
 
@@ -264,11 +262,28 @@
 
 .spanIcon {
 
-    /* border-style: solid;
+    border-style: solid;
     border-color: rgba(0, 0, 0, 1);
-    border-width: 0.5px; */
+    border-width: 0.5px;
+    background-color: rgba(51, 17, 0, 0.7);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
     box-sizing: border-box;
     transition: width 0.5s, opacity 1s, visibility 1s;
+    font-size: 0.001px !important;
+    text-shadow: none;
+    text-decoration: none;
+}
+
+.divMapIcon {
+
+    /* border-style: solid;
+    border-color: blue; */
+    border-width: 0.5px;
+    font-family: fontConfortaa;
+    font-weight: bold;
+
 }
 
 @keyframes bounce-3 {

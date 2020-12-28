@@ -1,15 +1,26 @@
 ﻿var elem = document.getElementById('divContainerMapa');
 
-var panzoom = Panzoom(elem, {
+/* var panzoom = Panzoom(elem, {
     maxScale: 15,
-    minScale: 3,
-    step: 0.4,
-    startScale: 3,
-    startX: 31.300050099690754,
-    startY: 45.95204671223958
+    minScale: 1,
+    step: 1,
+    startScale: 1
+}); */
+
+var instance = panzoom(elem, {onTouch: function(e) {
+    // `e` - is current touch event.
+ 
+    return false; // tells the library to not preventDefault.
+  },
+  smoothScroll: true,
+  maxZoom: 4,
+  minZoom: 0.2,
+  initialX: -210.09,
+  initialY: 9.40,
+  initialZoom: 0.2
 });
 
-var oldScale = panzoom.getScale();
+var zoomLevel = 0.2;
 
 (function () {
     "use strict";
@@ -74,112 +85,122 @@ var oldScale = panzoom.getScale();
             }
         }
 
-        elem.addEventListener('panzoomzoom', (event) => {
+        instance.on("pan", function(e) {
 
-            /* $(".mapIcon").css("width", ((0.3 / 100) * ($("#divContainerMapa").width() / panzoom.getScale())) + "%");
+            console.log(instance.getTransform());
+            console.log($(".divMapIcon").width());
+            console.log($(".divMapIcon").height());
 
-            if (panzoom.getScale() < 4 && panzoom.getScale() >= 3) {
+        });
 
-                $(".mapIcon").css("width", ((0.4 / 100) * $("#divContainerMapa").width()) + "%");
+        instance.on("transform", function(e) {
+
+            /* if (instance.getTransform().scale >= 1 || instance.getTransform().scale < 2) {
+
+                console.log("Condicion #1");
+                $(".divMapIcon").css("width", "2%");
+                $(".divMapIcon").css("height", "4%");
+
+            }
+
+            else if (instance.getTransform().scale >= 1 || instance.getTransform().scale < ) {
+
+                console.log("Condicion #2");
+                $(".divMapIcon").css("width", "1.8%");
+                $(".divMapIcon").css("height", "3.6%");
 
             } */
 
-            if (panzoom.getScale() === 3) {
+            if (instance.getTransform().scale === 0.2) {
 
-                console.log("Holos");
-                $(".mapIcon").css("width", "2%");
+                $(".divMapIcon").css("width", "2%");
+                $(".divMapIcon").css("height", "4%");
+                $(".spanIcon").hide();
+            }
+
+            else if (instance.getTransform().scale > 0.2 && instance.getTransform().scale <= 0.4) {
+
+                $(".divMapIcon").css("width", "1.8%");
+                $(".divMapIcon").css("height", "3.6%");
                 $(".spanIcon").hide();
 
             }
 
-            else if (panzoom.getScale() > 3 && panzoom.getScale() <= 3.5) {
+            else if (instance.getTransform().scale > 0.4 && instance.getTransform().scale <= 0.6) {
 
-                $(".mapIcon").css("width", "1.8%");
+                $(".divMapIcon").css("width", "1.62%");
+                $(".divMapIcon").css("height", "3.24%");
                 $(".spanIcon").hide();
 
             }
 
-            else if (panzoom.getScale() > 3.5 && panzoom.getScale() <= 4) {
+            else if (instance.getTransform().scale > 0.6 && instance.getTransform().scale <= 0.8) {
 
-                $(".mapIcon").css("width", "1.6%");
+                $(".divMapIcon").css("width", "1.458%");
+                $(".divMapIcon").css("height", "2.916%");
                 $(".spanIcon").hide();
 
             }
 
-            else if (panzoom.getScale() > 4 && panzoom.getScale() <= 4.5) {
+            else if (instance.getTransform().scale > 0.8 && instance.getTransform().scale <= 1) {
 
-                $(".mapIcon").css("width", "1.4%");
+                $(".divMapIcon").css("width", "1.3122%");
+                $(".divMapIcon").css("height", "2.6244%");
                 $(".spanIcon").hide();
 
             }
 
-            else if (panzoom.getScale() > 4.5 && panzoom.getScale() <= 5) {
+            else if (instance.getTransform().scale > 1 && instance.getTransform().scale <= 1.2) {
 
-                $(".mapIcon").css("width", "1.2%");
+                $(".divMapIcon").css("width", "1.18098%");
+                $(".divMapIcon").css("height", "2.36196%");
                 $(".spanIcon").hide();
 
             }
 
-            else if (panzoom.getScale() > 5 && panzoom.getScale() <= 5.5) {
+            else if (instance.getTransform().scale > 1.2 && instance.getTransform().scale <= 1.4) {
 
-                $(".mapIcon").css("width", "1%");
+                $(".divMapIcon").css("width", "1.062882%");
+                $(".divMapIcon").css("height", "2.125764%");
                 $(".spanIcon").hide();
 
             }
 
-            else if (panzoom.getScale() > 5.5 && panzoom.getScale() <= 6) {
+            else if (instance.getTransform().scale > 1.4 && instance.getTransform().scale <= 1.6) {
 
-                $(".mapIcon").css("width", "0.8%");
+                $(".divMapIcon").css("width", "0.9565938%");
+                $(".divMapIcon").css("height", "1.9131876%");
                 $(".spanIcon").hide();
 
             }
 
-            else if (panzoom.getScale() > 6 && panzoom.getScale() <= 6.5) {
+            else if (instance.getTransform().scale > 1.6 && instance.getTransform().scale <= 1.8) {
 
-                $(".mapIcon").css("width", "0.6%");
+                $(".divMapIcon").css("width", "0.86093442%");
+                $(".divMapIcon").css("height", "1.72186884%");
                 $(".spanIcon").hide();
 
             }
 
-            else if (panzoom.getScale() > 6.5 && panzoom.getScale() <= 7) {
+            else if (instance.getTransform().scale > 1.8 && instance.getTransform().scale <= 4) {
 
-                $(".mapIcon").css("width", "0.4%");
-                $(".spanIcon").hide();
-
-            }
-
-            else if (panzoom.getScale() > 7 && panzoom.getScale() <= 7.5) {
-
-                $(".mapIcon").css("width", "0.2%");
-                $(".spanIcon").hide();
-
-            }
-
-            else if (panzoom.getScale() > 7.5 && panzoom.getScale() <= 15) {
-
-                $(".mapIcon").css("width", "0.09%");
+                $(".divMapIcon").css("width", "0.774840978%");
+                $(".divMapIcon").css("height", "1.549681956%");
                 $(".spanIcon").show();
 
             }
 
-            else if (panzoom.getScale() === 9) {
+            /* else if (instance.getTransform().scale > 5.5 && instance.getTransform().scale <= 15) {
 
-                $(".mapIcon").css("width", "0.5%");
+                $(".divMapIcon").css("width", "0.6973568802%");
+                $(".divMapIcon").css("height", "1.3947137604%");
                 //$(".spanIcon").show();
 
-            }
-
-            console.log("Nivel de Escala: " + panzoom.getScale() + " Icon size: " + $(".mapIcon").css("width"));
+            } */
 
         });
 
-        elem.addEventListener('panzoompan', (event) => {
-
-            console.log(event.detail) // => { x: 0, y: 0, scale: 1 }
-
-        });
-
-        $(document).on("click", ".mapIcon", function () {
+        $(document).on("click", ".divMapIcon", function () {
 
             openDescripcion($(this).attr("id"));
 
@@ -238,13 +259,29 @@ var oldScale = panzoom.getScale();
 
         $("#buttonZoom").click(function () {
 
-            panzoom.zoom(panzoom.getScale() + 0.5);
+            zoomLevel = zoomLevel + 0.1;
+            var parentBoundingBox = document.getElementById("paginaMapa").getBoundingClientRect();
+            instance.smoothZoomAbs(parentBoundingBox.width / 2, parentBoundingBox.height / 2, zoomLevel);
+            
+            if (zoomLevel > instance.getMaxZoom()) {
+
+                zoomLevel = instance.getMaxZoom();
+
+            }
 
         });
 
         $("#buttonUnzoom").click(function () {
 
-            panzoom.zoom(panzoom.getScale() - 0.5);
+            zoomLevel = zoomLevel - 0.1;
+            var parentBoundingBox = document.getElementById("paginaMapa").getBoundingClientRect();
+            instance.smoothZoomAbs(parentBoundingBox.width / 2, parentBoundingBox.height / 2, zoomLevel);
+
+            if (zoomLevel < instance.getMinZoom()) {
+
+                zoomLevel = instance.getMinZoom();
+
+            }
 
         });
 
@@ -580,13 +617,6 @@ var oldScale = panzoom.getScale();
 
     } */
 
-    function resetMap() {
-
-        panzoom.zoom(3);
-        panzoom.pan(31.300050099690754, 45.95204671223958);
-
-    }
-
 })();
 
 function parserLugares(jsonLugares) {
@@ -632,7 +662,7 @@ function parserLugares(jsonLugares) {
 
 
         //íconos del mapa
-        let icono = document.createElement('img');
+        /* let icono = document.createElement('img');
         icono.classList.add('mapIcon');
         icono.classList.add(lugar.categoria);
         icono.id = lugar.nombre +' || '+contador;
@@ -643,10 +673,52 @@ function parserLugares(jsonLugares) {
         icono.style.width = "2%";
         icono.style.zIndex = '100';
         document.getElementById('divContainerMapa').appendChild(icono);
-        console.log("Name: " + lugar.nombre + " Top: " + icono.offsetTop + " Left: " + icono.offsetLeft + " Height: " + icono.offsetWidth);
+        console.log("Name: " + lugar.nombre + " Top: " + icono.offsetTop + " Left: " + icono.offsetLeft + " Height: " + icono.offsetWidth); */
+
+        let divIcono = document.createElement("div");
+        divIcono.classList.add("divMapIcon");
+        divIcono.classList.add(lugar.categoria);
+        divIcono.id = lugar.nombre + " || "+contador;
+        divIcono.style.position = "absolute";
+        divIcono.style.top = ((lugar.coordY / 100) * $("#divContainerMapa").height()) + 'px';
+        divIcono.style.left = ((lugar.coordX / 100) * $("#divContainerMapa").width()) + 'px';
+        divIcono.style.width = "2%";
+        divIcono.style.height = "4%";
+        divIcono.style.zIndex = '100';
+        divIcono.style.display = "block";
+        document.getElementById('divContainerMapa').appendChild(divIcono);
+
+        let icono = document.createElement("img");
+        icono.classList.add("mapIcon");
+        icono.src = lugar.icono;
+        icono.style.width = "100%";
+        icono.style.height = "50%";
+        divIcono.appendChild(icono);
+
+        let spanIcono = document.createElement("p");
+        let node = document.createTextNode(lugar.nombre);
+        spanIcono.appendChild(node);
+        spanIcono.classList.add('spanIcon');
+        spanIcono.id = "span" + lugar.nombre;
+        spanIcono.classList.add(lugar.categoria);
+        spanIcono.style.width = "100%";
+        spanIcono.style.zIndex = '99';
+        spanIcono.style.textAlign = "center";
+        spanIcono.style.verticalAlign = "middle";
+        spanIcono.style.fontSize = "0.001px";
+        spanIcono.style.marginLeft = "auto";
+        spanIcono.style.marginRight = "auto";
+        spanIcono.style.paddingTop = "5px";
+        spanIcono.style.paddingBottom = "5px";
+        spanIcono.style.paddingLeft = "2px";
+        spanIcono.style.paddingRight = "2px";
+        spanIcono.style.display = "none";
+        divIcono.appendChild(spanIcono);
+
+        console.log("Name: " + lugar.nombre + " Top: " + divIcono.offsetTop + " Left: " + divIcono.offsetLeft + " Width: " + divIcono.offsetWidth + " Height: " + divIcono.offsetHeight);
 
         //nombres íconos
-        let spanIcono = document.createElement('canvas');
+        /* let spanIcono = document.createElement('canvas');
         spanIcono.classList.add('spanIcon');
         spanIcono.id = "span" + lugar.nombre;
         spanIcono.classList.add(lugar.categoria);
@@ -664,7 +736,24 @@ function parserLugares(jsonLugares) {
         spanIcono.style.left = (icono.offsetLeft - (icono.offsetLeft * 0.04)) + 'px';
         spanIcono.style.zIndex = '99';
         spanIcono.style.display = "none";
-        document.getElementById('divContainerMapa').append(spanIcono);
+        document.getElementById('divContainerMapa').append(spanIcono); */
+
+
+        /* let spanIcono = document.createElement("p");
+        let node = document.createTextNode(lugar.nombre);
+        spanIcono.appendChild(node);
+        spanIcono.classList.add('spanIcon');
+        spanIcono.id = "span" + lugar.nombre;
+        spanIcono.classList.add(lugar.categoria);
+        spanIcono.style.position = "absolute";
+        spanIcono.style.width = "2%";
+        spanIcono.style.height = "2%";
+        spanIcono.style.top = icono.offsetTop + icono.height + 'px';
+        spanIcono.style.left = (icono.offsetLeft - (icono.offsetLeft * 0.04)) + 'px';
+        spanIcono.style.zIndex = '99';
+        //spanIcono.style.display = "none";
+        document.getElementById('divContainerMapa').append(spanIcono); */
+
         +contador++;
     });
 }
