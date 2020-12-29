@@ -345,7 +345,7 @@ var zoomLevel = 0.2;
 
                     var array = data;
 
-                    //$("#modalLeyendasCuerpo").empty();
+                    $(".subModalLeyendasCuerpo").empty();
 
                     for (var i = 0; i < array.leyendas.length; i++) {
 
