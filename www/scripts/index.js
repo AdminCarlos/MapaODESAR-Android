@@ -713,7 +713,7 @@ function parserLugares(jsonLugares) {
         spanIcono.classList.add('spanIcon');
         spanIcono.id = "span" + lugar.nombre;
         spanIcono.classList.add(lugar.categoria);
-        spanIcono.style.width = "100%";
+        //spanIcono.style.width = "100%";
         spanIcono.style.zIndex = '99';
         spanIcono.style.textAlign = "center";
         spanIcono.style.verticalAlign = "middle";
