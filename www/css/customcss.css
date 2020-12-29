@@ -132,22 +132,50 @@
 
 }
 
-.modalLeyendasRow {
+#modalLeyendasCuerpo {
 
     display: grid;
-    font-size: 80%;
-    text-align: left;
-    border-bottom: solid;
-    border-bottom-width: 5px;
-    border-bottom-color: rgba(51, 17, 0, 0.3);
+    grid-template-columns: 23.875% 23.875% 23.875% 23.875%;
+    grid-column-gap: 1.5%;
+    font-size: 70%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+
+}
+
+.modalLeyendasRow {
+
+    vertical-align: middle;
+    padding-top: 10%;
+    text-align: center;
+    border: solid;
+    margin-bottom: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-width: 1px;
+    border-color: rgba(51, 17, 0, 0.3);
 
 }
 
 .modalLeyendasRowIcon {
 
     display: block;
-    width: 60%;
+    height: 50px;
+    width: 50px;
     margin: auto auto auto auto;
+
+}
+
+.modalLeyendasRowP {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    width: 85%;
+    border-top-style: solid;
+    border-color:  rgba(51, 17, 0, 0.3);
 
 }
 

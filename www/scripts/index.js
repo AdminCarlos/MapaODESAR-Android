@@ -349,7 +349,7 @@ var zoomLevel = 0.2;
 
                     for (var i = 0; i < array.leyendas.length; i++) {
 
-                        $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p> <b>" + array.leyendas[i].Nombre + ": </b>" + array.leyendas[i].Descripcion + "</p> </div>");
+                        $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p class='modalLeyendasRowP'> <b>" + array.leyendas[i].Nombre + "</b></p> </div>");
 
                     }
 

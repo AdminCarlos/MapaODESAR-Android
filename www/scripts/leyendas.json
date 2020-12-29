@@ -215,6 +215,192 @@
             "rutaIcono": "img/iconografias/Oficios tradicionales y ancestrales/elaboracion ladrillos.svg",
             "Nombre": "Elaboración de tejas/ladrillos",
             "Descripcion": "Talento humano que elabora tejas y ladrillos artesanales de barro utilizados para la construcción de viviendas. En algunas comunidades las familias elaboran bloques de tierra y adobe para el autoconstrucción de viviendas."
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Alcaldía Municipal.png",
+            "Nombre": "Alcaldía Municipal",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Capo Deportivo Elías Alonso.png",
+            "Nombre": "Campo Deportivo Elías Alonso",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Casa Cuna Carlos Fonseca.png",
+            "Nombre": "Casa Cuna Carlos Fonseca",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Casas, Haciendas Antiguas.png",
+            "Nombre": "Casas, Haciendas Antiguas",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Catedral San Pedro Apostol.png",
+            "Nombre": "Catedral San Pedro Apostol",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Cementerio de los Extranjeros.png",
+            "Nombre": "Cementerio de los Extranjeros",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Cementerio Municipal.png",
+            "Nombre": "Cementerio Municipal",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Centro Cultural Héroes y Martires.png",
+            "Nombre": "Centro Cultural Héroes y Martires",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Centro de Gestion Ambiental El Roble.png",
+            "Nombre": "Centro de Gestion Ambiental El Roble",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Centros Recreativos.png",
+            "Nombre": "Centros Recreativos",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Complejo Deportivo Carlos Fonseca.png",
+            "Nombre": "Complejo Deportivo Carlos Fonseca",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Complejo Deportivo Ernesto Cabrera.png",
+            "Nombre": "Complejo Deportivo Ernesto Cabrera",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Ermita de Guadalupe.png",
+            "Nombre": "Ermita de Guadalupe",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Estadio Municipal Chale Solis.png",
+            "Nombre": "Estadio Municipal Chale Solis",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Fincas Agroecológicas.png",
+            "Nombre": "Fincas Agroecológicas",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Iglesia San José.png",
+            "Nombre": "Iglesia San José",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Malecón Río Grande de Matagalpa.png",
+            "Nombre": "Malecón Río Grande de Matagalpa",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Mercado.png",
+            "Nombre": "Mercado",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Miradores.png",
+            "Nombre": "Miradores",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Monumento Rubén Darío.png",
+            "Nombre": "Monumento Rubén Darío",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Museo Nacional del Café.png",
+            "Nombre": "Museo Nacional del Café",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Parque de Ferias.png",
+            "Nombre": "Parque de Ferias",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Parque Ecológico Mirador Cerro El Calvario.png",
+            "Nombre": "Parque Ecológico Mirador Cerro El Calvario",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Parque Fitness Roberto Centeno.png",
+            "Nombre": "Parque Fitness Roberto Centeno",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Parque Francisco Morazán.png",
+            "Nombre": "Parque Francisco Morazán",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Parque Los Monos.png",
+            "Nombre": "Parque Los Monos",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Parque Rubén Darío.png",
+            "Nombre": "Parque Rubén Darío",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Poliderpotivo El Brigadista.png",
+            "Nombre": "Polideportivo El Brigadista",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Santuario Divino Niño.png",
+            "Nombre": "Santuario Divino Niño",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Teatro Municipal.png",
+            "Nombre": "Teatro Municipal",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Casco Urbano",
+            "rutaIcono": "img/iconografias/Casco Urbano/Vivero Municipal.png",
+            "Nombre": "Vivero Municipal",
+            "Descripcion": ""
         }
     ]
 }
