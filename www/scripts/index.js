@@ -345,11 +345,11 @@ var zoomLevel = 0.2;
 
                     var array = data;
 
-                    $("#modalLeyendasCuerpo").empty();
+                    //$("#modalLeyendasCuerpo").empty();
 
                     for (var i = 0; i < array.leyendas.length; i++) {
 
-                        $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p class='modalLeyendasRowP'> <b>" + array.leyendas[i].Nombre + "</b></p> </div>");
+                        $("#modalLeyendasCuerpo" + array.leyendas[i].shortName).append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p class='modalLeyendasRowP'> <b>" + array.leyendas[i].Nombre + "</b></p> </div>");
 
                     }
 
