@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport"
+        content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, target-densityDpi=device-dpi" />
+
+    <link rel='stylesheet' href='css/jqueryMobileUI.min.css'>
+    <link rel='stylesheet' href='css/customcss.css'>
+
+    <link rel="prefetch" href="img/iconografias/Sitios Naturales/cerro y montañas.png">
+    <link rel="prefetch" href="img/mapamdpi.png">
+
+    <title>Mapa ODESAR</title>
+
+</head>
+
+<body>
+
+    <div id="paginaMapa" data-enhance="false">
+
+        <div id="panelGlobal" data-enhance="false">
+
+            <div id="containerButtons" data-enhance="false">
+
+                <button class="panelButton" id="buttonSearch"><img src="img/buscar.png"></button>
+
+                <button class="panelButton" id="buttonZoom"><img src="img/mas.png"></button>
+
+                <button class="panelButton" id="buttonUnzoom"><img src="img/menos.png"></button>
+
+                <!-- <button class="panelButton" id="buttonFilter"><img src="img/filter.png"></button> -->
+
+                <button class="panelButton" id="buttonOpenLeyendas"><img src="img/leyenda.png"></button>
+
+            </div>
+
+        </div>
+
+        <div id="divLeyendas" class="modal" data-enhance="false">
+
+            <div class="modalTitulo">
+                <span>Simbología</span>
+            </div>
+
+            <div id="modalLeyendasCuerpo" class="modalCuerpo">
+
+                <p class="modalLeyendasTitulos">Sitios Arqueológicos</p>
+
+                <div id="modalLeyendasCuerpoSitiosArqueologicos" class="subModalLeyendasCuerpo">
+
+                    
+
+                </div>
+
+                <p class="modalLeyendasTitulos">Sitios Naturales</p>
+
+                <div id="modalLeyendasCuerpoSitiosNaturales" class="subModalLeyendasCuerpo">
+
+                    
+
+
+                </div>
+
+                <p class="modalLeyendasTitulos">Talento, Oficios y Saberes Ancentrales</p>
+
+                <div id="modalLeyendasCuerpoOficios" class="subModalLeyendasCuerpo">
+
+                    
+
+                </div>
+
+                <p class="modalLeyendasTitulos">Equipamiento Municipal</p>
+
+                <div id="modalLeyendasCuerpoEquipamientoOficial" class="subModalLeyendasCuerpo">
+
+                    
+
+                </div>
+
+                <p class="modalLeyendasTitulos">Sitios de Patrimonio Histórico y Cultural Construido</p>
+
+                <div id="modalLeyendasCuerpoSitiosPatrimonio" class="subModalLeyendasCuerpo">
+
+                    
+
+                </div>
+                
+                <p class="modalLeyendasTitulos">Sitios Turísticos</p>
+
+                <div id="modalLeyendasCuerpoSitiosTuristicos" class="subModalLeyendasCuerpo">
+
+                    
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div id="divDescripcion" class="modal" data-enhance="false">
+
+            <div id="modalDescripcion">
+
+                <div class="modalTitulo">
+                    <span>Descripción</span>
+                </div>
+
+                <div class="modalCuerpo">
+
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fugiat consectetur explicabo eveniet odit
+                    cupiditate. Molestiae quis quibusdam optio voluptatum maiores corrupti, praesentium sequi. Dolores
+                    ea ipsam, ex velit nihil ut!
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div id="divBuscar" data-enhance="false">
+
+            <input type="text" id="inputBuscar" placeholder="Buscar por nombre...">
+
+        </div>
+
+        <!-- <div id="divFiltrar" data-enhance="false">
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Arqueologicos/petrograbados.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Petrograbados">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Arqueologicos/MS.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="MaterialesEnSuperficie">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Arqueologicos/cuevas.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Cuevas/Abrigosrocosos">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Arqueologicos/monticulos.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Monticulos">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Arqueologicos/veta.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="VetadeObsidiana">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Arqueologicos/material ceramico.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="MaterialCerámico">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Naturales/cerro y montañas.png">
+
+                <input type="checkbox" class="checkboxFiltrar" id="CerrosyMontañas">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Naturales/cuevas 2.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Cuevas">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Naturales/peñas y peñazcos.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="PeñasyPeñascos">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Naturales/reserva natural.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="ReservaNatural/Áreaprotegida">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Naturales/saltos y cascadas.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Saltosycascadas">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Naturales/rios y quebradas.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Pozas/Ojosdeagua">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Sitios Naturales/lagunas.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Lagunas">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Oficios tradicionales y ancestrales/telares.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Telares">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow"
+                    src="img/iconografias/Oficios tradicionales y ancestrales/artesanias de barro.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Artesaníasdebarro">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow"
+                    src="img/iconografias/Oficios tradicionales y ancestrales/ceramica negra.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="CerámicaNegra">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow" src="img/iconografias/Oficios tradicionales y ancestrales/canastos.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="CanastosdeCarrizooBambú">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow"
+                    src="img/iconografias/Oficios tradicionales y ancestrales/sombrero y escobas.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Sombreros,escobas,petatesdepalma,tusaymillón">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow"
+                    src="img/iconografias/Oficios tradicionales y ancestrales/artesanias de bambu (2).svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Artesaníasconbambú">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow"
+                    src="img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Gastronomíatradicional">
+
+            </div>
+
+            <div class="divFiltrarRow">
+
+                <img class="imgFiltrarRow"
+                    src="img/iconografias/Oficios tradicionales y ancestrales/gastronomia tradicional.svg">
+
+                <input type="checkbox" class="checkboxFiltrar" id="Gastronomíatradicional">
+
+            </div>
+
+        </div> -->
+
+        <div id="divMainPage" class="divMainUI">
+
+            <div id="divContainerMapa" data-enhance="false">
+
+                <img src="img/mapamdpi.png" id="imgMapa">
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="scripts/jquery.js"></script>
+
+    <script>
+        $(document).on('mobileinit', function () {
+            $.mobile.ignoreContentEnabled = true;
+        });
+    </script>
+
+    <script src="scripts/jqueryMobile.js"></script>
+
+    <script src='scripts/panzoom.min.js'></script> 
+
+    <script type=" text/javascript" src="cordova.js"></script>
+
+    <script type="text/javascript" src="scripts/index.js"></script>
+
+</body>
+
+</html>

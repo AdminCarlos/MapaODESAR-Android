@@ -1,0 +1,470 @@
+@font-face {
+
+    font-family: fontConfortaa;
+    src: url("../fonts/Comfortaa-Bold.ttf");
+    font-weight: bold;
+
+}
+
+@font-face {
+
+    font-family: fontConfortaa;
+    src: url("../fonts/Comfortaa-Light.ttf");
+    font-weight: lighter;
+
+}
+
+@font-face {
+
+    font-family: fontConfortaa;
+    src: url("../fonts/Comfortaa-Regular.ttf");
+    font-weight: normal;
+
+}
+
+.divPaginas {
+    
+    box-sizing: border-box;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.divMainUI {
+
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../img/background.png");
+    background-size: auto 130%;
+    background-position: 100% 100%;
+    overflow: hidden;
+
+}
+
+#panelGlobal {
+    display: block;
+    position: fixed;
+    width: 15%;
+    position: fixed;
+    z-index: 5;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-shadow: none;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border-bottom-right-radius: 15px;
+}
+
+#containerButtons {
+
+    display: grid;
+    grid-template-rows: 10vh 10vh 10vh 10vh;
+    background-color: rgba(0, 0, 0, 0);
+
+}
+
+.panelButton {
+
+    padding: 0 0.5em 0 0.5em;
+    outline: none;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+
+}
+
+.panelButton span {
+
+    display: block;
+    margin: auto auto auto auto;
+    font-size: 2vh;
+
+}
+
+.panelButton img {
+
+    width: 1.5em;
+    margin: auto auto auto auto;
+
+}
+
+.modal {
+
+    display: none;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 6;
+    background-color:white;
+    overflow: auto;
+    font-family: fontConfortaa;
+}
+
+.modalTitulo{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    width: 100%;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+    border-bottom: solid;
+    border-bottom-width: 5px;
+    border-bottom-color: rgba(51, 17, 0, 0.3);
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.modalCuerpo {
+
+    padding: 2vh 2vw 2vh 2vw;
+
+}
+
+.modalLeyendasTitulos {
+
+    border-bottom-style: solid;
+    border-bottom-color:rgba(51, 17, 0, 0.3);;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.subModalLeyendasCuerpo {
+
+    display: grid;
+    grid-template-columns: 23.875% 23.875% 23.875% 23.875%;
+    grid-column-gap: 1.5%;
+    font-size: 70%;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+    width: 100%;
+
+}
+
+.modalLeyendasRow {
+
+    vertical-align: middle;
+    padding-top: 10%;
+    text-align: center;
+    border: solid;
+    margin-bottom: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-width: 1px;
+    border-color: rgba(51, 17, 0, 0.3);
+
+}
+
+.modalLeyendasRowIcon {
+
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin: auto auto auto auto;
+
+}
+
+.modalLeyendasRowP {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    width: 85%;
+    border-top-style: solid;
+    border-color:  rgba(51, 17, 0, 0.3);
+
+}
+
+#imgMapa {
+
+    width: 5096px;
+    height: 3997px;
+    /* border-style: solid;
+    border-color: red; */
+
+}
+
+#divContainerMapa {
+
+    width: 5096px;
+    height: 3997px;
+    /* border-style: solid;
+    border-color: green; */
+
+}
+
+#paginaInicio {
+
+    overflow: auto;
+    text-align: justify;
+    background-color: white !important;
+    font-family: fontConfortaa !important;
+    font-weight: bold;
+    padding-right: 4% !important;
+    padding-left: 4% !important;
+    padding-top: 6% !important;
+
+}
+
+#spanTituloInicio {
+
+    color: orangered;
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2vh;
+    font-weight: 900;
+
+}
+
+#imgLogo {
+
+    display: block;
+    width: 60%;
+    margin: auto auto auto auto;
+
+}
+
+#imgLogoMapa {
+
+    display: block;
+    position: fixed;
+    bottom: 1vh;
+    right: 1vw;
+    z-index: 5;
+    width: 30%;
+
+}
+
+#buttonGoToMap {
+
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    width: 92%;
+    height: 10%;
+    color: green;
+    background-color: white;
+    font-family: fontConfortaa;
+    font-weight: 900;
+    font-size: 25px;
+    text-decoration: none;
+    overflow: auto;
+    text-align: center;
+}
+
+#buttonGoToMap img {
+
+    display: inline-block;
+    width: 10%;
+    height: auto;
+    animation-name: bounce-3;
+    animation-timing-function: ease;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+
+}
+
+.mapIcon {
+
+    min-width: 2px;
+    /* animation-name: iconBounce;
+    animation-timing-function: ease;
+    animation-duration: 2s;
+    animation-iteration-count: infinite; */
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    transition: width 0.5s, opacity 1s, visibility 1s;
+    height: auto !important;
+
+}
+
+.spanIcon {
+
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 1);
+    border-width: 0.5px;
+    background-color: rgba(51, 17, 0, 0.7);
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    color: white;
+    box-sizing: border-box;
+    transition: opacity 1s, visibility 1s;
+    font-size: 0.001px !important;
+    text-shadow: none;
+    text-decoration: none;
+}
+
+.divMapIcon {
+
+    /* border-style: solid;
+    border-color: blue; */
+    border-width: 0.5px;
+    font-family: fontConfortaa;
+    font-weight: bold;
+    transition: opacity 1s, visibility 1s;
+    /* min-width: 1.062882%;
+    min-height: 2.125764%; */
+
+}
+
+@keyframes bounce-3 {
+    0%   { transform: translateX(0); }
+    30%  { transform: translateX(2vw); }
+    50%  { transform: translateX(0); }
+    100% { transform: translateX(0); }
+}
+
+@keyframes iconBounce {
+    0%   { transform: translateY(0); }
+    30%  { transform: translateY(-0.1vh); }
+    50%  { transform: translateY(0); }
+    100% { transform: translateY(0); }
+}
+
+#divBuscar {
+
+    display: block;
+    position: fixed;
+    top: 0;
+    left: 15%;
+    width: 0%;
+    height: 5%;
+    transition: width 0.5s;
+    padding: 0;
+    margin: 0;
+    z-index: 5;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgba(255, 255, 255, 0.5);;
+}
+
+#divBuscar input {
+
+    width: 100%;
+    height: 100%;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-sizing: content-box;
+    border: none;
+    outline: none;
+    text-decoration: none;
+
+}
+
+#divFiltrar {
+
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    width: 0%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    z-index: 5;
+    background-color: white;
+    overflow: scroll;
+    transition: width 0.5s;
+
+}
+
+.divFiltrarRow {
+
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.checkboxFiltrar {
+
+    display: block;
+    width: 80%;
+    margin: auto auto auto auto;
+
+}
+
+.imgFiltrarRow {
+
+    width: 100%;
+
+}
+
+.imageDescription {
+
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+
+}
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.box {
+  background: #fff;
+  background: rgba(255,255,255,0.9);
+  margin-bottom: 20px;
+  padding: 30px 15px;
+}
+/* peticiones de anchura de viewport */
+
+/*pantallas muy pequeñas(xs)*/
+@media only screen and (max-width: 576px) {
+    .modalLeyendasRow{
+        grid-template-columns: 30% 70%;
+    }
+}
+
+/*pantallas pequeñas (sm)*/
+@media only screen and (min-width: 576px) {
+    .modalLeyendasRow{
+        grid-template-columns: 25% 75%;
+    }
+}
+
+/*pantallas medianas (md)*/
+@media only screen and (min-width: 768px) {
+    .modalLeyendasRow{
+        grid-template-columns: 20% 80%;
+    }
+}
+
+/*pantallas grandes (lg)*/
+@media only screen and (min-width: 992px) {
+    .modalLeyendasRow{
+        grid-template-columns: 10% 90%;
+    }
+}
