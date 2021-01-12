@@ -727,7 +727,7 @@ function parserLugares(jsonLugares) {
         spanIcono.style.display = "none";
         divIcono.appendChild(spanIcono);
 
-        console.log("Name: " + lugar.nombre + " Top: " + divIcono.offsetTop + " Left: " + divIcono.offsetLeft + " Width: " + divIcono.offsetWidth + " Height: " + divIcono.offsetHeight);
+        console.log("Name: " + divIcono.id + " Top: " + divIcono.offsetTop + " Left: " + divIcono.offsetLeft + " Width: " + divIcono.offsetWidth + " Height: " + divIcono.offsetHeight);
 
         //nombres íconos
         /* let spanIcono = document.createElement('canvas');

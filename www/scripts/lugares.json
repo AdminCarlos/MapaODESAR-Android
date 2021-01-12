@@ -883,8 +883,8 @@
         {
             "nombre": "Peña El Duende",
             "categoria": "PeñasyPeñascos",
-            "descripcion": "Rocas de gran tamaño ubicadas en un lugar alto, una peña grande y elevada que puede ser movida por procesos mecánicos naturales como las corrientes de agua, los movimientos de tierra o la fuerza de la gravedad en laderas suficientemente inclinadas.",
-            "icono": "img/iconografias/Sitios Naturales/peñas y peñazcos.png",
+            "descripcion": "La leyenda de los duendes se escuchan en varias comunidades del municipio de Matagalpa, dicen los pobladores que en las montañas se escuchan a los Duendes todavía, por los zanjones se escuchan sus jugarretas y reírse a carcajadas de sus travesuras, y ellos llaman a los niños que se encuentran y que andan tarde en los caminos, para jugar con ellos; por eso los abuelos aconsejan que los niños no deben andar en los caminos y que les alcance la noche en los caminos, pues les pueden salir los Duendes.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda de Duendes.svg",
             "coordX": "45.604395604396",
             "coordY": "78.859144358269"
         },
@@ -3399,6 +3399,134 @@
             "icono": "img/iconografias/Casco Urbano/Casas, Haciendas Antiguas.png",
             "coordX": "51.805337519623",
             "coordY": "23.267450587941"
+        },
+        {
+            "nombre": "Leyenda de la Mocuana",
+            "categoria": "Leyendas",
+            "descripcion": "La leyenda de la mocuana la cuentan muchos pobladores de las comunidades, cuentan que esta es una mujer de pelo largo, que la han visto en los caminos y en los ríos, que cuando se acercan para observar mejor a la mujer esta desaparece.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda de la Mocuana.svg",
+            "coordX": "47.959183673469",
+            "coordY": "13.034776082062"
+        },
+        {
+            "nombre": "Leyenda del Sisimique",
+            "categoria": "Leyendas",
+            "descripcion": "Cuentan los abuelos y abuelas, sobre la leyenda del Sisimique, un guardián de las montañas, parece un animal que camina parado y tiene pelos en todo su cuerpo, es de la estatura de un niño de 3 o 4 años, otros dicen que son mas grandes. Este ser camina en las montañas y sobre los ríos, cuando camina un pie los tiene para delante y el otro para atrás, el sisimique cuida la montaña, y si lo agredimos nos puede perder en la montaña para enseñarnos a respetar estos espacios sagrados.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda del Sisimique.svg",
+            "coordX": "49.62715855573",
+            "coordY": "13.985489116838"
+        },
+        {
+            "nombre": "Leyenda del Venado Encantado",
+            "categoria": "Leyendas",
+            "descripcion": "La leyenda del venado encantado la cuentan los pobladores de la Reserva Natural Cerro El Arenal, cuentan que 2 jóvenes que iban a cazar a la reserva, se encontraron con un gran venado, cuando decidieron cazarlo al venado se le encendieron los ojos como si fueran 2 brazas y se les vino de frente y el arma no les dio fuego… Era un animal grande que en el mismo instante los perdió del camino y fueron aparecer a otro lugar que ellos no conocían, dicen los abuelos que por no poner atención a las historias que se contaban y por andar cazando animalitos por juego, el Venado guardián del bosque castigó a estos 2 muchachos.  Después de esta experiencia ellos contaban que ahí en los cerros del Arenal hay animales misteriosos, tal vez por la selva. Antes el no creía, pero ahora sí; desde entonces ya no volvió a salir a cazar, después de ese susto. Es una gran enseñanza que nos da el guardián de la montaña el venado, de cuidar los animales de no hacerles daño y de entender que la montaña y lo que hay en ella tienen derecho a vivir en armonía sin que se les haga daño.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda del Venado Encantado.svg",
+            "coordX": "53.296703296703",
+            "coordY": "20.490367775832"
+        },
+        {
+            "nombre": "Leyenda del Venado Encantado",
+            "categoria": "Leyendas",
+            "descripcion": "La leyenda del venado encantado la cuentan los pobladores de la Reserva Natural Cerro El Arenal, cuentan que 2 jóvenes que iban a cazar a la reserva, se encontraron con un gran venado, cuando decidieron cazarlo al venado se le encendieron los ojos como si fueran 2 brazas y se les vino de frente y el arma no les dio fuego… Era un animal grande que en el mismo instante los perdió del camino y fueron aparecer a otro lugar que ellos no conocían, dicen los abuelos que por no poner atención a las historias que se contaban y por andar cazando animalitos por juego, el Venado guardián del bosque castigó a estos 2 muchachos.  Después de esta experiencia ellos contaban que ahí en los cerros del Arenal hay animales misteriosos, tal vez por la selva. Antes el no creía, pero ahora sí; desde entonces ya no volvió a salir a cazar, después de ese susto. Es una gran enseñanza que nos da el guardián de la montaña el venado, de cuidar los animales de no hacerles daño y de entender que la montaña y lo que hay en ella tienen derecho a vivir en armonía sin que se les haga daño.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda del Venado Encantado.svg",
+            "coordX": "56.514913657771",
+            "coordY": "27.445584188141"
+        },
+        {
+            "nombre": "Leyenda del Cadejo Blanco y el Cadejo Negro",
+            "categoria": "Leyendas",
+            "descripcion": "En Matagalpa se escucha mucho hablar sobre la leyenda del Cadejo, dicen que son como perros grandes con los ojos rojos, el Cadejo Blanco que dicen casi siempre se les aparece y persigue a las mujeres, y las cuida no les hace daño, pero que hay otro, el Cadejo Negro que le aparece y persigue a los hombres y si no te sabes comportar te puede hace daño. El cadejo blanco y el cadejo negro acompañan a las personas en los caminos, a estos no los pueden maldecir o regañarles, puesto que para defenderse puede ocasionarte daños, es parecido al perro o al lobo, dicen que persigue a la gente pero no para hacer daño sino para acompañar, y hay algo que debes saber, cuando se logran encontrar ambos cadejos se pelean entre ellos pero nunca hacen daño a las personas, los cadejos salen como a las 8 o 9 de la noche, dicen los abuelos ya cuando ha entrado la noche.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda del Cadejo Blanco y el Cadejo Negro.svg",
+            "coordX": "48.076923076923",
+            "coordY": "23.01726294721"
+        },
+        {
+            "nombre": "Leyenda Bolas de Fuego",
+            "categoria": "Leyendas",
+            "descripcion": "Cuentan los abuelos cómo ellos han visto que los cerros hablan entre ellos, por ejemplo, de El Cerro El Toro cuentan que en las noches el Cerro del Toro se ilumina, y de él salen grandes bolas de oro, bolas de luz, como bolas de fuego, que danzan y se van hasta el Cerro del Ocote. Salen esas bolas de luz, bolas de fuego, y parece que chocan, y van danzando de cerro en cerro.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda Bolas de Fuego.svg",
+            "coordX": "49.215070643642",
+            "coordY": "44.333249937453"
+        },
+        {
+            "nombre": "Leyenda de la Serpiente del Cerro Apante",
+            "categoria": "Leyendas",
+            "descripcion": "Cuenta la leyenda que, en el gran Guardián del Cerro de Apante, una enorme serpiente fue atada con tres cabellos de la Virgen María, y dicen que la cabeza, reposa, duerme; debajo de la laguna en la cúspide del Cerro de Apante, y el resto del cuerpo de la gran serpiente, desciende en la cuenca donde hoy está asentada Matagalpa. Cuentan los más antiguos pobladores, que, en su eterno intento por liberarse, esta gigantesca serpiente solamente está amarrada con 3 hebras de cabello, la cabeza está dentro de la laguna se cree que si esta culebra rompe el ultimo cabello, la laguna se desbordara al punto de inundar la ciudad y dicen que la serpiente ha roto dos cabellos y ¡solo un pelo sostiene a la serpiente! “Si se revienta el tercer ‘pelo’ de la Virgen, que ata a la enorme culebra, Matagalpa se inundaría, de tal forma que nada sobreviviría”, es la advertencia final de la leyenda, que nos da una gran enseñanza de cómo debemos cuidar ese sagrado cerro de Apante, cerro lleno de agua, cuidando su bosque y todo lo que en el habita.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda de la Serpiente del Cerro Apante Alt.svg",
+            "coordX": "43.347723704867",
+            "coordY": "50.012509382037"
+        },
+        {
+            "nombre": "Leyenda del Venado Encantado",
+            "categoria": "Leyendas",
+            "descripcion": "La leyenda del venado encantado la cuentan los pobladores de la Reserva Natural Cerro El Arenal, cuentan que 2 jóvenes que iban a cazar a la reserva, se encontraron con un gran venado, cuando decidieron cazarlo al venado se le encendieron los ojos como si fueran 2 brazas y se les vino de frente y el arma no les dio fuego… Era un animal grande que en el mismo instante los perdió del camino y fueron aparecer a otro lugar que ellos no conocían, dicen los abuelos que por no poner atención a las historias que se contaban y por andar cazando animalitos por juego, el Venado guardián del bosque castigó a estos 2 muchachos.  Después de esta experiencia ellos contaban que ahí en los cerros del Arenal hay animales misteriosos, tal vez por la selva. Antes el no creía, pero ahora sí; desde entonces ya no volvió a salir a cazar, después de ese susto. Es una gran enseñanza que nos da el guardián de la montaña el venado, de cuidar los animales de no hacerles daño y de entender que la montaña y lo que hay en ella tienen derecho a vivir en armonía sin que se les haga daño.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda del Venado Encantado.svg",
+            "coordX": "49.018838304553",
+            "coordY": "55.891918939204"
+        },
+        {
+            "nombre": "Leyenda de la Sirena",
+            "categoria": "Leyendas",
+            "descripcion": "Cuentan los abuelos de la comunidad Las Lajas, que para el tiempo de Semana Santa vivía una señora que tenía una hija, la hija le dijo que quería ir a lavar al río y ella le dijo que no porque era viernes Santo y según las creencias ese día no se debe ir a los ríos, la hija no hizo caso y se fue; cuando ella estaba lavando sentía que sus piernas estaban cambiando de forma, como que le estaba saliendo escamas, cuando se vio ya no tenía pies, sino que se le habían convertido en aletas convirtiéndose en sirena por su desobediencia. Cuando la mamá la fue a buscar la encontró convertida en una Sirena y así se quedó para siempre y nunca más salió de la poza. Dicen que en la poza se hace un remolino y si una persona se mete a la poza corre el riesgo que la poza se lo trague. Ahí en las piedras se puede observar el grabado o la forma donde se acostaba la Sirena, donde se sentaba y un guacal donde tenía su peine, jabón y paste.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda de La Sirena.svg",
+            "coordX": "53.7284144427",
+            "coordY": "76.357267950963"
+        },
+        {
+            "nombre": "Leyenda del Sisimique",
+            "categoria": "Leyendas",
+            "descripcion": "Cuentan los abuelos y abuelas, sobre la leyenda del Sisimique, un guardián de las montañas, parece un animal que camina parado y tiene pelos en todo su cuerpo, es de la estatura de un niño de 3 o 4 años, otros dicen que son mas grandes. Este ser camina en las montañas y sobre los ríos, cuando camina un pie los tiene para delante y el otro para atrás, el sisimique cuida la montaña, y si lo agredimos nos puede perder en la montaña para enseñarnos a respetar estos espacios sagrados.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda del Sisimique.svg",
+            "coordX": "31.475667189953",
+            "coordY": "65.674255691769"
+        },
+        {
+            "nombre": "Leyenda de la Sirena",
+            "categoria": "Leyendas",
+            "descripcion": "Cuentan los abuelos de la comunidad Las Lajas, que para el tiempo de Semana Santa vivía una señora que tenía una hija, la hija le dijo que quería ir a lavar al río y ella le dijo que no porque era viernes Santo y según las creencias ese día no se debe ir a los ríos, la hija no hizo caso y se fue; cuando ella estaba lavando sentía que sus piernas estaban cambiando de forma, como que le estaba saliendo escamas, cuando se vio ya no tenía pies, sino que se le habían convertido en aletas convirtiéndose en sirena por su desobediencia. Cuando la mamá la fue a buscar la encontró convertida en una Sirena y así se quedó para siempre y nunca más salió de la poza. Dicen que en la poza se hace un remolino y si una persona se mete a la poza corre el riesgo que la poza se lo trague. Ahí en las piedras se puede observar el grabado o la forma donde se acostaba la Sirena, donde se sentaba y un guacal donde tenía su peine, jabón y paste.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda de La Sirena.svg",
+            "coordX": "32.299843014129",
+            "coordY": "28.721541155867"
+        },
+        {
+            "nombre": "Leyenda de la Cegua",
+            "categoria": "Leyendas",
+            "descripcion": "Cuentan los pobladores de Matagalpa, que en las comunidades se ha va visto que sale una mujer vestida de negro, que le llaman la Cegua, dicen que la Cegua se les aparece especialmente a los hombres que andan muy noche por los caminos, se les monta en el caballo y los puede dejar atontados.",
+            "icono": "img/iconografias/Casco Urbano/Leyenda de la Cegua .svg",
+            "coordX": "26.295133437991",
+            "coordY": "57.718288716537"
+        },
+        {
+            "nombre": "",
+            "categoria": "",
+            "descripcion": "Placeholder",
+            "icono": "img/iconografias/Casco Urbano/.svg",
+            "coordX": "",
+            "coordY": ""
+        },
+        {
+            "nombre": "",
+            "categoria": "",
+            "descripcion": "Placeholder",
+            "icono": "img/iconografias/Casco Urbano/.svg",
+            "coordX": "",
+            "coordY": ""
+        },
+        {
+            "nombre": "",
+            "categoria": "",
+            "descripcion": "Placeholder",
+            "icono": "img/iconografias/Casco Urbano/.svg",
+            "coordX": "",
+            "coordY": ""
+        },
+        {
+            "nombre": "",
+            "categoria": "",
+            "descripcion": "Placeholder",
+            "icono": "img/iconografias/Casco Urbano/.svg",
+            "coordX": "",
+            "coordY": ""
         }
     ]
 }
