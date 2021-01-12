@@ -1,8 +1,10 @@
 {
 
     "browserWindow": {
-        "width": 1600,
-        "height": 900
+        "webSecurity": false,
+        "resizable": false,
+        "movable": false,
+        "autoHideMenuBar": true
     }
 
 }

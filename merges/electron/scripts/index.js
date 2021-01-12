@@ -14,10 +14,10 @@ var instance = panzoom(elem, {onTouch: function(e) {
   },
   smoothScroll: true,
   maxZoom: 4,
-  minZoom: 0.2,
-  initialX: -210.09,
-  initialY: 9.40,
-  initialZoom: 0.2
+  minZoom: 0.3,
+  initialX: 112.93700000000001,
+  initialY: -109.42000000000002,
+  initialZoom: 0.3
 });
 
 var zoomLevel = 0.2;
@@ -94,22 +94,6 @@ var zoomLevel = 0.2;
         });
 
         instance.on("transform", function(e) {
-
-            /* if (instance.getTransform().scale >= 1 || instance.getTransform().scale < 2) {
-
-                console.log("Condicion #1");
-                $(".divMapIcon").css("width", "2%");
-                $(".divMapIcon").css("height", "4%");
-
-            }
-
-            else if (instance.getTransform().scale >= 1 || instance.getTransform().scale < ) {
-
-                console.log("Condicion #2");
-                $(".divMapIcon").css("width", "1.8%");
-                $(".divMapIcon").css("height", "3.6%");
-
-            } */
 
             if (instance.getTransform().scale === 0.2) {
 
@@ -269,6 +253,18 @@ var zoomLevel = 0.2;
 
         });
 
+        $("#buttonSalirLeyendas").click(function () {
+
+            closeLeyendas();
+
+        });
+
+        $("#buttonSalirDescripcion").click(function () {
+
+            closeDescription();
+
+        });
+
         $("#buttonZoom").click(function () {
 
             zoomLevel = zoomLevel + 0.1;
@@ -365,19 +361,31 @@ var zoomLevel = 0.2;
 
         else {
 
-            fetch('scripts/leyendas.json')
-                .then((response) => response.json())
-                .then(function (array) {
+            $.ajax({
+                type: "POST",
+                dataType: "json",
+                url: "scripts/leyendas.json",
+                data: {},
+                cache: false,
+                success: function (data) {
 
-                    $("#modalLeyendasCuerpo").empty();
+                    var array = data;
+
+                    $(".subModalLeyendasCuerpo").empty();
 
                     for (var i = 0; i < array.leyendas.length; i++) {
 
-                        $("#modalLeyendasCuerpo").append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p> <b>" + array.leyendas[i].Nombre + ": </b>" + array.leyendas[i].Descripcion + "</p> </div>");
+                        $("#modalLeyendasCuerpo" + array.leyendas[i].shortName).append("<div class='modalLeyendasRow'> <img class='modalLeyendasRowIcon' src='" + array.leyendas[i].rutaIcono + "'> <p class='modalLeyendasRowP'> <b>" + array.leyendas[i].Nombre + "</b></p> </div>");
 
                     }
 
-                })
+                },
+                error: function () {
+
+                    alert("error");
+
+                }
+            })
 
         }
 
@@ -717,7 +725,7 @@ function parserLugares(jsonLugares) {
         spanIcono.style.zIndex = '99';
         spanIcono.style.textAlign = "center";
         spanIcono.style.verticalAlign = "middle";
-        spanIcono.style.fontSize = "0.001px";
+        spanIcono.style.fontSize = "5%";
         spanIcono.style.marginLeft = "auto";
         spanIcono.style.marginRight = "auto";
         spanIcono.style.paddingTop = "5px";

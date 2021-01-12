@@ -39,6 +39,8 @@
 
     <platform name="electron">
         <preference name="ElectronSettingsFilePath" value="settings.json" />
+        <preference name="AutoHideSplashScreen" value="true" />
+        <preference name="ShowSplashScreen" value="false" />
     </platform>
     
 </widget>
