@@ -3243,7 +3243,7 @@
         {
             "nombre": "Vivero Municipal",
             "categoria": "ViveroMunicipal",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Vivero Municipal.png",
             "coordX": "42.386185243328",
             "coordY": "53.515136352264"
@@ -3259,7 +3259,7 @@
         {
             "nombre": "Centro Recreativo Reparto Sandino",
             "categoria": "CentroRecreativo",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Centros Recreativos.png",
             "coordX": "37.441130298273",
             "coordY": "52.589442081561"
@@ -3267,7 +3267,7 @@
         {
             "nombre": "Centro Recreativo Bo. Walter Mendoza",
             "categoria": "CentroRecreativo",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Centros Recreativos.png",
             "coordX": "45.957613814757",
             "coordY": "43.40755566675"
@@ -3275,7 +3275,7 @@
         {
             "nombre": "Hermita de Guadalupe",
             "categoria": "Hermita",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Ermita de Guadalupe.png",
             "coordX": "45.447409733124",
             "coordY": "47.860895671754"
@@ -3283,7 +3283,7 @@
         {
             "nombre": "Estadio Municipal Chale Solis",
             "categoria": "EstadioMunicipal",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Estadio Municipal Chale Solis.png",
             "coordX": "40.953689167975",
             "coordY": "52.014010507881"
@@ -3291,7 +3291,7 @@
         {
             "nombre": "Finca Agroecológica Cerro Buena Vista",
             "categoria": "FincaAgroecologica",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Fincas Agroecológicas.png",
             "coordX": "48.351648351648",
             "coordY": "56.942707030273"
@@ -3299,7 +3299,7 @@
         {
             "nombre": "Iglesia San José",
             "categoria": "Iglesia",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Iglesia San José.png",
             "coordX": "44.368131868132",
             "coordY": "50.963222416813"
@@ -3307,7 +3307,7 @@
         {
             "nombre": "Mercado Norte",
             "categoria": "Mercado",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Mercado.png",
             "coordX": "44.996075353218",
             "coordY": "46.634976232174"
@@ -3315,7 +3315,7 @@
         {
             "nombre": "Mercado Sur",
             "categoria": "Mercado",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Mercado.png",
             "coordX": "40.620094191523",
             "coordY": "51.18839129347"
@@ -3323,7 +3323,7 @@
         {
             "nombre": "Monumento Rubén Darío",
             "categoria": "Monumento",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Monumento Rubén Darío.png",
             "coordX": "44.03453689168",
             "coordY": "48.711533650238"
@@ -3331,7 +3331,7 @@
         {
             "nombre": "Museo Nacional del Café",
             "categoria": "Museo",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Museo Nacional del Café.png",
             "coordX": "43.485086342229",
             "coordY": "49.111833875407"
@@ -3339,7 +3339,7 @@
         {
             "nombre": "Parque Fitness Roberto Centeno",
             "categoria": "ParqueFitness",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Parque Fitness Roberto Centeno.png",
             "coordX": "41.483516483516",
             "coordY": "50.963222416813"
@@ -3347,7 +3347,7 @@
         {
             "nombre": "Parque Los Monos",
             "categoria": "Parque",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Parque Los Monos.png",
             "coordX": "43.936420722135",
             "coordY": "46.910182636978"
@@ -3355,7 +3355,7 @@
         {
             "nombre": "Parque Francisco Morazán",
             "categoria": "Parque",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Parque Francisco Morazán.png",
             "coordX": "43.602825745683",
             "coordY": "48.261195896923"
@@ -3363,7 +3363,7 @@
         {
             "nombre": "Parque Rubén Darío",
             "categoria": "Parque",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Parque Rubén Darío.png",
             "coordX": "43.426216640502",
             "coordY": "50.512884663498"
@@ -3371,7 +3371,7 @@
         {
             "nombre": "Teatro Municipal",
             "categoria": "Teatro",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Teatro Municipal.png",
             "coordX": "45.211930926217",
             "coordY": "48.561421065799"
@@ -3379,7 +3379,7 @@
         {
             "nombre": "Centro Cultural Héroes y Martires",
             "categoria": "CentroCultural",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Centro Cultural Héroes y Martires.png",
             "coordX": "45.310047095761",
             "coordY": "49.96247185389"
@@ -3387,7 +3387,7 @@
         {
             "nombre": "Casa Antigua La Cumplida",
             "categoria": "CasasAntiguas",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Casas, Haciendas Antiguas.png",
             "coordX": "55.533751962323",
             "coordY": "23.942957217913"
@@ -3395,7 +3395,7 @@
         {
             "nombre": "Casa Antigua Las Escaleras 2",
             "categoria": "CasasAntiguas",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/Casas, Haciendas Antiguas.png",
             "coordX": "51.805337519623",
             "coordY": "23.267450587941"
@@ -3499,7 +3499,7 @@
         {
             "nombre": "",
             "categoria": "",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/.svg",
             "coordX": "",
             "coordY": ""
@@ -3507,7 +3507,7 @@
         {
             "nombre": "",
             "categoria": "",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/.svg",
             "coordX": "",
             "coordY": ""
@@ -3515,7 +3515,7 @@
         {
             "nombre": "",
             "categoria": "",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/.svg",
             "coordX": "",
             "coordY": ""
@@ -3523,7 +3523,7 @@
         {
             "nombre": "",
             "categoria": "",
-            "descripcion": "Placeholder",
+            "descripcion": "",
             "icono": "img/iconografias/Casco Urbano/.svg",
             "coordX": "",
             "coordY": ""
