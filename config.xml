@@ -41,6 +41,7 @@
         <preference name="ElectronSettingsFilePath" value="settings.json" />
         <preference name="AutoHideSplashScreen" value="true" />
         <preference name="ShowSplashScreen" value="false" />
+        <icon src="www/img/logo512.png" />
     </platform>
     
 </widget>
