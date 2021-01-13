@@ -587,6 +587,69 @@
             "rutaIcono": "img/iconografias/Casco Urbano/Red de Servicios.svg",
             "Nombre": "Red de Servicios",
             "Descripcion": ""
+        },
+        {
+            "Categoria": "Leyendas",
+            "shortName": "Leyendas",
+            "rutaIcono": "img/iconografias/Casco Urbano/Leyenda Bolas de Fuego.svg",
+            "Nombre": "Leyenda Bolas de Fuego",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Leyendas",
+            "shortName": "Leyendas",
+            "rutaIcono": "img/iconografias/Casco Urbano/Leyenda de Duendes.svg",
+            "Nombre": "Leyenda de Duendes",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Leyendas",
+            "shortName": "Leyendas",
+            "rutaIcono": "img/iconografias/Casco Urbano/Leyenda de la Cegua .svg",
+            "Nombre": "Leyenda de la Cegua",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Leyendas",
+            "shortName": "Leyendas",
+            "rutaIcono": "img/iconografias/Casco Urbano/Leyenda de la Mocuana.svg",
+            "Nombre": "Leyenda de la Mocuana",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Leyendas",
+            "shortName": "Leyendas",
+            "rutaIcono": "img/iconografias/Casco Urbano/Leyenda de la Serpiente del Cerro Apante Alt.svg",
+            "Nombre": "Leyenda de la Serpiente del Cerro Apante",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Leyendas",
+            "shortName": "Leyendas",
+            "rutaIcono": "img/iconografias/Casco Urbano/Leyenda de La Sirena.svg",
+            "Nombre": "Leyenda de la Sirena",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Leyendas",
+            "shortName": "Leyendas",
+            "rutaIcono": "img/iconografias/Casco Urbano/Leyenda del Cadejo Blanco y el Cadejo Negro.svg",
+            "Nombre": "Leyenda del Cadejo Blanco y el Cadejo Negro",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Leyendas",
+            "shortName": "Leyendas",
+            "rutaIcono": "img/iconografias/Casco Urbano/Leyenda del Sisimique.svg",
+            "Nombre": "Leyenda del Sisimique",
+            "Descripcion": ""
+        },
+        {
+            "Categoria": "Leyendas",
+            "shortName": "Leyendas",
+            "rutaIcono": "img/iconografias/Casco Urbano/Leyenda del Venado Encantado.svg",
+            "Nombre": "Leyenda del Venado Encantado",
+            "Descripcion": ""
         }
     ]
 }
