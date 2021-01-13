@@ -2187,7 +2187,7 @@
         {
             "nombre": "Conocimiento en Medicina Natural",
             "categoria": "ConocimientoenMedicinaNatural",
-            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Centro de gestion ambiental el roble el arenal/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Centro de gestion ambiental el roble el arenal/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Centro de gestion ambiental el roble el arenal/3.jpg'>",
+            "descripcion": "Conocimiento ancestral con mayor legado en las comunidades, Personas reconocidas por sus conocimientos en una gran variedad de plantas con propiedades medicinales, muchas de las cuales han convertido su conocimiento en pequeñas iniciativas y emprendimientos en medicina natural.",
             "icono": "img/iconografias/Oficios tradicionales y ancestrales/medicina natural.png",
             "coordX": "44.771434176967",
             "coordY": "21.325"
@@ -3251,7 +3251,7 @@
         {
             "nombre": "Centro de Gestion Ambiental El Roble",
             "categoria": "CentrodeGestionAmbiental",
-            "descripcion": "Placeholder",
+            "descripcion": "<img class='imageDescription' src='img/audiovisual/1era parte/Centro de gestion ambiental el roble el arenal/1.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Centro de gestion ambiental el roble el arenal/2.jpg'> <img class='imageDescription' src='img/audiovisual/1era parte/Centro de gestion ambiental el roble el arenal/3.jpg'>",
             "icono": "img/iconografias/Casco Urbano/Centro de Gestion Ambiental El Roble.png",
             "coordX": "50.313971742543",
             "coordY": "18.338754065549"
