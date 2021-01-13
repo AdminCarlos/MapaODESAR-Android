@@ -389,53 +389,38 @@ var zoomLevel = 0.2;
 
         }
 
-        $("#divLeyendas").slideDown();
+        $("#divLeyendas").css("width", "30%");
 
     }
 
     function closeLeyendas() {
 
-        $("#divLeyendas").slideUp();
+        $("#divLeyendas").css("width", "0%");
 
     }
 
     function openDescripcion(iconID) {
 
         
-        if (device.platform === "Android") {
+        $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: "scripts/lugares.json",
+            data: {},
+            cache: false,
+            success: function (data) {
 
-            $.ajax({
-                type: "POST",
-                dataType: "json",
-                url: "scripts/lugares.json",
-                data: {},
-                cache: false,
-                success: function (data) {
+                var array = data;
+                setDescription(iconID,array.lugares);
+            },
+            error: function () {
 
-                    var array = data;
-                    setDescription(iconID,array.lugares);
-                },
-                error: function () {
+                alert("error");
 
-                    alert("error");
+            }
+        })
 
-                }
-            })
-
-        }
-
-        else {
-
-            fetch('scripts/lugares.json')
-                .then((response) => response.json())
-                .then(function (array) {
-                    setDescription(iconID, array.lugares);
-                    parserLugares(array.lugares);
-                })
-
-        }
-
-        $("#divDescripcion").slideDown();
+        $("#divDescripcion").css("width", "30%");
         //console.log("Nombre del lugar: " + iconID + " Descripcion: " + placeDescription);
     }
 
@@ -456,7 +441,7 @@ var zoomLevel = 0.2;
 
     function closeDescription() {
 
-        $("#divDescripcion").slideUp();
+        $("#divDescripcion").css("width", "0%");
 
     }
 
@@ -498,58 +483,62 @@ var zoomLevel = 0.2;
 
     function putElementsOnMap() {
 
-        $(".mapIcon").remove();
+        if ($("#divContainerMapa").children().hasClass("divMapIcon") === false) {
+
+            console.log("Estoy vacio!");
+
+            if (device.platform === "Android") {
+
+                $.ajax({
+                    type: "POST",
+                    dataType: "json",
+                    url: "scripts/lugares.json",
+                    data: {},
+                    cache: false,
+                    success: function (data) {
         
-        if (device.platform === "Android") {
-
-            $.ajax({
-                type: "POST",
-                dataType: "json",
-                url: "scripts/lugares.json",
-                data: {},
-                cache: false,
-                success: function (data) {
-    
-                    /* try {
-    
-                        array = JSON.parse(data);
-    
+                        /* try {
+        
+                            array = JSON.parse(data);
+        
+                        }
+        
+                        catch(err) {
+        
+                            array = data;
+        
+                        } */
+        
+                        // for (var i = 0; i < array.lugares.length; i++) {
+        
+                        //     $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono + "' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
+                        //     $("#divContainerMapa").prepend("<span class='spanIcon' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 101'>" + array.lugares[i].nombre + "</span>");
+                        //     //$("#divContainerMapa").prepend("<div class='mapIconDiv' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; height='" + ((0.4 / 100) * $("#divContainerMapa").width()) + "' z-index: 100'><img class='mapIcon' src='" + array.lugares[i].icono + "'> </div>");
+                        //     console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
+                        //     console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
+                        // }
+                        parserLugares(data.lugares);
+        
+        
+                    },
+                    error: function () {
+        
+                        alert("error");
+        
                     }
-    
-                    catch(err) {
-    
-                        array = data;
-    
-                    } */
-    
-                    // for (var i = 0; i < array.lugares.length; i++) {
-    
-                    //     $("#divContainerMapa").prepend("<img class='mapIcon' src='" + array.lugares[i].icono + "' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 100'>");
-                    //     $("#divContainerMapa").prepend("<span class='spanIcon' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; z-index: 101'>" + array.lugares[i].nombre + "</span>");
-                    //     //$("#divContainerMapa").prepend("<div class='mapIconDiv' style='position: absolute; top: " + ((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()) + "px; left: " + ((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()) + "px; width: " + ((0.4 / 100) * $("#divContainerMapa").width()) + "%; height='" + ((0.4 / 100) * $("#divContainerMapa").width()) + "' z-index: 100'><img class='mapIcon' src='" + array.lugares[i].icono + "'> </div>");
-                    //     console.log(((array.lugares[i].coordY / 100) * $("#divContainerMapa").height()));
-                    //     console.log(((array.lugares[i].coordX / 100) * $("#divContainerMapa").width()));
-                    // }
-                    parserLugares(data.lugares);
-    
-    
-                },
-                error: function () {
-    
-                    alert("error");
-    
-                }
-            })
-
-        }
-
-        else {
-
-            fetch('scripts/lugares.json')
-                .then((response) => response.json())
-                .then(function (array) {
-                    parserLugares(array.lugares);
                 })
+    
+            }
+    
+            else {
+    
+                fetch('scripts/lugares.json')
+                    .then((response) => response.json())
+                    .then(function (array) {
+                        parserLugares(array.lugares);
+                    })
+    
+            }
 
         }
 
